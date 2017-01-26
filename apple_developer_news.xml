@@ -490,14 +490,6 @@
 <pubDate>Fri, 05 Feb 2016 10:30:00 PST</pubDate>
 <content:encoded><![CDATA[<p>In addition to providing a web interface for users to access the same data as your app, you can now easily read and write to the CloudKit public database from a server-side process or script with a server-to-server key. Learn more about generating a <a href="https://developer.apple.com/go/?id=cloudkit-server-to-server-key"><span class="nowrap">server-to-server key</span></a> and <a href="https://developer.apple.com/go/?id=cloudkit-composing-web-service-requests"><span class="nowrap">composing web service requests</span></a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Lower Price Tiers Available for Canada and New Zealand</title>
-<link>https://developer.apple.com/news/?id=01272016a</link>
-<guid>https://developer.apple.com/news/?id=01272016a</guid>
-<description>Lower price tiers, Alternate Tier A and Alternate Tier B, now let you offer paid apps and In-App Purchases at $0.99 (CAD) and $0.99 (NZD). Existing apps that already use these price tiers have been automatically updated. Get details on App Store pricing in the Pricing and Availability section of My Apps on iTunes Connect.</description>
-<pubDate>Wed, 27 Jan 2016 15:20:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Lower price tiers, Alternate Tier A and Alternate Tier B, now let you offer paid apps and In-App Purchases at <span class="nowrap">$0.99 (CAD)</span> and <span class="nowrap">$0.99 (NZD)</span>. Existing apps that already use these price tiers have been automatically updated. Get details on App Store pricing in the Pricing and Availability section of My Apps on <a href="https://itunesconnect.apple.com/"><span class="nowrap">iTunes Connect</span></a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
