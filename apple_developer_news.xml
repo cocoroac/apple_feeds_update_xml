@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 24 Jan 2017 14:50:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 30 Jan 2017 10:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>watchOS 3.2 beta (14V5205d) Now Available</title>
+<link>https://developer.apple.com/news/?id=01302017a</link>
+<guid>https://developer.apple.com/news/?id=01302017a</guid>
+<description>watchOS 3.2 beta (14V5205d) Now Available</description>
+<pubDate>Mon, 30 Jan 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[watchOS 3.2 beta (14V5205d) Now Available]]></content:encoded>
+</item>
 <item>
 <title>Allow Users to Provide Ratings From Within Your App </title>
 <link>https://developer.apple.com/news/?id=01242017c</link>
