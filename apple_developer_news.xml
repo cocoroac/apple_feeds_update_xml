@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 01 Feb 2017 16:50:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 06 Feb 2017 09:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available </title>
+<link>https://developer.apple.com/news/?id=02062017a</link>
+<guid>https://developer.apple.com/news/?id=02062017a</guid>
+<description>Xcode 8.3 beta 2 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.iOS 10.3 beta 2 (14E5239e)watchOS 3.2 beta 2 (14V5214d)tvOS 10.2 beta 2 (14W5231d)Xcode 8.3 beta 2 (8W120l)View all downloads.</description>
+<pubDate>Mon, 06 Feb 2017 09:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Xcode 8.3 beta 2 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>iOS 10.3 beta 2 (14E5239e)</li><li>watchOS 3.2 beta 2 (14V5214d)</li><li>tvOS 10.2 beta 2 (14W5231d)</li><li>Xcode 8.3 beta 2 (8W120l)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Updated Certificate for Game Center Authentication</title>
 <link>https://developer.apple.com/news/?id=02012017a</link>
@@ -17,14 +25,6 @@
 <description>On February 13, 2017, a new certificate for server-based Game Center Player ID verification will be available via the publicKeyUrl property of generateIdentityVerificationSignature, and the previous certificate will expire.Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. Learn more.</description>
 <pubDate>Wed, 01 Feb 2017 16:50:00 PST</pubDate>
 <content:encoded><![CDATA[<p>On February 13, 2017, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of <span class="nowrap"><a href="https://developer.apple.com/reference/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. <span class="nowrap"><a href="https://forums.developer.apple.com/message/209278#209278">Learn more</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>watchOS 3.2 beta (14V5205d) Now Available</title>
-<link>https://developer.apple.com/news/?id=01302017a</link>
-<guid>https://developer.apple.com/news/?id=01302017a</guid>
-<description>watchOS 3.2 beta (14V5205d) Now Available</description>
-<pubDate>Mon, 30 Jan 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[watchOS 3.2 beta (14V5205d) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Allow Users to Provide Ratings From Within Your App </title>
@@ -41,14 +41,6 @@
 <description>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
 <pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available </title>
-<link>https://developer.apple.com/news/?id=01242017a</link>
-<guid>https://developer.apple.com/news/?id=01242017a</guid>
-<description>Xcode 8.3 beta is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.4 beta (16E144f)iOS 10.3 beta (14E5230e)tvOS 10.2 beta (14W5222d)Xcode 8.3 beta (8W109m)View all downloads.</description>
-<pubDate>Tue, 24 Jan 2017 09:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Xcode 8.3 beta is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.4 beta (16E144f)</li><li>iOS 10.3 beta (14E5230e)</li><li>tvOS 10.2 beta (14W5222d)</li><li>Xcode 8.3 beta (8W109m)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>New Downloads Now Available </title>
@@ -339,14 +331,6 @@
 <content:encoded><![CDATA[<p>We’ve rewritten the App Review Guidelines to be more helpful, provide more context, and incorporate the guidelines for Mac apps.  We hope these updates will help your app sail through App Review. While the guidelines themselves haven’t changed, the previous App Store and Mac App Store Review Guidelines will remain available for apps currently in the review process.   <span class="nowrap"><a href="https://developer.apple.com/app-store/review/guidelines/">View the new App Store Review Guidelines</a></span>.</p>]]></content:encoded>
 </item>
 <item>
-<title>See What’s Next</title>
-<link>https://developer.apple.com/news/?id=06132016b</link>
-<guid>https://developer.apple.com/news/?id=06132016b</guid>
-<description>The new beta of Xcode 8 is now available, and includes Swift 3 and SDKs that you can use to build apps for the next version of macOS, iOS, watchOS, and tvOS. Learn about new innovations in Apple platforms and how you can take advantage of them in your apps. Download the new betas.</description>
-<pubDate>Mon, 13 Jun 2016 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The new beta of Xcode 8 is now available, and includes Swift 3 and SDKs that you can use to build apps for the next version of macOS, iOS, watchOS, and tvOS. Learn about new innovations in Apple platforms and how you can take advantage of them in your apps. <a href="https://developer.apple.com/download/">Download the new betas</a>.</p>]]></content:encoded>
-</item>
-<item>
 <title>WWDC16. Now Live Streaming</title>
 <link>https://developer.apple.com/news/?id=06132016a</link>
 <guid>https://developer.apple.com/news/?id=06132016a</guid>
@@ -441,14 +425,6 @@
 <description>You can now access Resolution Center from your iPhone or iPad to review and respond to your active threads, and easily forward threads to other members of your team. You can also opt in to receive a push notification whenever App Review sends you a new message.  Visit the App Store for the latest update. </description>
 <pubDate>Tue, 29 Mar 2016 11:30:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now access Resolution Center from your iPhone or iPad to review and respond to your active threads, and easily forward threads to other members of your team. You can also opt in to receive a push notification whenever App Review sends you a new message.  <span class="nowrap"><a href="https://itunes.apple.com/us/app/itunes-connect/id376771144?mt=8">Visit the App Store for the latest update</a></span>. </p>]]></content:encoded>
-</item>
-<item>
-<title>Xcode 7.3 Now Available</title>
-<link>https://developer.apple.com/news/?id=03212016a</link>
-<guid>https://developer.apple.com/news/?id=03212016a</guid>
-<description>The latest versions of iOS, OS X, watchOS, and tvOS are now available to hundreds of millions of customers around the world. Submit your apps built with Xcode 7.3, which is available for download on the Mac App Store and includes the most recent SDKs. For downloads and details on guidelines, testing, and submitting, visit  Prepare your apps for the App Store. </description>
-<pubDate>Mon, 21 Mar 2016 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The latest versions of iOS, OS X, watchOS, and tvOS are now available to hundreds of millions of customers around the world. Submit your apps built with Xcode 7.3, which is available for download on the Mac App Store and includes the most recent SDKs. For downloads and details on guidelines, testing, and submitting, visit  <span class="nowrap"><a href="https://developer.apple.com/app-store/submit/">Prepare your apps for the App Store</a></span>. </p>]]></content:encoded>
 </item>
 <item>
 <title>App Analytics Weekly Summary Email  Now Available </title>
