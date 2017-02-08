@@ -474,14 +474,6 @@
 <pubDate>Wed, 17 Feb 2016 09:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Showcase your tvOS app in action by bringing its features and functionality alive with a short video on the App Store for <span class="nowrap">Apple TV</span>. By providing an app preview, you can help customers better understand your app and encourage more downloads. <a href="https://developer.apple.com/app-store/app-previews/">Learn more about <span class="nowrap">app previews</span></a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Download and Install the Renewed Intermediate Certificate</title>
-<link>https://developer.apple.com/news/?id=02092016a</link>
-<guid>https://developer.apple.com/news/?id=02092016a</guid>
-<description>Starting February 14, the renewed Apple Worldwide Developer Relations Intermediate certificate must be included when signing all new Apple Wallet Passes, push packages for Safari Push Notifications, and Safari Extensions. While most developers and users will not be affected by the certificate change, we recommend that all developers download and install the renewed certificate on their development systems and servers as a best practice. Learn more.</description>
-<pubDate>Tue, 09 Feb 2016 13:30:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Starting February 14, the renewed Apple Worldwide Developer Relations Intermediate certificate must be included when signing all new Apple Wallet Passes, push packages for Safari Push Notifications, and Safari Extensions. While most developers and users will not be affected by the certificate change, we recommend that all developers download and install the renewed certificate on their development systems and servers as a best practice. <a href="https://developer.apple.com/support/certificates/expiration/"><span class="nowrap">Learn more.</span></a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
