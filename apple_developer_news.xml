@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 16 Feb 2017 06:03:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 20 Feb 2017 09:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available </title>
+<link>https://developer.apple.com/news/?id=02202017a</link>
+<guid>https://developer.apple.com/news/?id=02202017a</guid>
+<description>Xcode 8.3 beta 3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS 10.12.4 beta 3 (16E163f)iOS 10.3 beta 3 (14E5249d)watchOS 3.2 beta 3 (14V5224d)tvOS 10.2 beta 3 (14W5241c)Xcode 8.3 beta 3 (8W132p)View all downloads.</description>
+<pubDate>Mon, 20 Feb 2017 09:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Xcode 8.3 beta 3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS 10.12.4 beta 3 (16E163f)</li><li>iOS 10.3 beta 3 (14E5249d)</li><li>watchOS 3.2 beta 3 (14V5224d)</li><li>tvOS 10.2 beta 3 (14W5241c)</li><li>Xcode 8.3 beta 3 (8W132p)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Announcing WWDC 2017</title>
 <link>https://developer.apple.com/news/?id=02152017a</link>
@@ -25,22 +33,6 @@
 <description>Super Evil Megacorp, the developer behind the mobile-first multiplayer game Vainglory, shares its approach to community management, and how it evolves the game by listening to player feedback. Learn more.</description>
 <pubDate>Wed, 15 Feb 2017 11:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Super Evil Megacorp, the developer behind the mobile-first multiplayer game Vainglory, shares its approach to community management, and how it evolves the game by listening to player feedback. <span class="nowrap"><a href="https://developer.apple.com/app-store/super-evil-megacorp/">Learn more</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>macOS Sierra 10.12.4 beta 2 (16E154a) Now Available</title>
-<link>https://developer.apple.com/news/?id=02072017a</link>
-<guid>https://developer.apple.com/news/?id=02072017a</guid>
-<description>macOS Sierra 10.12.4 beta 2 (16E154a) Now Available</description>
-<pubDate>Tue, 07 Feb 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 2 (16E154a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available </title>
-<link>https://developer.apple.com/news/?id=02062017a</link>
-<guid>https://developer.apple.com/news/?id=02062017a</guid>
-<description>Xcode 8.3 beta 2 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.iOS 10.3 beta 2 (14E5239e)watchOS 3.2 beta 2 (14V5214d)tvOS 10.2 beta 2 (14W5231d)Xcode 8.3 beta 2 (8W120l)View all downloads.</description>
-<pubDate>Mon, 06 Feb 2017 09:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Xcode 8.3 beta 2 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>iOS 10.3 beta 2 (14E5239e)</li><li>watchOS 3.2 beta 2 (14V5214d)</li><li>tvOS 10.2 beta 2 (14W5231d)</li><li>Xcode 8.3 beta 2 (8W120l)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Updated Certificate for Game Center Authentication</title>
