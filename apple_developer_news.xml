@@ -458,14 +458,6 @@
 <pubDate>Thu, 25 Feb 2016 15:15:00 PST</pubDate>
 <content:encoded><![CDATA[<p>In addition to testing your apps on GM versions of software, you can also use TestFlight for internal and external testing of your apps running on beta 3 or beta 4 of iOS 9.3 and watchOS 2.2. Internal testing of tvOS 9.2 beta 3 or beta 4 is also supported.  <span class="nowrap"><a href="https://developer.apple.com/testflight/">Learn more about TestFlight beta testing</a></span>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Apple TV Tech Talk Videos Now Available</title>
-<link>https://developer.apple.com/news/?id=02242016a</link>
-<guid>https://developer.apple.com/news/?id=02242016a</guid>
-<description>Over the past few months, developers around the world learned how to design and develop apps and games for Apple TV directly from Apple experts. Now you can share in the experience by watching all the session videos from the Apple TV Tech Talks.  Watch the session videos.</description>
-<pubDate>Wed, 24 Feb 2016 14:55:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Over the past few months, developers around the world learned how to design and develop apps and games for Apple TV directly from Apple experts. Now you can share in the experience by watching all the session videos from the Apple TV Tech Talks.  <a href="https://developer.apple.com/videos/techtalks-apple-tv/">Watch the session videos</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
