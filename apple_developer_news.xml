@@ -450,14 +450,6 @@
 <pubDate>Wed, 09 Mar 2016 12:40:00 PST</pubDate>
 <content:encoded><![CDATA[<p>You can now opt in to receive a weekly App Analytics summary email for your most frequently downloaded apps. It will include data on App Store views, App Units, Sales, Sessions, and Crashes. To receive the App Analytics summary email, opt in by visiting the Notifications section of Users and Roles in  <span class="nowrap"><a href="https://itunesconnect.apple.com/">iTunes Connect</a></span>. </p>]]></content:encoded>
 </item>
-<item>
-<title>Test Your Apps on the Latest Beta of iOS, watchOS, and tvOS with TestFlight.</title>
-<link>https://developer.apple.com/news/?id=02252016a</link>
-<guid>https://developer.apple.com/news/?id=02252016a</guid>
-<description>In addition to testing your apps on GM versions of software, you can also use TestFlight for internal and external testing of your apps running on beta 3 or beta 4 of iOS 9.3 and watchOS 2.2. Internal testing of tvOS 9.2 beta 3 or beta 4 is also supported.  Learn more about TestFlight beta testing.</description>
-<pubDate>Thu, 25 Feb 2016 15:15:00 PST</pubDate>
-<content:encoded><![CDATA[<p>In addition to testing your apps on GM versions of software, you can also use TestFlight for internal and external testing of your apps running on beta 3 or beta 4 of iOS 9.3 and watchOS 2.2. Internal testing of tvOS 9.2 beta 3 or beta 4 is also supported.  <span class="nowrap"><a href="https://developer.apple.com/testflight/">Learn more about TestFlight beta testing</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
