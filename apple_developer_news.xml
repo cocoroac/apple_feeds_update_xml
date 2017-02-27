@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 20 Feb 2017 09:00:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 27 Feb 2017 10:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>macOS Sierra 10.12.4 beta 4 (16E175b) Now Available</title>
+<link>https://developer.apple.com/news/?id=02272017b</link>
+<guid>https://developer.apple.com/news/?id=02272017b</guid>
+<description>macOS Sierra 10.12.4 beta 4 (16E175b) Now Available</description>
+<pubDate>Mon, 27 Feb 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 4 (16E175b) Now Available]]></content:encoded>
+</item>
+<item>
+<title>iOS 10.3 beta 4 (14E5260b) Now Available</title>
+<link>https://developer.apple.com/news/?id=02272017a</link>
+<guid>https://developer.apple.com/news/?id=02272017a</guid>
+<description>iOS 10.3 beta 4 (14E5260b) Now Available</description>
+<pubDate>Mon, 27 Feb 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[iOS 10.3 beta 4 (14E5260b) Now Available]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available </title>
 <link>https://developer.apple.com/news/?id=02202017a</link>
@@ -57,14 +73,6 @@
 <description>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
 <pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available </title>
-<link>https://developer.apple.com/news/?id=01232017a</link>
-<guid>https://developer.apple.com/news/?id=01232017a</guid>
-<description>New downloads are now available that you can use to test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.3 (16D32)iOS 10.2.1 (14D27)watchOS 3.1.3 (14S960)tvOS 10.1.1 (14U712a)View all downloads.</description>
-<pubDate>Mon, 23 Jan 2017 09:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>New downloads are now available that you can use to test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.3 (16D32)</li><li>iOS 10.2.1 (14D27)</li><li>watchOS 3.1.3 (14S960)</li><li>tvOS 10.1.1 (14U712a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Design Resources for iOS Apps Now Available</title>
