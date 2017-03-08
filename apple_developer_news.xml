@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 07 Mar 2017 10:00:00 PST</lastBuildDate>
+<lastBuildDate>Wed, 08 Mar 2017 09:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available </title>
+<link>https://developer.apple.com/news/?id=03082017a</link>
+<guid>https://developer.apple.com/news/?id=03082017a</guid>
+<description>Xcode 8.3 beta 4 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.iOS 10.3 beta 5 (14E5269a)watchOS 3.2 beta 5 (14V5243a)tvOS 10.2 beta 5 (14W5260a)Xcode 8.3 beta 4 (8W143q)View all downloads.</description>
+<pubDate>Wed, 08 Mar 2017 09:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Xcode 8.3 beta 4 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>iOS 10.3 beta 5 (14E5269a)</li><li>watchOS 3.2 beta 5 (14V5243a)</li><li>tvOS 10.2 beta 5 (14W5260a)</li><li>Xcode 8.3 beta 4 (8W143q)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>macOS Sierra 10.12.4 beta 5 (16E183b) Now Available</title>
 <link>https://developer.apple.com/news/?id=03072017b</link>
@@ -33,38 +41,6 @@
 <description>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.Learn more about WWDC Scholarships.</description>
 <pubDate>Mon, 06 Mar 2017 10:35:00 PST</pubDate>
 <content:encoded><![CDATA[<p>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.</p><p><a href="https://developer.apple.com/wwdc/scholarships/">Learn more about WWDC Scholarships.</a></p>]]></content:encoded>
-</item>
-<item>
-<title>tvOS 10.2 beta 4 (14W5252c) Now Available</title>
-<link>https://developer.apple.com/news/?id=02282017a</link>
-<guid>https://developer.apple.com/news/?id=02282017a</guid>
-<description>tvOS 10.2 beta 4 (14W5252c) Now Available</description>
-<pubDate>Tue, 28 Feb 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[tvOS 10.2 beta 4 (14W5252c) Now Available]]></content:encoded>
-</item>
-<item>
-<title>watchOS 3.2 beta 4 (14V5235b) Now Available</title>
-<link>https://developer.apple.com/news/?id=02272017c</link>
-<guid>https://developer.apple.com/news/?id=02272017c</guid>
-<description>watchOS 3.2 beta 4 (14V5235b) Now Available</description>
-<pubDate>Mon, 27 Feb 2017 14:00:00 PST</pubDate>
-<content:encoded><![CDATA[watchOS 3.2 beta 4 (14V5235b) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3 beta 4 (14E5260b) Now Available</title>
-<link>https://developer.apple.com/news/?id=02272017a</link>
-<guid>https://developer.apple.com/news/?id=02272017a</guid>
-<description>iOS 10.3 beta 4 (14E5260b) Now Available</description>
-<pubDate>Mon, 27 Feb 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[iOS 10.3 beta 4 (14E5260b) Now Available]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available </title>
-<link>https://developer.apple.com/news/?id=02202017a</link>
-<guid>https://developer.apple.com/news/?id=02202017a</guid>
-<description>Xcode 8.3 beta 3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS 10.12.4 beta 3 (16E163f)iOS 10.3 beta 3 (14E5249d)watchOS 3.2 beta 3 (14V5224d)tvOS 10.2 beta 3 (14W5241c)Xcode 8.3 beta 3 (8W132p)View all downloads.</description>
-<pubDate>Mon, 20 Feb 2017 09:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Xcode 8.3 beta 3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS 10.12.4 beta 3 (16E163f)</li><li>iOS 10.3 beta 3 (14E5249d)</li><li>watchOS 3.2 beta 3 (14V5224d)</li><li>tvOS 10.2 beta 3 (14W5241c)</li><li>Xcode 8.3 beta 3 (8W132p)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Announcing WWDC 2017</title>
