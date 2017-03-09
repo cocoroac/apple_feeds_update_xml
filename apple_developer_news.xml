@@ -458,14 +458,6 @@
 <pubDate>Tue, 29 Mar 2016 11:30:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now access Resolution Center from your iPhone or iPad to review and respond to your active threads, and easily forward threads to other members of your team. You can also opt in to receive a push notification whenever App Review sends you a new message.  <span class="nowrap"><a href="https://itunes.apple.com/us/app/itunes-connect/id376771144?mt=8">Visit the App Store for the latest update</a></span>. </p>]]></content:encoded>
 </item>
-<item>
-<title>App Analytics Weekly Summary Email  Now Available </title>
-<link>https://developer.apple.com/news/?id=03092016a</link>
-<guid>https://developer.apple.com/news/?id=03092016a</guid>
-<description>You can now opt in to receive a weekly App Analytics summary email for your most frequently downloaded apps. It will include data on App Store views, App Units, Sales, Sessions, and Crashes. To receive the App Analytics summary email, opt in by visiting the Notifications section of Users and Roles in  iTunes Connect. </description>
-<pubDate>Wed, 09 Mar 2016 12:40:00 PST</pubDate>
-<content:encoded><![CDATA[<p>You can now opt in to receive a weekly App Analytics summary email for your most frequently downloaded apps. It will include data on App Store views, App Units, Sales, Sessions, and Crashes. To receive the App Analytics summary email, opt in by visiting the Notifications section of Users and Roles in  <span class="nowrap"><a href="https://itunesconnect.apple.com/">iTunes Connect</a></span>. </p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
