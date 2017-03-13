@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 08 Mar 2017 09:00:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 13 Mar 2017 11:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>macOS Sierra 10.12.4 beta 6 (16E189a) Now Available</title>
+<link>https://developer.apple.com/news/?id=03132017b</link>
+<guid>https://developer.apple.com/news/?id=03132017b</guid>
+<description>macOS Sierra 10.12.4 beta 6 (16E189a) Now Available</description>
+<pubDate>Mon, 13 Mar 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 6 (16E189a) Now Available]]></content:encoded>
+</item>
+<item>
+<title>iOS 10.3 beta 6 (14E5273a) Now Available</title>
+<link>https://developer.apple.com/news/?id=03132017a</link>
+<guid>https://developer.apple.com/news/?id=03132017a</guid>
+<description>iOS 10.3 beta 6 (14E5273a) Now Available</description>
+<pubDate>Mon, 13 Mar 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 10.3 beta 6 (14E5273a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available </title>
 <link>https://developer.apple.com/news/?id=03082017a</link>
@@ -17,14 +33,6 @@
 <description>Xcode 8.3 beta 4 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.iOS 10.3 beta 5 (14E5269a)watchOS 3.2 beta 5 (14V5243a)tvOS 10.2 beta 5 (14W5260a)Xcode 8.3 beta 4 (8W143q)View all downloads.</description>
 <pubDate>Wed, 08 Mar 2017 09:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Xcode 8.3 beta 4 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>iOS 10.3 beta 5 (14E5269a)</li><li>watchOS 3.2 beta 5 (14V5243a)</li><li>tvOS 10.2 beta 5 (14W5260a)</li><li>Xcode 8.3 beta 4 (8W143q)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>macOS Sierra 10.12.4 beta 5 (16E183b) Now Available</title>
-<link>https://developer.apple.com/news/?id=03072017b</link>
-<guid>https://developer.apple.com/news/?id=03072017b</guid>
-<description>macOS Sierra 10.12.4 beta 5 (16E183b) Now Available</description>
-<pubDate>Tue, 07 Mar 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 5 (16E183b) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Apple Pay Has Expanded to Ireland</title>
