@@ -6,17 +6,25 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 16 Mar 2017 11:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 20 Mar 2017 11:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
 <item>
-<title>macOS Sierra 10.12.4 beta 7 (16E191a) Now Available</title>
-<link>https://developer.apple.com/news/?id=03162017b</link>
-<guid>https://developer.apple.com/news/?id=03162017b</guid>
-<description>macOS Sierra 10.12.4 beta 7 (16E191a) Now Available</description>
-<pubDate>Thu, 16 Mar 2017 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 7 (16E191a) Now Available]]></content:encoded>
+<title>macOS Sierra 10.12.4 beta 8 (16E192b) Now Available</title>
+<link>https://developer.apple.com/news/?id=03202017b</link>
+<guid>https://developer.apple.com/news/?id=03202017b</guid>
+<description>macOS Sierra 10.12.4 beta 8 (16E192b) Now Available</description>
+<pubDate>Mon, 20 Mar 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[macOS Sierra 10.12.4 beta 8 (16E192b) Now Available]]></content:encoded>
+</item>
+<item>
+<title>watchOS 3.2 beta 7 (14V5249a) Now Available</title>
+<link>https://developer.apple.com/news/?id=03202017a</link>
+<guid>https://developer.apple.com/news/?id=03202017a</guid>
+<description>watchOS 3.2 beta 7 (14V5249a) Now Available</description>
+<pubDate>Mon, 20 Mar 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[watchOS 3.2 beta 7 (14V5249a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>iOS 10.3 beta 7 (14E5277a) Now Available</title>
@@ -33,14 +41,6 @@
 <description>tvOS 10.2 beta 6 (14W5264a) Now Available</description>
 <pubDate>Tue, 14 Mar 2017 11:00:00 PDT</pubDate>
 <content:encoded><![CDATA[tvOS 10.2 beta 6 (14W5264a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>watchOS 3.2 beta 6 (14V5245a) Now Available</title>
-<link>https://developer.apple.com/news/?id=03142017a</link>
-<guid>https://developer.apple.com/news/?id=03142017a</guid>
-<description>watchOS 3.2 beta 6 (14V5245a) Now Available</description>
-<pubDate>Tue, 14 Mar 2017 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[watchOS 3.2 beta 6 (14V5245a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Apple Pay Has Expanded to Ireland</title>
