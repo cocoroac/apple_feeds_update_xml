@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 27 Mar 2017 16:20:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 28 Mar 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=03282017a</link>
+<guid>https://developer.apple.com/news/?id=03282017a</guid>
+<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta (16F43c)iOS 10.3.2 beta (14F5065b)watchOS 3.2.2 beta (14V5465b)tvOS 10.2.1 beta (14W5563b)View all downloads.</description>
+<pubDate>Tue, 28 Mar 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta (16F43c)</li><li>iOS 10.3.2 beta (14F5065b)</li><li>watchOS 3.2.2 beta (14V5465b)</li><li>tvOS 10.2.1 beta (14W5563b)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Ratings, Reviews, and Responses on the App Store</title>
 <link>https://developer.apple.com/news/?id=03272017c</link>
