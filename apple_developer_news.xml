@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 28 Mar 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 28 Mar 2017 18:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Apple Pay Has Expanded to Taiwan</title>
+<link>https://developer.apple.com/news/?id=03282017b</link>
+<guid>https://developer.apple.com/news/?id=03282017b</guid>
+<description>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.Learn more about Apple Pay.</description>
+<pubDate>Tue, 28 Mar 2017 18:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=03282017a</link>
