@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 28 Mar 2017 18:00:00 PDT</lastBuildDate>
+<lastBuildDate>Thu, 30 Mar 2017 15:50:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>SAP Cloud Platform SDK for iOS Now Available</title>
+<link>https://developer.apple.com/news/?id=03302017a</link>
+<guid>https://developer.apple.com/news/?id=03302017a</guid>
+<description>Apple and SAP are working together to make it easier than ever to reinvent business processes and workflows everywhere. With the new SAP Cloud Platform SDK for iOS, you can build powerful native iOS apps that integrate seamlessly with the SAP Cloud Platform. Learn more about the SDK.</description>
+<pubDate>Thu, 30 Mar 2017 15:50:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Apple and SAP are working together to make it easier than ever to reinvent business processes and workflows everywhere. With the new SAP Cloud Platform SDK for iOS, you can build powerful native iOS apps that integrate seamlessly with the SAP Cloud Platform.</p><p> <a href="https://developer.apple.com/sap/">Learn more about the SDK</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Apple Pay Has Expanded to Taiwan</title>
 <link>https://developer.apple.com/news/?id=03282017b</link>
