@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 30 Mar 2017 15:50:00 PDT</lastBuildDate>
+<lastBuildDate>Fri, 31 Mar 2017 07:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Announcing App Accelerator Bengaluru</title>
+<link>https://developer.apple.com/news/?id=03312017a</link>
+<guid>https://developer.apple.com/news/?id=03312017a</guid>
+<description>The new App Accelerator provides a unique opportunity to get inspired by learning about the latest advances in iOS, watchOS, tvOS, and macOS—directly from Apple experts in Bengaluru, India. Throughout the year, local developers can attend presentations on the capabilities of Apple platforms, explore best practices for optimizing apps, and learn more about designing high-quality apps for Apple platforms. Learn more about the App Accelerator.</description>
+<pubDate>Fri, 31 Mar 2017 07:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The new App Accelerator provides a unique opportunity to get inspired by learning about the latest advances in iOS, watchOS, tvOS, and macOS—directly from Apple experts in Bengaluru, India. Throughout the year, local developers can attend presentations on the capabilities of Apple platforms, explore best practices for optimizing apps, and learn more about designing high-quality apps for Apple platforms.</p><p> <a href="https://developer.apple.com/accelerator/">Learn more about the App Accelerator</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>SAP Cloud Platform SDK for iOS Now Available</title>
 <link>https://developer.apple.com/news/?id=03302017a</link>
