@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 31 Mar 2017 07:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 03 Apr 2017 11:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>iOS 10.3.1 (14E304) Now Available</title>
+<link>https://developer.apple.com/news/?id=04032017a</link>
+<guid>https://developer.apple.com/news/?id=04032017a</guid>
+<description>iOS 10.3.1 (14E304) Now Available</description>
+<pubDate>Mon, 03 Apr 2017 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 10.3.1 (14E304) Now Available]]></content:encoded>
+</item>
 <item>
 <title>Announcing App Accelerator Bengaluru</title>
 <link>https://developer.apple.com/news/?id=03312017a</link>
