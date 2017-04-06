@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 03 Apr 2017 11:00:00 PDT</lastBuildDate>
+<lastBuildDate>Thu, 06 Apr 2017 14:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Xcode 8.3.1 (8E1000a) Now Available</title>
+<link>https://developer.apple.com/news/?id=04062017a</link>
+<guid>https://developer.apple.com/news/?id=04062017a</guid>
+<description>Xcode 8.3.1 (8E1000a) Now Available</description>
+<pubDate>Thu, 06 Apr 2017 14:00:00 PDT</pubDate>
+<content:encoded><![CDATA[Xcode 8.3.1 (8E1000a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>iOS 10.3.1 (14E304) Now Available</title>
 <link>https://developer.apple.com/news/?id=04032017a</link>
