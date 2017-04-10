@@ -6,10 +6,42 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 06 Apr 2017 14:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 10 Apr 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>macOS Sierra 10.12.5 beta 2 (16F54b) Now Available</title>
+<link>https://developer.apple.com/news/?id=04102017d</link>
+<guid>https://developer.apple.com/news/?id=04102017d</guid>
+<description>macOS Sierra 10.12.5 beta 2 (16F54b) Now Available</description>
+<pubDate>Mon, 10 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[macOS Sierra 10.12.5 beta 2 (16F54b) Now Available]]></content:encoded>
+</item>
+<item>
+<title>iOS 10.3.2 beta 2 (14F5075a) Now Available</title>
+<link>https://developer.apple.com/news/?id=04102017c</link>
+<guid>https://developer.apple.com/news/?id=04102017c</guid>
+<description>iOS 10.3.2 beta 2 (14F5075a) Now Available</description>
+<pubDate>Mon, 10 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 10.3.2 beta 2 (14F5075a) Now Available]]></content:encoded>
+</item>
+<item>
+<title>watchOS 3.2.2 beta 2 (14V5475a) Now Available</title>
+<link>https://developer.apple.com/news/?id=04102017b</link>
+<guid>https://developer.apple.com/news/?id=04102017b</guid>
+<description>watchOS 3.2.2 beta 2 (14V5475a) Now Available</description>
+<pubDate>Mon, 10 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[watchOS 3.2.2 beta 2 (14V5475a) Now Available]]></content:encoded>
+</item>
+<item>
+<title>tvOS 10.2.1 beta 2 (14W5573a) Now Available</title>
+<link>https://developer.apple.com/news/?id=04102017a</link>
+<guid>https://developer.apple.com/news/?id=04102017a</guid>
+<description>tvOS 10.2.1 beta 2 (14W5573a) Now Available</description>
+<pubDate>Mon, 10 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[tvOS 10.2.1 beta 2 (14W5573a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>Xcode 8.3.1 (8E1000a) Now Available</title>
 <link>https://developer.apple.com/news/?id=04062017a</link>
@@ -17,14 +49,6 @@
 <description>Xcode 8.3.1 (8E1000a) Now Available</description>
 <pubDate>Thu, 06 Apr 2017 14:00:00 PDT</pubDate>
 <content:encoded><![CDATA[Xcode 8.3.1 (8E1000a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3.1 (14E304) Now Available</title>
-<link>https://developer.apple.com/news/?id=04032017a</link>
-<guid>https://developer.apple.com/news/?id=04032017a</guid>
-<description>iOS 10.3.1 (14E304) Now Available</description>
-<pubDate>Mon, 03 Apr 2017 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 10.3.1 (14E304) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Announcing App Accelerator Bengaluru</title>
@@ -51,28 +75,12 @@
 <content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
 </item>
 <item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=03282017a</link>
-<guid>https://developer.apple.com/news/?id=03282017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta (16F43c)iOS 10.3.2 beta (14F5065b)watchOS 3.2.2 beta (14V5465b)tvOS 10.2.1 beta (14W5563b)View all downloads.</description>
-<pubDate>Tue, 28 Mar 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta (16F43c)</li><li>iOS 10.3.2 beta (14F5065b)</li><li>watchOS 3.2.2 beta (14V5465b)</li><li>tvOS 10.2.1 beta (14W5563b)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
 <title>Ratings, Reviews, and Responses on the App Store</title>
 <link>https://developer.apple.com/news/?id=03272017c</link>
 <guid>https://developer.apple.com/news/?id=03272017c</guid>
 <description>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.In-App Ratings and ReviewsThe new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.Responding to CustomersYou can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback. Learn more about Ratings and Reviews.</description>
 <pubDate>Mon, 27 Mar 2017 16:20:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.</p><p><b>In-App Ratings and Reviews</b><br>The new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.</p><p><b>Responding to Customers</b><br>You can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback.</p><p> <a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn more about Ratings and Reviews</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=03272017b</link>
-<guid>https://developer.apple.com/news/?id=03272017b</guid>
-<description>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.4 (16E195)iOS 10.3 (14E277)watchOS 3.2 (14V249)tvOS 10.2 (14W265)Xcode 8.3 (8E162)View all downloads.</description>
-<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.4 (16E195)</li><li>iOS 10.3 (14E277)</li><li>watchOS 3.2 (14V249)</li><li>tvOS 10.2 (14W265)</li><li>Xcode 8.3 (8E162)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>WWDC 2017 Registration Now Open</title>
