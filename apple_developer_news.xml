@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 17 Apr 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 18 Apr 2017 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Xcode 8.3.2 (8E2002) Now Available</title>
+<link>https://developer.apple.com/news/?id=04182017a</link>
+<guid>https://developer.apple.com/news/?id=04182017a</guid>
+<description>Xcode 8.3.2 (8E2002) Now Available</description>
+<pubDate>Tue, 18 Apr 2017 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[Xcode 8.3.2 (8E2002) Now Available]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=04172017a</link>
