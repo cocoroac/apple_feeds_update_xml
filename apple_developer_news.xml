@@ -506,14 +506,6 @@
 <pubDate>Thu, 28 Apr 2016 15:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can use the CareKit framework to develop apps that help people better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more. CareKit is open source so, in addition to creating great personal care apps, you can collaborate with other developers and the medical community to make CareKit even better.  To download a sample app and learn more, <span class="nowrap"><a href="http://www.carekit.org/">visit CareKit.org</a></span>.</p></p>]]></content:encoded>
 </item>
-<item>
-<title>Upcoming Requirement for watchOS Apps</title>
-<link>https://developer.apple.com/news/?id=04222016a</link>
-<guid>https://developer.apple.com/news/?id=04222016a</guid>
-<description>Starting June 1, 2016, all new watchOS apps submitted to the App Store must be native apps built with the watchOS 2 SDK or later. Learn more about developing for watchOS. </description>
-<pubDate>Fri, 22 Apr 2016 15:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Starting June 1, 2016, all new watchOS apps submitted to the <span class="nowrap">App Store</span> must be native apps built with the watchOS 2 SDK or later. <span class="nowrap"><a href="https://developer.apple.com/watchos/">Learn more about developing for watchOS</a></span>. </p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
