@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 20 Apr 2017 11:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 24 Apr 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=04242017a</link>
+<guid>https://developer.apple.com/news/?id=04242017a</guid>
+<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta 4 (16F67a)iOS 10.3.2 beta 4 (14F5086a)watchOS 3.2.2 beta 4 (14V5485a)tvOS 10.2.1 beta 4 (14W5583a)View all downloads.</description>
+<pubDate>Mon, 24 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta 4 (16F67a)</li><li>iOS 10.3.2 beta 4 (14F5086a)</li><li>watchOS 3.2.2 beta 4 (14V5485a)</li><li>tvOS 10.2.1 beta 4 (14W5583a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Introducing LivePhotosKit JS </title>
 <link>https://developer.apple.com/news/?id=04202017a</link>
