@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 24 Apr 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Thu, 27 Apr 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>iOS 10.3.2 beta 5 (14F5089a) Now Available</title>
+<link>https://developer.apple.com/news/?id=04282017a</link>
+<guid>https://developer.apple.com/news/?id=04282017a</guid>
+<description>iOS 10.3.2 beta 5 (14F5089a) Now Available</description>
+<pubDate>Thu, 27 Apr 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 10.3.2 beta 5 (14F5089a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=04242017a</link>
@@ -43,14 +51,6 @@
 <content:encoded><![CDATA[Xcode 8.3.2 (8E2002) Now Available]]></content:encoded>
 </item>
 <item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=04172017a</link>
-<guid>https://developer.apple.com/news/?id=04172017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta 3 (16F60a)iOS 10.3.2 beta 3 (14F5080a)watchOS 3.2.2 beta 3 (14V5480a)tvOS 10.2.1 beta 3 (14W5578b)View all downloads.</description>
-<pubDate>Mon, 17 Apr 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta 3 (16F60a)</li><li>iOS 10.3.2 beta 3 (14F5080a)</li><li>watchOS 3.2.2 beta 3 (14V5480a)</li><li>tvOS 10.2.1 beta 3 (14W5578b)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
 <title>What’s New in TestFlight</title>
 <link>https://developer.apple.com/news/?id=04112017a</link>
 <guid>https://developer.apple.com/news/?id=04112017a</guid>
@@ -65,14 +65,6 @@
 <description>Xcode 8.3.1 (8E1000a) Now Available</description>
 <pubDate>Thu, 06 Apr 2017 14:00:00 PDT</pubDate>
 <content:encoded><![CDATA[Xcode 8.3.1 (8E1000a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3.1 (14E304) Now Available</title>
-<link>https://developer.apple.com/news/?id=04032017a</link>
-<guid>https://developer.apple.com/news/?id=04032017a</guid>
-<description>iOS 10.3.1 (14E304) Now Available</description>
-<pubDate>Mon, 03 Apr 2017 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 10.3.1 (14E304) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Announcing App Accelerator Bengaluru</title>
