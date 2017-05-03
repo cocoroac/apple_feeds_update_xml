@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 01 May 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 03 May 2017 15:49:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>App Store Sources and App Referrer Data Now Available</title>
+<link>https://developer.apple.com/news/?id=05032017a</link>
+<guid>https://developer.apple.com/news/?id=05032017a</guid>
+<description>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.Learn more about App Analytics.</description>
+<pubDate>Wed, 03 May 2017 15:49:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.</p><p><a href="https://developer.apple.com/app-store/app-analytics/">Learn more about App Analytics</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>macOS Sierra 10.12.5 beta 5 (16F71b) Now Available</title>
 <link>https://developer.apple.com/news/?id=05012017a</link>
