@@ -514,14 +514,6 @@
 <pubDate>Thu, 12 May 2016 09:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Provide controls for Apple Music within your app. iOS 9.3 now supports playback of any song for Apple Music members. To learn more about the new features, guidelines, and affiliate program, see <a href="https://affiliate.itunes.apple.com/resources/documentation/apple-music-best-practices-for-app-developers/">Apple Music Best Practices for App Developers</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Supporting IPv6-only Networks</title>
-<link>https://developer.apple.com/news/?id=05042016a</link>
-<guid>https://developer.apple.com/news/?id=05042016a</guid>
-<description>At WWDC 2015 we announced the transition to IPv6-only network services in iOS 9. Starting June 1, 2016 all apps submitted to the App Store must support IPv6-only networking. Most apps will not require any changes because IPv6 is already supported by NSURLSession and CFNetwork APIs.If your app uses IPv4-specific APIs or hard-coded IP addresses, you will need to make some changes. Learn how to ensure compatibility by reading  Supporting IPv6 DNS64/NAT64 Networks and watch Your App and Next Generation Networks.</description>
-<pubDate>Wed, 04 May 2016 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>At WWDC 2015 we announced the transition to IPv6-only network services in iOS 9. Starting June 1, 2016 all apps submitted to the App Store must support IPv6-only networking. Most apps will not require any changes because IPv6 is already supported by NSURLSession and CFNetwork APIs.</p><p>If your app uses IPv4-specific APIs or hard-coded IP addresses, you will need to make some changes. Learn how to ensure compatibility by reading  <a href="https://developer.apple.com/library/prerelease/mac/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/UnderstandingandPreparingfortheIPv6Transition/UnderstandingandPreparingfortheIPv6Transition.html#//apple_ref/doc/uid/TP40010220-CH213-SW1"><span class="nowrap">Supporting IPv6 DNS64/NAT64 Networks</a></span> <span class="nowrap">and watch</span> <a href="https://developer.apple.com/videos/wwdc/2015/?id=719"><span class="nowrap">Your App and Next Generation Networks</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
