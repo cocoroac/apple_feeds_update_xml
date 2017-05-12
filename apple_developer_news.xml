@@ -506,14 +506,6 @@
 <pubDate>Thu, 19 May 2016 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Apple’s developer community will come together at WWDC16 in San Francisco to see the future of Apple platforms and connect with thousands of developers from all around the world. In addition to the activities planned for conference attendees, a variety of other exciting developer events will take place throughout the week in San Francisco. If you’re attending the conference or will be in the area during WWDC, <a href="https://developer.apple.com/wwdc/attending/#around-san-francisco">learn about these other developer events</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Apple Music in iOS 9.3</title>
-<link>https://developer.apple.com/news/?id=05122016a</link>
-<guid>https://developer.apple.com/news/?id=05122016a</guid>
-<description>Provide controls for Apple Music within your app. iOS 9.3 now supports playback of any song for Apple Music members. To learn more about the new features, guidelines, and affiliate program, see Apple Music Best Practices for App Developers.</description>
-<pubDate>Thu, 12 May 2016 09:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Provide controls for Apple Music within your app. iOS 9.3 now supports playback of any song for Apple Music members. To learn more about the new features, guidelines, and affiliate program, see <a href="https://affiliate.itunes.apple.com/resources/documentation/apple-music-best-practices-for-app-developers/">Apple Music Best Practices for App Developers</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
