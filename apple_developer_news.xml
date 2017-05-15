@@ -27,44 +27,12 @@
 <content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 (16F73)</li><li>iOS 10.3.2 (14F89 | 14F90)</li><li>watchOS 3.2.2 (14V485)</li><li>tvOS 10.2.1 (14W585a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>tvOS 10.2.1 beta 5 (14W585) Now Available</title>
-<link>https://developer.apple.com/news/?id=05042017a</link>
-<guid>https://developer.apple.com/news/?id=05042017a</guid>
-<description>tvOS 10.2.1 beta 5 (14W585) Now Available</description>
-<pubDate>Thu, 04 May 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[tvOS 10.2.1 beta 5 (14W585) Now Available]]></content:encoded>
-</item>
-<item>
 <title>App Store Sources and App Referrer Data Now Available</title>
 <link>https://developer.apple.com/news/?id=05032017a</link>
 <guid>https://developer.apple.com/news/?id=05032017a</guid>
 <description>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.Learn more about App Analytics.</description>
 <pubDate>Wed, 03 May 2017 15:49:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>App Analytics in iTunes Connect now provides insight on where customers discover your app, including App Store browsing and search, within other apps, or on the web. With key metrics based on source types, you can see your top referring apps and websites, making it easier to optimize your marketing campaigns.</p><p><a href="https://developer.apple.com/app-store/app-analytics/">Learn more about App Analytics</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>macOS Sierra 10.12.5 beta 5 (16F71b) Now Available</title>
-<link>https://developer.apple.com/news/?id=05012017a</link>
-<guid>https://developer.apple.com/news/?id=05012017a</guid>
-<description>macOS Sierra 10.12.5 beta 5 (16F71b) Now Available</description>
-<pubDate>Mon, 01 May 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.5 beta 5 (16F71b) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3.2 beta 5 (14F5089a) Now Available</title>
-<link>https://developer.apple.com/news/?id=04282017a</link>
-<guid>https://developer.apple.com/news/?id=04282017a</guid>
-<description>iOS 10.3.2 beta 5 (14F5089a) Now Available</description>
-<pubDate>Thu, 27 Apr 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 10.3.2 beta 5 (14F5089a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=04242017a</link>
-<guid>https://developer.apple.com/news/?id=04242017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta 4 (16F67a)iOS 10.3.2 beta 4 (14F5086a)watchOS 3.2.2 beta 4 (14V5485a)tvOS 10.2.1 beta 4 (14W5583a)View all downloads.</description>
-<pubDate>Mon, 24 Apr 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta 4 (16F67a)</li><li>iOS 10.3.2 beta 4 (14F5086a)</li><li>watchOS 3.2.2 beta 4 (14V5485a)</li><li>tvOS 10.2.1 beta 4 (14W5583a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Introducing LivePhotosKit JS </title>
@@ -83,28 +51,12 @@
 <content:encoded><![CDATA[<p>Starting April 25, 2017 at 10 a.m. PDT, Search Ads will be available on the App&nbsp;Store in the UK, Australia, and New&nbsp;Zealand, providing an efficient and easy way to promote your app at the top of relevant search results in more markets. Get started with your campaigns&nbsp;today.</p><p><a href="https://searchads.apple.com/?cid=SA-IN-US-DRNWS2">Learn more about Search Ads</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>Xcode 8.3.2 (8E2002) Now Available</title>
-<link>https://developer.apple.com/news/?id=04182017a</link>
-<guid>https://developer.apple.com/news/?id=04182017a</guid>
-<description>Xcode 8.3.2 (8E2002) Now Available</description>
-<pubDate>Tue, 18 Apr 2017 15:00:00 PDT</pubDate>
-<content:encoded><![CDATA[Xcode 8.3.2 (8E2002) Now Available]]></content:encoded>
-</item>
-<item>
 <title>What’s New in TestFlight</title>
 <link>https://developer.apple.com/news/?id=04112017a</link>
 <guid>https://developer.apple.com/news/?id=04112017a</guid>
 <description>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.Multiple BuildsTestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.GroupsTestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.Tester ManagementTesters can continue testing a build when it goes live on the App Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation. Learn more about TestFlight.</description>
 <pubDate>Tue, 11 Apr 2017 13:40:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.</p><p><b>Multiple Builds</b><br>TestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.</p><p><b>Groups</b><br>TestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.</p><p><b>Tester Management</b><br>Testers can continue testing a build when it goes live on the App&nbsp;Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation.</p><p> <a href="https://developer.apple.com/testflight/">Learn more about TestFlight</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Xcode 8.3.1 (8E1000a) Now Available</title>
-<link>https://developer.apple.com/news/?id=04062017a</link>
-<guid>https://developer.apple.com/news/?id=04062017a</guid>
-<description>Xcode 8.3.1 (8E1000a) Now Available</description>
-<pubDate>Thu, 06 Apr 2017 14:00:00 PDT</pubDate>
-<content:encoded><![CDATA[Xcode 8.3.1 (8E1000a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Announcing App Accelerator Bengaluru</title>
@@ -475,7 +427,7 @@
 <content:encoded><![CDATA[<p>Find out why 3 Minute Games chose the paid business model for their Lifeline apps, and how the studio keeps users engaged between releases.  <span class="nowrap"><a href="https://developer.apple.com/app-store/three-minute-games/">Learn more</a></span>.</p>]]></content:encoded>
 </item>
 <item>
-<title>Testing, Optimizing, and Analyzing  Your Apps </title>
+<title>Testing, Optimizing, and Analyzing Your Apps</title>
 <link>https://developer.apple.com/news/?id=06162016a</link>
 <guid>https://developer.apple.com/news/?id=06162016a</guid>
 <description>We’ve added new features and resources to help you test, optimize, and analyze your apps.TestFlight UpdatesTestFlight now supports apps built for the new beta of iOS, watchOS, and tvOS, which means that you can get feedback from testers on features like SiriKit, Push Notifications for tvOS, new iOS Extension APIs, and more. Read the TestFlight release notes.App Store OptimizationSearch queries account for over 65% of downloads from the App Store. Learn how you can impact where your app ranks in search results to help users more easily find your app. Read Optimizing for App Store Search.App Analytics ImpressionsApp Analytics now has data on App Store Impressions, which means you can see how many times your app’s icon has been viewed on the App Store in search results, Featured, Top Charts, and your App Store product page. With App Store Impressions, you can calculate how often users download your app after viewing it anywhere on the App Store. Learn more about App Analytics.</description>
@@ -507,7 +459,7 @@
 <content:encoded><![CDATA[<p>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. <br><a href="https://developer.apple.com/wwdc/live/">Watch WWDC session videos</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>Coming Soon to the  App Store </title>
+<title>Coming Soon to the App Store</title>
 <link>https://developer.apple.com/news/?id=06082016a</link>
 <guid>https://developer.apple.com/news/?id=06082016a</guid>
 <description>We’re introducing exciting new capabilities and tools designed to help grow your app’s business and engage with new and existing customers on the App Store.Search AdsSearch Ads is an efficient and easy way for you to promote your app directly within the U.S. App Store search results, helping customers discover or reengage with your app while respecting their privacy. Starting this summer, you’ll be able to participate in the Search Ads beta and see the ads in action.  Learn more about Search Ads.Subscription EnhancementsWe’re opening auto-renewable subscriptions to all app categories including games, increasing developer revenue for eligible subscriptions after one year, providing greater pricing flexibility, and more. Learn about what’s new in subscriptions.</description>
