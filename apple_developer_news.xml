@@ -6,10 +6,42 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 30 May 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jun 2017 12:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>See What’s Next</title>
+<link>https://developer.apple.com/news/?id=06052017d</link>
+<guid>https://developer.apple.com/news/?id=06052017d</guid>
+<description>The new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta (9M136h)macOS 10.13 beta (17A264c)iOS 11 beta (15A5278f)watchOS 4 beta (15R5281f)tvOS 11 beta (15J5284e)View all downloads.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta (9M136h)</li><li>macOS 10.13 beta (17A264c)</li><li>iOS 11 beta (15A5278f)</li><li>watchOS 4 beta (15R5281f)</li><li>tvOS 11 beta (15J5284e)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Build More Intelligent Apps with Core ML</title>
+<link>https://developer.apple.com/news/?id=06052017c</link>
+<guid>https://developer.apple.com/news/?id=06052017c</guid>
+<description>Now you can bring intelligent features, such as face tracking, text detection, language identification, and much more into your apps with the new foundational machine learning technology that is used across Apple products. Core ML delivers blazingly fast performance with easy integration of machine learning models.Learn more about Core ML.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can bring intelligent features, such as face tracking, text detection, language identification, and much more into your apps with the new foundational machine learning technology that is used across Apple products. Core ML delivers blazingly fast performance with easy integration of machine learning models.</p><p><a href="https://developer.apple.com/machine-learning/">Learn more about Core ML</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Create Augmented Reality Experiences with ARKit</title>
+<link>https://developer.apple.com/news/?id=06052017b</link>
+<guid>https://developer.apple.com/news/?id=06052017b</guid>
+<description>iOS 11 introduces ARKit, a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.Learn more about ARKit.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iOS 11 introduces ARKit, a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.</p><p><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for the All-New App Store</title>
+<link>https://developer.apple.com/news/?id=06052017a</link>
+<guid>https://developer.apple.com/news/?id=06052017a</guid>
+<description>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.Learn more about the all-new App Store.</description>
+<pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App&nbsp;Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.</p><p>In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.</p><p><a href="https://developer.apple.com/app-store/whats-new/">Learn more about the all-new App Store</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=05162017a</link>
