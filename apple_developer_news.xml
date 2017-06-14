@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 07 Jun 2017 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 30 May 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=05162017a</link>
+<guid>https://developer.apple.com/news/?id=05162017a</guid>
+<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.6 beta 3 (16G16b)iOS 10.3.3 beta 3 (14G5047a)watchOS 3.2.3 beta 3 (14V5744a)tvOS 10.2.2 beta 3 (14W5745a)View all downloads.</description>
+<pubDate>Tue, 30 May 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.6 beta 3 (16G16b)</li><li>iOS 10.3.3 beta 3 (14G5047a)</li><li>watchOS 3.2.3 beta 3 (14V5744a)</li><li>tvOS 10.2.2 beta 3 (14W5745a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>2017 Apple Design Award Winners</title>
 <link>https://developer.apple.com/news/?id=06072017a</link>
@@ -65,14 +73,6 @@
 <description>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.Learn more about the all-new App Store.</description>
 <pubDate>Mon, 05 Jun 2017 12:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>The App Store first launched nine years ago. And today, with over two million apps that transform the way we work, learn, and play, it’s the best app platform in the world. Now the App&nbsp;Store has been redesigned from the ground up to provide a beautiful place to showcase amazing apps and to help customers discover new favorites with the new Today tab, dedicated tabs for games and apps, a deeper product page experience, promoted in-app purchases, and enhanced search.</p><p>In addition, starting today you can release your iOS app update to a small audience for feedback before making it available to your entire user base. Your version update will become available to an increasing percentage of users who have automatic updates turned on.</p><p><a href="https://developer.apple.com/app-store/whats-new/">Learn more about the all-new App Store</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=05162017a</link>
-<guid>https://developer.apple.com/news/?id=05162017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.6 beta 2 (16G12b)iOS 10.3.3 beta 2 (14G5037b)watchOS 3.2.3 beta 2 (14V5734a)tvOS 10.2.2 beta 2 (14W5735a)View all downloads.</description>
-<pubDate>Tue, 30 May 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.6 beta 2 (16G12b)</li><li>iOS 10.3.3 beta 2 (14G5037b)</li><li>watchOS 3.2.3 beta 2 (14V5734a)</li><li>tvOS 10.2.2 beta 2 (14W5735a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Apple Pay Has Expanded to Italy</title>
@@ -513,22 +513,6 @@
 <description>Read about these talented developers and their apps, which reflect the best in design, innovation, and technology on Apple platforms. See the winners.</description>
 <pubDate>Tue, 14 Jun 2016 12:30:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Read about these talented developers and their apps, which reflect the best in design, innovation, and technology on Apple platforms. <a href="https://developer.apple.com/design/awards/"><span class="nowrap">See the winners</span></a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New App Store Review Guidelines</title>
-<link>https://developer.apple.com/news/?id=06132016c</link>
-<guid>https://developer.apple.com/news/?id=06132016c</guid>
-<description>We’ve rewritten the App Review Guidelines to be more helpful, provide more context, and incorporate the guidelines for Mac apps.  We hope these updates will help your app sail through App Review. While the guidelines themselves haven’t changed, the previous App Store and Mac App Store Review Guidelines will remain available for apps currently in the review process.   View the new App Store Review Guidelines.</description>
-<pubDate>Mon, 13 Jun 2016 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>We’ve rewritten the App Review Guidelines to be more helpful, provide more context, and incorporate the guidelines for Mac apps.  We hope these updates will help your app sail through App Review. While the guidelines themselves haven’t changed, the previous App Store and Mac App Store Review Guidelines will remain available for apps currently in the review process.   <span class="nowrap"><a href="https://developer.apple.com/app-store/review/guidelines/">View the new App Store Review Guidelines</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>WWDC16. Now Live Streaming</title>
-<link>https://developer.apple.com/news/?id=06132016a</link>
-<guid>https://developer.apple.com/news/?id=06132016a</guid>
-<description>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. Watch WWDC session videos.</description>
-<pubDate>Mon, 13 Jun 2016 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. <br><a href="https://developer.apple.com/wwdc/live/">Watch WWDC session videos</a>.</p>]]></content:encoded>
 </item>
 
 </channel>
