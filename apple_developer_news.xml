@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 26 Jun 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jun 2017 13:30:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Update Your Product Page for the All-New App Store</title>
+<link>https://developer.apple.com/news/?id=06272017a</link>
+<guid>https://developer.apple.com/news/?id=06272017a</guid>
+<description>The new App Store is now available to users of the iOS 11 public beta, and will be in the hands of hundreds of millions of users around the world this fall. Take advantage of more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases. Learn how to make the most of your product page and enter your app’s new metadata in iTunes Connect today. Learn more about entering your metadata.</description>
+<pubDate>Tue, 27 Jun 2017 13:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The new App Store is now available to users of the iOS 11 public beta, and will be in the hands of hundreds of millions of users around the world this fall. Take advantage of more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases. Learn how to make the most of your product page and enter your app’s new metadata in iTunes&nbsp;Connect today. </p><p><a href="https://developer.apple.com/app-store/product-page/">Learn more about entering your metadata</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>watchOS 3.2.3 beta 4 (14V5751a) Now Available</title>
 <link>https://developer.apple.com/news/?id=06262017a</link>
