@@ -6,10 +6,34 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 28 Jun 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jun 2017 15:25:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>WWDC17 Video Transcripts Now Available</title>
+<link>https://developer.apple.com/news/?id=06282017c</link>
+<guid>https://developer.apple.com/news/?id=06282017c</guid>
+<description>Take advantage of transcripts to quickly discover and share information presented in WWDC 2017 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.Watch session videos.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC&nbsp;2017 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.</p><p><a href="https://developer.apple.com/videos/wwdc2017/">Watch session videos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>64-bit Requirement for Mac Apps</title>
+<link>https://developer.apple.com/news/?id=06282017a</link>
+<guid>https://developer.apple.com/news/?id=06282017a</guid>
+<description>At WWDC 2017, we announced new apps submitted to the Mac App Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. macOS High Sierra will be the last macOS release to support 32-bit apps without compromise.Learn more about distributing Mac apps.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>At WWDC 2017, we announced new apps submitted to the Mac&nbsp;App&nbsp;Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac&nbsp;App&nbsp;Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. macOS High Sierra will be the last macOS release to support 32-bit apps without compromise.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>64-bit Apps on iOS 11</title>
+<link>https://developer.apple.com/news/?id=06282017b</link>
+<guid>https://developer.apple.com/news/?id=06282017b</guid>
+<description>As a reminder, new iOS apps and updates submitted to the App Store must support 64-bit. Support for 32-bit apps is not available in iOS 11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS 11, which will be in the hands of hundreds of millions of customers this fall.Learn more about submitting apps.</description>
+<pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new iOS apps and updates submitted to the App&nbsp;Store must support 64-bit. Support for 32-bit apps is not available in iOS&nbsp;11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS&nbsp;11, which will be in the hands of hundreds of millions of customers this fall.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn more about submitting apps</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>iOS 10.3.3 beta 5 (14G5057a) Now Available</title>
 <link>https://developer.apple.com/news/?id=06282017b</link>
