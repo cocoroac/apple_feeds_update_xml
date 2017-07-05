@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 28 Jun 2017 15:25:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 05 Jul 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available</title>
+<link>https://developer.apple.com/news/?id=07052017b</link>
+<guid>https://developer.apple.com/news/?id=07052017b</guid>
+<description>iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available</description>
+<pubDate>Wed, 05 Jul 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available]]></content:encoded>
+</item>
+<item>
+<title>macOS Sierra 10.12.6 beta 6 (16G24b) Now Available</title>
+<link>https://developer.apple.com/news/?id=07052017a</link>
+<guid>https://developer.apple.com/news/?id=07052017a</guid>
+<description>macOS Sierra 10.12.6 beta 6 (16G24b) Now Available</description>
+<pubDate>Wed, 05 Jul 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[macOS Sierra 10.12.6 beta 6 (16G24b) Now Available]]></content:encoded>
+</item>
 <item>
 <title>WWDC17 Video Transcripts Now Available</title>
 <link>https://developer.apple.com/news/?id=06282017c</link>
@@ -33,22 +49,6 @@
 <description>As a reminder, new iOS apps and updates submitted to the App Store must support 64-bit. Support for 32-bit apps is not available in iOS 11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS 11, which will be in the hands of hundreds of millions of customers this fall.Learn more about submitting apps.</description>
 <pubDate>Wed, 28 Jun 2017 15:25:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>As a reminder, new iOS apps and updates submitted to the App&nbsp;Store must support 64-bit. Support for 32-bit apps is not available in iOS&nbsp;11 and all 32-bit apps previously installed on a user’s device will not launch. If you haven’t updated your app on the App Store to support 64-bit, we recommend submitting an update so your users can continue to run your apps on iOS&nbsp;11, which will be in the hands of hundreds of millions of customers this fall.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn more about submitting apps</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3.3 beta 5 (14G5057a) Now Available</title>
-<link>https://developer.apple.com/news/?id=06282017b</link>
-<guid>https://developer.apple.com/news/?id=06282017b</guid>
-<description>iOS 10.3.3 beta 5 (14G5057a) Now Available</description>
-<pubDate>Wed, 28 Jun 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 10.3.3 beta 5 (14G5057a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>macOS Sierra 10.12.6 beta 5 (16G23a) Now Available</title>
-<link>https://developer.apple.com/news/?id=06282017a</link>
-<guid>https://developer.apple.com/news/?id=06282017a</guid>
-<description>macOS Sierra 10.12.6 beta 5 (16G23a) Now Available</description>
-<pubDate>Wed, 28 Jun 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.6 beta 5 (16G23a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Update Your Product Page for the All-New App Store</title>
@@ -81,14 +81,6 @@
 <description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 2 (9M137d)macOS 10.13 beta 2 (17A291j)iOS 11 beta 2 (15A5304i)watchOS 4 beta 2 (15R5307f)tvOS 11 beta 2 (15J5310e)View all downloads.</description>
 <pubDate>Wed, 21 Jun 2017 01:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 2 (9M137d)</li><li>macOS 10.13 beta 2 (17A291j)</li><li>iOS 11 beta 2 (15A5304i)</li><li>watchOS 4 beta 2 (15R5307f)</li><li>tvOS 11 beta 2 (15J5310e)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=05162017a</link>
-<guid>https://developer.apple.com/news/?id=05162017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.6 beta 3 (16G16b)iOS 10.3.3 beta 3 (14G5047a)watchOS 3.2.3 beta 3 (14V5744a)tvOS 10.2.2 beta 3 (14W5745a)View all downloads.</description>
-<pubDate>Tue, 13 Jun 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.6 beta 3 (16G16b)</li><li>iOS 10.3.3 beta 3 (14G5047a)</li><li>watchOS 3.2.3 beta 3 (14V5744a)</li><li>tvOS 10.2.2 beta 3 (14W5745a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>2017 Apple Design Award Winners</title>
@@ -155,14 +147,6 @@
 <content:encoded><![CDATA[<p>In addition to WWDC, a variety of other exciting developer events will take place throughout the week in San Jose — and more have just been added. You can connect with a talented, international developer community, whether you’re attending the conference or visiting San Jose to experience these incredible events. Find out how you can be a part of this inspiring week.</p><p><a href="https://developer.apple.com/wwdc/more/">Learn more about the events</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=05152017a</link>
-<guid>https://developer.apple.com/news/?id=05152017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 (16F73)iOS 10.3.2 (14F89 | 14F90)watchOS 3.2.2 (14V485)tvOS 10.2.1 (14W585a)View all downloads.</description>
-<pubDate>Mon, 15 May 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 (16F73)</li><li>iOS 10.3.2 (14F89 | 14F90)</li><li>watchOS 3.2.2 (14V485)</li><li>tvOS 10.2.1 (14W585a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
 <title>App Store Sources and App Referrer Data Now Available</title>
 <link>https://developer.apple.com/news/?id=05032017a</link>
 <guid>https://developer.apple.com/news/?id=05032017a</guid>
@@ -225,14 +209,6 @@
 <description>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.In-App Ratings and ReviewsThe new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.Responding to CustomersYou can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback. Learn more about Ratings and Reviews.</description>
 <pubDate>Mon, 27 Mar 2017 16:20:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.</p><p><b>In-App Ratings and Reviews</b><br>The new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.</p><p><b>Responding to Customers</b><br>You can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback.</p><p> <a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn more about Ratings and Reviews</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=03272017b</link>
-<guid>https://developer.apple.com/news/?id=03272017b</guid>
-<description>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.4 (16E195)iOS 10.3 (14E277)watchOS 3.2 (14V249)tvOS 10.2 (14W265)Xcode 8.3 (8E162)View all downloads.</description>
-<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.4 (16E195)</li><li>iOS 10.3 (14E277)</li><li>watchOS 3.2 (14V249)</li><li>tvOS 10.2 (14W265)</li><li>Xcode 8.3 (8E162)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>WWDC 2017 Registration Now Open</title>
