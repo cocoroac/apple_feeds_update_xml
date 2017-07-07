@@ -522,14 +522,6 @@
 <pubDate>Fri, 08 Jul 2016 13:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC16 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time. <a href="https://developer.apple.com/videos/wwdc2016/">Watch session videos</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Apple Pay Has Expanded to Switzerland</title>
-<link>https://developer.apple.com/news/?id=07072016a</link>
-<guid>https://developer.apple.com/news/?id=07072016a</guid>
-<description>You can now support Apple Pay for your customers in Switzerland, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch.  Learn more about Apple Pay.</description>
-<pubDate>Thu, 07 Jul 2016 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Switzerland, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
