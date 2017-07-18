@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 17 Jul 2017 17:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 18 Jul 2017 14:40:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Subscription Status Details Now Available</title>
+<link>https://developer.apple.com/news/?id=07182017a</link>
+<guid>https://developer.apple.com/news/?id=07182017a</guid>
+<description>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying relevant messaging.Learn more about server notifications for subscriptions.</description>
+<pubDate>Tue, 18 Jul 2017 14:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying <a href="https://developer.apple.com/app-store/subscriptions/#receipts">relevant messaging</a>.</p><p><a href="https://itunespartner.apple.com/apps/news/45333106">Learn more about server notifications for subscriptions.</a></p>]]></content:encoded>
+</item>
 <item>
 <title>New Customer Support Role Now Available</title>
 <link>https://developer.apple.com/news/?id=07172017b</link>
