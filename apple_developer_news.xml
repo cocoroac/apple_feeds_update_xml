@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 13 Jul 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jul 2017 17:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Customer Support Role Now Available</title>
+<link>https://developer.apple.com/news/?id=07172017b</link>
+<guid>https://developer.apple.com/news/?id=07172017b</guid>
+<description>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to respond to reviews. Learn more about the new role.</description>
+<pubDate>Mon, 17 Jul 2017 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to <a href="https://developer.apple.com/app-store/responding-to-reviews">respond to reviews</a>. </p><p><a href="https://itunespartner.apple.com/apps/news/96430785">Learn more about the new role.</a></p>]]></content:encoded>
+</item>
 <item>
 <title>watchOS 4 beta 3 (15R5321h) Now Available</title>
 <link>https://developer.apple.com/news/?id=07132017a</link>
