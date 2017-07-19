@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 18 Jul 2017 14:40:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 19 Jul 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=07192017a</link>
+<guid>https://developer.apple.com/news/?id=07192017a</guid>
+<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.6 (16G29)iOS 10.3.3 (14G60)watchOS 3.2.3 (14V753)tvOS 10.2.2 (14W756)View all downloads.</description>
+<pubDate>Wed, 19 Jul 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.6 (16G29)</li><li>iOS 10.3.3 (14G60)</li><li>watchOS 3.2.3 (14V753)</li><li>tvOS 10.2.2 (14W756)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Subscription Status Details Now Available</title>
 <link>https://developer.apple.com/news/?id=07182017a</link>
@@ -41,30 +49,6 @@
 <description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 3 (9M174d)macOS High Sierra 10.13 beta 3 (17A306f)iOS 11 beta 3 (15A5318g)tvOS 11 beta 3 (15J5324f)View all downloads.</description>
 <pubDate>Mon, 10 Jul 2017 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 3 (9M174d)</li><li>macOS High Sierra 10.13 beta 3 (17A306f)</li><li>iOS 11 beta 3 (15A5318g)</li><li>tvOS 11 beta 3 (15J5324f)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>tvOS 10.2.2 beta 5 (14W754) Now Available</title>
-<link>https://developer.apple.com/news/?id=07062017a</link>
-<guid>https://developer.apple.com/news/?id=07062017a</guid>
-<description>tvOS 10.2.2 beta 5 (14W754) Now Available</description>
-<pubDate>Thu, 06 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[tvOS 10.2.2 beta 5 (14W754) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available</title>
-<link>https://developer.apple.com/news/?id=07052017b</link>
-<guid>https://developer.apple.com/news/?id=07052017b</guid>
-<description>iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available</description>
-<pubDate>Wed, 05 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 10.3.3 beta 6 (14G57 | 14G58) Now Available]]></content:encoded>
-</item>
-<item>
-<title>macOS Sierra 10.12.6 beta 6 (16G24b) Now Available</title>
-<link>https://developer.apple.com/news/?id=07052017a</link>
-<guid>https://developer.apple.com/news/?id=07052017a</guid>
-<description>macOS Sierra 10.12.6 beta 6 (16G24b) Now Available</description>
-<pubDate>Wed, 05 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS Sierra 10.12.6 beta 6 (16G24b) Now Available]]></content:encoded>
 </item>
 <item>
 <title>WWDC17 Video Transcripts Now Available</title>
