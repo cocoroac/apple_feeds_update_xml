@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 19 Jul 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 24 Jul 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=07102017a</link>
+<guid>https://developer.apple.com/news/?id=07102017a</guid>
+<description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 4 (9M189t)macOS High Sierra 10.13 beta 4 (17A315i)iOS 11 beta 4 (15A5327g)watchOS 4 beta 4 (15R5331g)tvOS 11 beta 4 (15J5333f)View all downloads.</description>
+<pubDate>Mon, 24 Jul 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 4 (9M189t)</li><li>macOS High Sierra 10.13 beta 4 (17A315i)</li><li>iOS 11 beta 4 (15A5327g)</li><li>watchOS 4 beta 4 (15R5331g)</li><li>tvOS 11 beta 4 (15J5333f)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=07192017a</link>
@@ -41,14 +49,6 @@
 <description>watchOS 4 beta 3 (15R5321h) Now Available</description>
 <pubDate>Thu, 13 Jul 2017 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[watchOS 4 beta 3 (15R5321h) Now Available]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=07102017a</link>
-<guid>https://developer.apple.com/news/?id=07102017a</guid>
-<description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 3 (9M174d)macOS High Sierra 10.13 beta 3 (17A306f)iOS 11 beta 3 (15A5318g)tvOS 11 beta 3 (15J5324f)View all downloads.</description>
-<pubDate>Mon, 10 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 3 (9M174d)</li><li>macOS High Sierra 10.13 beta 3 (17A306f)</li><li>iOS 11 beta 3 (15A5318g)</li><li>tvOS 11 beta 3 (15J5324f)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>WWDC17 Video Transcripts Now Available</title>
