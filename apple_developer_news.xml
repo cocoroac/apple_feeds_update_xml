@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 24 Jul 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 31 Jul 2017 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Expanded Tester Limits in TestFlight</title>
+<link>https://developer.apple.com/news/?id=07312017a</link>
+<guid>https://developer.apple.com/news/?id=07312017a</guid>
+<description>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.Learn more about TestFlight.</description>
+<pubDate>Mon, 31 Jul 2017 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.</p><p><a href="https://developer.apple.com/testflight">Learn more about TestFlight</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Beta Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=07102017a</link>
