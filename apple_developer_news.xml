@@ -506,14 +506,6 @@
 <pubDate>Mon, 08 Aug 2016 16:50:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Submit just one set of screenshots and one optional app preview per device family, and they will be used across device sizes and localizations.</p><p>If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots. Learn more by watching <span class="nowrap"><a href="https://developer.apple.com/videos/play/wwdc2016/305/?time=1700/">What's New in iTunes Connect</a></span> from WWDC16.</p>]]></content:encoded>
 </item>
-<item>
-<title>Developer Insights Series: Creating a Great Commerce Experience</title>
-<link>https://developer.apple.com/news/?id=08032016a</link>
-<guid>https://developer.apple.com/news/?id=08032016a</guid>
-<description>Houzz shares its unique approach to e‑commerce, and how the experience evolved from a side project to a multi-platform app with tens of millions of users monthly. Learn more.</description>
-<pubDate>Wed, 03 Aug 2016 13:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Houzz shares its unique approach to e‑commerce, and how the experience evolved from a side project to a multi-platform app with tens of millions of users monthly. <span class="nowrap"><a href="https://developer.apple.com/app-store/houzz/">Learn more</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
