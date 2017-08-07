@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 31 Jul 2017 15:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 07 Aug 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=07102017a</link>
+<guid>https://developer.apple.com/news/?id=07102017a</guid>
+<description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 5 (9M202q)macOS High Sierra 10.13 beta 5 (17A330h)iOS 11 beta 5 (15A5341f)watchOS 4 beta 5 (15R5345g)tvOS 11 beta 5 (15J5347f)View all downloads.</description>
+<pubDate>Mon, 07 Aug 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 5 (9M202q)</li><li>macOS High Sierra 10.13 beta 5 (17A330h)</li><li>iOS 11 beta 5 (15A5341f)</li><li>watchOS 4 beta 5 (15R5345g)</li><li>tvOS 11 beta 5 (15J5347f)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Expanded Tester Limits in TestFlight</title>
 <link>https://developer.apple.com/news/?id=07312017a</link>
@@ -17,22 +25,6 @@
 <description>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.Learn more about TestFlight.</description>
 <pubDate>Mon, 31 Jul 2017 15:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.</p><p><a href="https://developer.apple.com/testflight">Learn more about TestFlight</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=07102017a</link>
-<guid>https://developer.apple.com/news/?id=07102017a</guid>
-<description>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 beta 4 (9M189t)macOS High Sierra 10.13 beta 4 (17A315i)iOS 11 beta 4 (15A5327g)watchOS 4 beta 4 (15R5331g)tvOS 11 beta 4 (15J5333f)View all downloads.</description>
-<pubDate>Mon, 24 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>A new beta of Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 beta 4 (9M189t)</li><li>macOS High Sierra 10.13 beta 4 (17A315i)</li><li>iOS 11 beta 4 (15A5327g)</li><li>watchOS 4 beta 4 (15R5331g)</li><li>tvOS 11 beta 4 (15J5333f)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=07192017a</link>
-<guid>https://developer.apple.com/news/?id=07192017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.6 (16G29)iOS 10.3.3 (14G60)watchOS 3.2.3 (14V753)tvOS 10.2.2 (14W756)View all downloads.</description>
-<pubDate>Wed, 19 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.6 (16G29)</li><li>iOS 10.3.3 (14G60)</li><li>watchOS 3.2.3 (14V753)</li><li>tvOS 10.2.2 (14W756)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>New Subscription Status Details Now Available</title>
@@ -49,14 +41,6 @@
 <description>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to respond to reviews. Learn more about the new role.</description>
 <pubDate>Mon, 17 Jul 2017 17:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to <a href="https://developer.apple.com/app-store/responding-to-reviews">respond to reviews</a>. </p><p><a href="https://itunespartner.apple.com/en/apps/news/96430785">Learn more about the new role.</a></p>]]></content:encoded>
-</item>
-<item>
-<title>watchOS 4 beta 3 (15R5321h) Now Available</title>
-<link>https://developer.apple.com/news/?id=07132017a</link>
-<guid>https://developer.apple.com/news/?id=07132017a</guid>
-<description>watchOS 4 beta 3 (15R5321h) Now Available</description>
-<pubDate>Thu, 13 Jul 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[watchOS 4 beta 3 (15R5321h) Now Available]]></content:encoded>
 </item>
 <item>
 <title>WWDC17 Video Transcripts Now Available</title>
