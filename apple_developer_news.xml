@@ -482,14 +482,6 @@
 <pubDate>Tue, 23 Aug 2016 15:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Take advantage of the new Messages framework in iOS 10 to create an app extension that lets people interact with your iOS app directly within Messages. Users can easily create and share content, add stickers, make payments, and more, without leaving their conversations. And coming this fall, you can make iMessage apps available for download directly on the App Store for iMessage.  <span class="nowrap"><a href="https://developer.apple.com/imessage/">Learn more about iMessage apps</a>.</span></p>]]></content:encoded>
 </item>
-<item>
-<title>Simplified Screenshot Submission Process</title>
-<link>https://developer.apple.com/news/?id=08082016a</link>
-<guid>https://developer.apple.com/news/?id=08082016a</guid>
-<description>Now it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Submit just one set of screenshots and one optional app preview per device family, and they will be used across device sizes and localizations.If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots. Learn more by watching What's New in iTunes Connect from WWDC16.</description>
-<pubDate>Mon, 08 Aug 2016 16:50:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Submit just one set of screenshots and one optional app preview per device family, and they will be used across device sizes and localizations.</p><p>If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots. Learn more by watching <span class="nowrap"><a href="https://developer.apple.com/videos/play/wwdc2016/305/?time=1700/">What's New in iTunes Connect</a></span> from WWDC16.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
