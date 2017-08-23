@@ -474,14 +474,6 @@
 <pubDate>Wed, 24 Aug 2016 13:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Create Safari Extensions that give users access to your app’s best features as they browse the web. Xcode makes it simple to add Safari Extensions to your existing app by using an App Extensions template. Easily develop your extensions using powerful, native APIs and web technologies. And coming this fall with macOS Sierra, you can sell and distribute apps with Safari Extensions on the Mac App Store. <span class="nowrap"><a href="https://developer.apple.com/safari/extensions/">Learn more about Safari Extensions.</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>Get Your iMessage Apps Ready</title>
-<link>https://developer.apple.com/news/?id=08232016a</link>
-<guid>https://developer.apple.com/news/?id=08232016a</guid>
-<description>Take advantage of the new Messages framework in iOS 10 to create an app extension that lets people interact with your iOS app directly within Messages. Users can easily create and share content, add stickers, make payments, and more, without leaving their conversations. And coming this fall, you can make iMessage apps available for download directly on the App Store for iMessage.  Learn more about iMessage apps.</description>
-<pubDate>Tue, 23 Aug 2016 15:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Take advantage of the new Messages framework in iOS 10 to create an app extension that lets people interact with your iOS app directly within Messages. Users can easily create and share content, add stickers, make payments, and more, without leaving their conversations. And coming this fall, you can make iMessage apps available for download directly on the App Store for iMessage.  <span class="nowrap"><a href="https://developer.apple.com/imessage/">Learn more about iMessage apps</a>.</span></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
