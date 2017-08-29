@@ -6,14 +6,22 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 29 Aug 2017 13:35:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 29 Aug 2017 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
 <item>
+<title>New Augmented Reality Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=08292017b</link>
+<guid>https://developer.apple.com/news/?id=08292017b</guid>
+<description>Design intuitive augmented reality experiences for iOS using the best practices now available in the Human Interface Guidelines, and explore new sample code for ARKit. We can’t wait for your apps to be available to hundreds of millions of people with the launch of iOS 11 this fall. If you’re working on creating an amazing experience with ARKit and would like to share it with us, let us know.Learn more about ARKit.</description>
+<pubDate>Tue, 29 Aug 2017 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Design intuitive augmented reality experiences for iOS using the best practices now available in the Human Interface Guidelines, and explore new sample code for ARKit. We can’t wait for your apps to be available to hundreds of millions of people with the launch of iOS 11 this fall. If you’re working on creating an amazing experience with ARKit and would like to share it with us, <a href="https://developer.apple.com/contact/arkit/">let us know</a>.</p><p><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a>.</p>]]></content:encoded>
+</item>
+<item>
 <title>Upcoming Requirement for Promoted In-App Purchases</title>
-<link>https://developer.apple.com/news/?id=04192017a</link>
-<guid>https://developer.apple.com/news/?id=04192017a</guid>
+<link>https://developer.apple.com/news/?id=08292017a</link>
+<guid>https://developer.apple.com/news/?id=08292017a</guid>
 <description>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  SKPaymentTransactionObserver, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  SKProductStorePromotionController API.Learn more about promoted in-app purchases.</description>
 <pubDate>Tue, 29 Aug 2017 13:35:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  <a href="https://developer.apple.com/documentation/storekit/skpaymenttransactionobserver/2877502-paymentqueue">SKPaymentTransactionObserver</a>, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  <a href="https://developer.apple.com/documentation/storekit/skproductstorepromotioncontroller">SKProductStorePromotionController</a> API.</p><p><a href="https://developer.apple.com/app-store/promoting-in-app-purchases/">Learn more about promoted in-app purchases</a>.</p>]]></content:encoded>
