@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 29 Aug 2017 15:00:00 PDT</lastBuildDate>
+<lastBuildDate>Thu, 31 Aug 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>iOS 11 beta 9 (15A5370a) Now Available</title>
+<link>https://developer.apple.com/news/?id=08312017a</link>
+<guid>https://developer.apple.com/news/?id=08312017a</guid>
+<description>iOS 11 beta 9 (15A5370a) Now Available</description>
+<pubDate>Thu, 31 Aug 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 11 beta 9 (15A5370a) Now Available]]></content:encoded>
+</item>
+<item>
+<title>tvOS 11 beta 9 (15J5378a) Now Available</title>
+<link>https://developer.apple.com/news/?id=08312017b</link>
+<guid>https://developer.apple.com/news/?id=08312017b</guid>
+<description>tvOS 11 beta 9 (15J5378a) Now Available</description>
+<pubDate>Thu, 31 Aug 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[tvOS 11 beta 9 (15J5378a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>New Augmented Reality Resources Now Available</title>
 <link>https://developer.apple.com/news/?id=08292017b</link>
