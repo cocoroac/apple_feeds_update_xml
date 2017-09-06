@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 05 Sep 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 06 Sep 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>iOS 11 beta 10 (15A5372a) Now Available</title>
+<link>https://developer.apple.com/news/?id=09062017a</link>
+<guid>https://developer.apple.com/news/?id=09062017a</guid>
+<description>iOS 11 beta 10 (15A5372a) Now Available</description>
+<pubDate>Wed, 06 Sep 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[iOS 11 beta 10 (15A5372a) Now Available]]></content:encoded>
+</item>
 <item>
 <title>tvOS 11 beta 10 (15J5380a) Now Available</title>
 <link>https://developer.apple.com/news/?id=09052017a</link>
@@ -25,14 +33,6 @@
 <description>macOS High Sierra 10.13 beta 9 (17A360a) Now Available</description>
 <pubDate>Fri, 01 Sep 2017 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[macOS High Sierra 10.13 beta 9 (17A360a) Now Available]]></content:encoded>
-</item>
-<item>
-<title>iOS 11 beta 9 (15A5370a) Now Available</title>
-<link>https://developer.apple.com/news/?id=08312017a</link>
-<guid>https://developer.apple.com/news/?id=08312017a</guid>
-<description>iOS 11 beta 9 (15A5370a) Now Available</description>
-<pubDate>Thu, 31 Aug 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 11 beta 9 (15A5370a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>New Augmented Reality Resources Now Available</title>
