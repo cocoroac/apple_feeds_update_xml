@@ -482,14 +482,6 @@
 <pubDate>Tue, 13 Sep 2016 11:50:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now get more data about your auto-renewable subscriptions in iTunes Connect. The new Subscriptions page in Sales and Trends makes it easy to view key metrics and two new reports provide details into subscriber activity. <a href="https://itunespartner.apple.com/en/apps/news/5721783">Learn more</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Submit Your Apps to the App Store</title>
-<link>https://developer.apple.com/news/?id=09072016a</link>
-<guid>https://developer.apple.com/news/?id=09072016a</guid>
-<description>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. And with the new App Store for iMessage, users will be able to download your iMessage apps and sticker packs directly within Messages.Build your apps using Xcode 8 GM seed, test with the GM seeds of macOS Sierra, iOS 10, watchOS 3, tvOS 10, and submit them for review. To learn more about preparing your submissions for the App Store, see Submitting Your Apps.</description>
-<pubDate>Wed, 07 Sep 2016 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. And with the new <span class="nowrap"><a href="https://developer.apple.com/app-store/imessage-app-submissions/">App Store for iMessage</a></span>, users will be able to download your iMessage apps and sticker packs directly within Messages.</p><p>Build your apps using Xcode 8 GM seed, test with the GM seeds of macOS Sierra, iOS 10, watchOS 3, tvOS 10, and submit them for review. To learn more about preparing your submissions for the App Store, see <span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Submitting Your Apps</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
