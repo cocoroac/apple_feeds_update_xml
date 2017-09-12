@@ -6,33 +6,49 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 06 Sep 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 12 Sep 2017 12:30:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
 <item>
-<title>iOS 11 beta 10 (15A5372a) Now Available</title>
-<link>https://developer.apple.com/news/?id=09062017a</link>
-<guid>https://developer.apple.com/news/?id=09062017a</guid>
-<description>iOS 11 beta 10 (15A5372a) Now Available</description>
-<pubDate>Wed, 06 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 11 beta 10 (15A5372a) Now Available]]></content:encoded>
+<title>Submit Your Apps to the App Store</title>
+<link>https://developer.apple.com/news/?id=09122017a</link>
+<guid>https://developer.apple.com/news/?id=09122017a</guid>
+<description>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS 11, watchOS 4, tvOS 11, and submit them for review.Download GM seeds.The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.Learn about preparing your apps.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS&nbsp;11, watchOS 4, tvOS&nbsp;11, and submit them for review.</p><p><a href="https://developer.apple.com/download/">Download GM seeds</a>.</p><br><p>The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn about preparing your apps</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>tvOS 11 beta 10 (15J5380a) Now Available</title>
-<link>https://developer.apple.com/news/?id=09052017a</link>
-<guid>https://developer.apple.com/news/?id=09052017a</guid>
-<description>tvOS 11 beta 10 (15J5380a) Now Available</description>
-<pubDate>Tue, 05 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[tvOS 11 beta 10 (15J5380a) Now Available]]></content:encoded>
+<title>Get Ready for iPhone X</title>
+<link>https://developer.apple.com/news/?id=09122017b</link>
+<guid>https://developer.apple.com/news/?id=09122017b</guid>
+<description>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2.Learn about developing for iPhone X.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal&nbsp;2.</p><p><a href="https://developer.apple.com/iphone/">Learn about developing for iPhone X</a>.</p>]]></content:encoded>
 </item>
 <item>
-<title>macOS High Sierra 10.13 beta 9 (17A360a) Now Available</title>
-<link>https://developer.apple.com/news/?id=09012017a</link>
-<guid>https://developer.apple.com/news/?id=09012017a</guid>
-<description>macOS High Sierra 10.13 beta 9 (17A360a) Now Available</description>
-<pubDate>Fri, 01 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS High Sierra 10.13 beta 9 (17A360a) Now Available]]></content:encoded>
+<title>Get Ready for Apple Watch Series 3</title>
+<link>https://developer.apple.com/news/?id=09122017c</link>
+<guid>https://developer.apple.com/news/?id=09122017c</guid>
+<description>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.Learn about developing for watchOS.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for Apple TV 4K</title>
+<link>https://developer.apple.com/news/?id=09122017d</link>
+<guid>https://developer.apple.com/news/?id=09122017d</guid>
+<description>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.Learn about developing for tvOS.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.</p><p><a href="https://developer.apple.com/tvos/">Learn about developing for tvOS</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=09122017e</link>
+<guid>https://developer.apple.com/news/?id=09122017e</guid>
+<description>Design and Development VideosGet new insights on creating apps for the latest advancements in iPhone X, Apple Watch Series 3, and Apple TV 4K with a new collection of videos.Watch videos.Design TemplatesDownload the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone X.Download resources.</description>
+<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p><b>Design and Development Videos</b><br>Get new insights on creating apps for the latest advancements in iPhone&nbsp;X, Apple&nbsp;Watch Series 3, and Apple&nbsp;TV 4K with a new collection of videos.</p><p><a href="https://developer.apple.com/videos/play/fall2017/">Watch videos</a>.</p><br><p><b>Design Templates</b><br>Download the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone&nbsp;X.</p><p><a href="https://developer.apple.com/design/resources/">Download resources</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>New Augmented Reality Resources Now Available</title>
