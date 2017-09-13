@@ -490,14 +490,6 @@
 <pubDate>Wed, 21 Sep 2016 15:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>At WWDC16 we demonstrated controlling a Sphero SPRK+ robot on stage, driven by the Swift Playgrounds app on iPad. The playground has been updated for the latest release of Swift Playgrounds on the App Store. Visit the <a href="https://developer.apple.com/swift/blog/?id=38">Swift blog</a> to download the file and run it on your iPad to see how it works, and learn to write code that lets you control the robot in additional ways.</p>]]></content:encoded>
 </item>
-<item>
-<title>New Subscriptions Data and Reports are Now Available</title>
-<link>https://developer.apple.com/news/?id=09132016a</link>
-<guid>https://developer.apple.com/news/?id=09132016a</guid>
-<description>You can now get more data about your auto-renewable subscriptions in iTunes Connect. The new Subscriptions page in Sales and Trends makes it easy to view key metrics and two new reports provide details into subscriber activity. Learn more.</description>
-<pubDate>Tue, 13 Sep 2016 11:50:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now get more data about your auto-renewable subscriptions in iTunes Connect. The new Subscriptions page in Sales and Trends makes it easy to view key metrics and two new reports provide details into subscriber activity. <a href="https://itunespartner.apple.com/en/apps/news/5721783">Learn more</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
