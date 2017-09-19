@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 14 Sep 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 19 Sep 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>New Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=09192017a</link>
+<guid>https://developer.apple.com/news/?id=09192017a</guid>
+<description>Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 (9A235)iOS 11 (15A372)watchOS 4 (15R372)tvOS 11 (15J381)View all downloads.</description>
+<pubDate>Tue, 19 Sep 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 (9A235)</li><li>iOS 11 (15A372)</li><li>watchOS 4 (15R372)</li><li>tvOS 11 (15J381)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Updated Guidelines Now Available</title>
 <link>https://developer.apple.com/news/?id=09142017b</link>
