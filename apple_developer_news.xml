@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 19 Sep 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 19 Sep 2017 13:40:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Higher Limit for Over-the-Air Downloads</title>
+<link>https://developer.apple.com/news/?id=09192017b</link>
+<guid>https://developer.apple.com/news/?id=09192017b</guid>
+<description>We’ve increased the cellular download limit from 100 MB to 150 MB, letting customers download more apps from the App Store over their cellular network.</description>
+<pubDate>Tue, 19 Sep 2017 13:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We’ve increased the cellular download limit from 100 MB to 150&nbsp;MB, letting customers download more apps from the App&nbsp;Store over their cellular network.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Downloads Now Available</title>
 <link>https://developer.apple.com/news/?id=09192017a</link>
