@@ -530,14 +530,6 @@
 <pubDate>Thu, 22 Sep 2016 16:35:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now take advantage of a simpler method of authentication by using tokens instead of certificates when sending push notifications. A token is easy to generate, doesn’t expire, and can be used to send notifications to all of your apps. <a href="https://developer.apple.com/go/?id=push-notifications">Learn more about push notifications.</a></p>]]></content:encoded>
 </item>
-<item>
-<title>Controlling Robots using Swift Playgrounds on iPad</title>
-<link>https://developer.apple.com/news/?id=09212016b</link>
-<guid>https://developer.apple.com/news/?id=09212016b</guid>
-<description>At WWDC16 we demonstrated controlling a Sphero SPRK+ robot on stage, driven by the Swift Playgrounds app on iPad. The playground has been updated for the latest release of Swift Playgrounds on the App Store. Visit the Swift blog to download the file and run it on your iPad to see how it works, and learn to write code that lets you control the robot in additional ways.</description>
-<pubDate>Wed, 21 Sep 2016 15:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>At WWDC16 we demonstrated controlling a Sphero SPRK+ robot on stage, driven by the Swift Playgrounds app on iPad. The playground has been updated for the latest release of Swift Playgrounds on the App Store. Visit the <a href="https://developer.apple.com/swift/blog/?id=38">Swift blog</a> to download the file and run it on your iPad to see how it works, and learn to write code that lets you control the robot in additional ways.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
