@@ -522,14 +522,6 @@
 <pubDate>Fri, 23 Sep 2016 13:45:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Images of iPhone 7, iPhone 7 Plus, and Apple Watch Series 2 are now available for you to use in marketing materials for your apps on the App Store. You can also get guidance on marketing and messaging iMessage apps, as well as showing your app’s screen content within Apple products such as Siri and Maps. Download the images and read the updated information in the  <span class="nowrap"><a href="https://developer.apple.com/app-store/marketing/">App Store Marketing Guidelines</a></span>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Token Authentication Now Available for Push Notifications</title>
-<link>https://developer.apple.com/news/?id=09222016a</link>
-<guid>https://developer.apple.com/news/?id=09222016a</guid>
-<description>You can now take advantage of a simpler method of authentication by using tokens instead of certificates when sending push notifications. A token is easy to generate, doesn’t expire, and can be used to send notifications to all of your apps. Learn more about push notifications.</description>
-<pubDate>Thu, 22 Sep 2016 16:35:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now take advantage of a simpler method of authentication by using tokens instead of certificates when sending push notifications. A token is easy to generate, doesn’t expire, and can be used to send notifications to all of your apps. <a href="https://developer.apple.com/go/?id=push-notifications">Learn more about push notifications.</a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
