@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 20 Sep 2017 09:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 25 Sep 2017 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>macOS High Sierra 10.13 (17A365) Now Available</title>
+<link>https://developer.apple.com/news/?id=09252017a</link>
+<guid>https://developer.apple.com/news/?id=09252017a</guid>
+<description>macOS High Sierra 10.13 (17A365) Now Available</description>
+<pubDate>Mon, 25 Sep 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[macOS High Sierra 10.13 (17A365) Now Available]]></content:encoded>
+</item>
 <item>
 <title>Newly Streamlined App Ratings</title>
 <link>https://developer.apple.com/news/?id=09202017a</link>
@@ -49,14 +57,6 @@
 <description>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.Read the App Store Review Guidelines.</description>
 <pubDate>Thu, 14 Sep 2017 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">Read the App Store Review Guidelines</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>macOS High Sierra 10.13 GM candidate (17A362a) Now Available</title>
-<link>https://developer.apple.com/news/?id=09142017a</link>
-<guid>https://developer.apple.com/news/?id=09142017a</guid>
-<description>macOS High Sierra 10.13 GM candidate (17A362a) Now Available</description>
-<pubDate>Thu, 14 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS High Sierra 10.13 GM candidate (17A362a) Now Available]]></content:encoded>
 </item>
 <item>
 <title>Submit Your Apps to the App Store</title>
