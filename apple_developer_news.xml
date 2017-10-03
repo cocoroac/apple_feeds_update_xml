@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 20 Sep 2017 09:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Oct 2017 14:30:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Update Your Apps for iPhone X</title>
+<link>https://developer.apple.com/news/?id=10032017a</link>
+<guid>https://developer.apple.com/news/?id=10032017a</guid>
+<description>iPhone X features the stunning 5.8-inch Super Retina display, enabling even more immersive app experiences. Start testing your apps now to make sure they are ready to take advantage of the Super Retina display by respecting safe areas, supporting adaptive layouts, and more.Learn about updating apps for iPhone X.</description>
+<pubDate>Tue, 03 Oct 2017 14:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iPhone X features the stunning 5.8-inch Super Retina display, enabling even more immersive app experiences. Start testing your apps now to make sure they are ready to take advantage of the Super Retina display by respecting safe areas, supporting adaptive layouts, and more.</p><p><a href="https://developer.apple.com/ios/update-apps-for-iphone-x/">Learn about updating apps for iPhone X</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Newly Streamlined App Ratings</title>
 <link>https://developer.apple.com/news/?id=09202017a</link>
