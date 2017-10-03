@@ -2,38 +2,14 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="https://developer.apple.com/news/rss/news.rss" rel="self" type="application/rss+xml" />
-<title>News and Updates - Apple Developer</title>
+<title>News - Apple Developer</title>
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 03 Oct 2017 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 20 Sep 2017 09:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
-<item>
-<title>iOS 11.0.2 (15A421) Now Available</title>
-<link>https://developer.apple.com/news/?id=10032017a</link>
-<guid>https://developer.apple.com/news/?id=10032017a</guid>
-<description>iOS 11.0.2 (15A421) Now Available</description>
-<pubDate>Tue, 03 Oct 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[iOS 11.0.2 (15A421) Now Available]]></content:encoded>
-</item>
-<item>
-<title>New Beta Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=09272017a</link>
-<guid>https://developer.apple.com/news/?id=09272017a</guid>
-<description>A new beta of Xcode 9.1 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9.1 beta (9B37)macOS High Sierra 10.13.1 beta (17B25c)watchOS 4.1 beta (15R5823c)iOS 11.1 beta (15B5066f)tvOS 11.1 beta (15J5559d)View all downloads.</description>
-<pubDate>Wed, 27 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>A new beta of Xcode 9.1 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9.1 beta (9B37)</li><li>macOS High Sierra 10.13.1 beta (17B25c)</li><li>watchOS 4.1 beta (15R5823c)</li><li>iOS 11.1 beta (15B5066f)</li><li>tvOS 11.1 beta (15J5559d)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>macOS High Sierra 10.13 (17A365) Now Available</title>
-<link>https://developer.apple.com/news/?id=09252017a</link>
-<guid>https://developer.apple.com/news/?id=09252017a</guid>
-<description>macOS High Sierra 10.13 (17A365) Now Available</description>
-<pubDate>Mon, 25 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[macOS High Sierra 10.13 (17A365) Now Available]]></content:encoded>
-</item>
 <item>
 <title>Newly Streamlined App Ratings</title>
 <link>https://developer.apple.com/news/?id=09202017a</link>
@@ -57,14 +33,6 @@
 <description>We’ve increased the cellular download limit from 100 MB to 150 MB, letting customers download more apps from the App Store over their cellular network.</description>
 <pubDate>Tue, 19 Sep 2017 13:40:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>We’ve increased the cellular download limit from 100 MB to 150&nbsp;MB, letting customers download more apps from the App&nbsp;Store over their cellular network.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=09192017a</link>
-<guid>https://developer.apple.com/news/?id=09192017a</guid>
-<description>Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. Xcode 9 (9A235)iOS 11 (15A372)watchOS 4 (15R372)tvOS 11 (15J381)View all downloads.</description>
-<pubDate>Tue, 19 Sep 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Xcode 9 is now available, and includes Swift 4 and SDKs used to build apps with the latest innovations and powerful capabilities in macOS, iOS, watchOS, and tvOS. <ul><li>Xcode 9 (9A235)</li><li>iOS 11 (15A372)</li><li>watchOS 4 (15R372)</li><li>tvOS 11 (15J381)</li></ul><br><a href="https://developer.apple.com/download/"><p>View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Updated Guidelines Now Available</title>
@@ -129,14 +97,6 @@
 <description>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  SKPaymentTransactionObserver, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  SKProductStorePromotionController API.Learn more about promoted in-app purchases.</description>
 <pubDate>Tue, 29 Aug 2017 13:35:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  <a href="https://developer.apple.com/documentation/storekit/skpaymenttransactionobserver/2877502-paymentqueue">SKPaymentTransactionObserver</a>, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  <a href="https://developer.apple.com/documentation/storekit/skproductstorepromotioncontroller">SKProductStorePromotionController</a> API.</p><p><a href="https://developer.apple.com/app-store/promoting-in-app-purchases/">Learn more about promoted in-app purchases</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Downloads Now Available</title>
-<link>https://developer.apple.com/news/?id=08282017a</link>
-<guid>https://developer.apple.com/news/?id=08282017a</guid>
-<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS High Sierra 10.13 beta 8 (17A358a)iOS 11 beta 8 (15A5368a)watchOS 4 beta 8 (15R5371a)tvOS 11 beta 8 (15J5374a)View all downloads.</description>
-<pubDate>Mon, 28 Aug 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS High Sierra 10.13 beta 8 (17A358a)</li><li>iOS 11 beta 8 (15A5368a)</li><li>watchOS 4 beta 8 (15R5371a)</li><li>tvOS 11 beta 8 (15J5374a)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Expanded Tester Limits in TestFlight</title>
@@ -390,9 +350,9 @@
 <title>SiriKit Now Available on watchOS 3.2</title>
 <link>https://developer.apple.com/news/?id=01242017b</link>
 <guid>https://developer.apple.com/news/?id=01242017b</guid>
-<description>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
+<description>Use APIs to integrate Siri’s natural language experience into your watchOS app. SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
 <pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app. SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Design Resources for iOS Apps Now Available</title>
