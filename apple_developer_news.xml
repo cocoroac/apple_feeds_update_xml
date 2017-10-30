@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 27 Oct 2017 14:20:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 30 Oct 2017 12:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Get Ready for SiriKit on HomePod</title>
+<link>https://developer.apple.com/news/?id=10302017a</link>
+<guid>https://developer.apple.com/news/?id=10302017a</guid>
+<description>iOS 11.2 introduces SiriKit for HomePod, the powerful speaker that sounds amazing, adapts to wherever it’s playing, and provides instant access to Apple Music. HomePod is also a helpful home assistant for everyday questions and tasks. With the intelligence of Siri, users control HomePod through natural voice interaction. And with SiriKit, users can access iOS apps for Messaging, Lists, and Notes. Make sure your SiriKit integration is up to date and test your app’s voice-only experience today. Learn more about SiriKit on HomePod.</description>
+<pubDate>Mon, 30 Oct 2017 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iOS 11.2 introduces SiriKit for HomePod, the powerful speaker that sounds amazing, adapts to wherever it’s playing, and provides instant access to Apple Music. HomePod is also a helpful home assistant for everyday questions and tasks. With the intelligence of Siri, users control HomePod through natural voice interaction. And with SiriKit, users can access iOS apps for Messaging, Lists, and Notes. Make sure your SiriKit integration is up to date and test your app’s voice-only experience today. </p><p><a href="https://developer.apple.com/sirikit/">Learn more about SiriKit on HomePod</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Submit Your Updated Apps for iPhone X</title>
 <link>https://developer.apple.com/news/?id=10272017a</link>
