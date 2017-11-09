@@ -498,14 +498,6 @@
 <pubDate>Mon, 14 Nov 2016 16:45:00 PST</pubDate>
 <content:encoded><![CDATA[<p>U.S.-based nonprofits can now use <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Apple Pay</a></span> to provide a simple and secure way to accept donations from within their app and website. <span class="nowrap"><a href="http://www.apple.com/newsroom/2016/11/a-touch-of-giving-with-apple-pay.html">Learn more</a></span>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Linking to Your tvOS App Product Pages</title>
-<link>https://developer.apple.com/news/?id=11092016a</link>
-<guid>https://developer.apple.com/news/?id=11092016a</guid>
-<description>Make it easier for customers to view your tvOS apps on the App Store for iPhone and iPad, and on the iTunes Store on Mac and PC with a direct link your app’s product page. Customers who have enabled their Apple TV to automatically install apps can download your app straight to Apple TV from their iOS device or computer. Simply get the link from iTunes Link Maker and use it when promoting your app.Learn more about preparing tvOS apps for the App Store.</description>
-<pubDate>Wed, 09 Nov 2016 11:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Make it easier for customers to view your tvOS apps on the App&nbsp;Store for iPhone and iPad, and on the iTunes Store on Mac and PC with a direct link your app’s product page. Customers who have enabled their Apple TV to automatically install apps can download your app straight to Apple&nbsp;TV from their iOS device or computer. Simply get the link from <a href="https://linkmaker.itunes.apple.com/">iTunes Link Maker</a> and use it when promoting your app.<p><p><a href="https://developer.apple.com/tvos/submit/">Learn more about preparing tvOS apps for the App Store</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
