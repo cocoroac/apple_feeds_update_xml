@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 03 Nov 2017 16:45:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 13 Nov 2017 15:50:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Websites on iPhone X</title>
+<link>https://developer.apple.com/news/?id=11132017a</link>
+<guid>https://developer.apple.com/news/?id=11132017a</guid>
+<description>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with Xcode 9.2 beta.Learn more about designing websites for iPhone X.</description>
+<pubDate>Mon, 13 Nov 2017 15:50:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with <a href="https://developer.apple.com/download/">Xcode&nbsp;9.2&nbsp;beta</a>.</p><p><a href="https://webkit.org/blog/7929/designing-websites-for-iphone-x/">Learn more about designing websites for iPhone X</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New App Store Marketing Guidelines and Resources</title>
 <link>https://developer.apple.com/news/?id=11032017</link>
