@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 13 Nov 2017 15:50:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 16 Nov 2017 13:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Update Your watchOS Apps</title>
+<link>https://developer.apple.com/news/?id=11162017a</link>
+<guid>https://developer.apple.com/news/?id=11162017a</guid>
+<description>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75 MB.Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS 4 SDK or later.Learn about developing for watchOS 4.</description>
+<pubDate>Thu, 16 Nov 2017 13:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75&nbsp;MB.</p><p>Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS&nbsp;4 SDK or later.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS&nbsp;4</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Websites on iPhone X</title>
 <link>https://developer.apple.com/news/?id=11132017a</link>
