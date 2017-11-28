@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 16 Nov 2017 13:00:00 PST</lastBuildDate>
+<lastBuildDate>Tue, 28 Nov 2017 10:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title> Hour of Code</title>
+<link>https://developer.apple.com/news/?id=11282017b</link>
+<guid>https://developer.apple.com/news/?id=11282017b</guid>
+<description>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in Swift Playgrounds on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the facilitator guide or sign up for a coding session at your local Apple Store with  Today at Apple.The Hour of Code is an initiative by Computer Science Education Week and Code.org to introduce millions of students around the world to one hour of computer science and computer programming.</description>
+<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in <span class="nowrap"><a href="https://developer.apple.com/swift/playgrounds/">Swift Playgrounds</a></span> on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the <a href="https://images.apple.com/education/docs/hour-of-code-guide-2017.pdf">facilitator guide</a> or sign up for a coding session at your local Apple Store with  <a href=" https://www.apple.com/today/collection/hourofcode/">Today at Apple</a>.</p><p>The Hour of Code is an initiative by <a href="https://csedweek.org">Computer Science Education Week</a> and <a href="https://code.org">Code.org</a> to introduce millions of students around the world to one hour of computer science and computer programming.</p>]]></content:encoded>
+</item>
+<item>
+<title>iTunes Connect Holiday Schedule</title>
+<link>https://developer.apple.com/news/?id=11282017a</link>
+<guid>https://developer.apple.com/news/?id=11282017a</guid>
+<description>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.Learn more about preparing apps for the App Store.</description>
+<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p>With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App&nbsp;Store</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Update Your watchOS Apps</title>
 <link>https://developer.apple.com/news/?id=11162017a</link>
