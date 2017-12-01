@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 28 Nov 2017 10:00:00 PST</lastBuildDate>
+<lastBuildDate>Fri, 01 Dec 2017 13:30:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>64-bit Requirement for Mac Apps</title>
+<link>https://developer.apple.com/news/?id=12012017a</link>
+<guid>https://developer.apple.com/news/?id=12012017a</guid>
+<description>As a reminder, new apps submitted to the Mac App Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS High Sierra.Learn more about distributing Mac apps.</description>
+<pubDate>Fri, 01 Dec 2017 13:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new apps submitted to the Mac&nbsp;App&nbsp;Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June&nbsp;2018. If you distribute your apps outside the Mac&nbsp;App&nbsp;Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS&nbsp;High&nbsp;Sierra.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
+</item>
 <item>
 <title> Hour of Code</title>
 <link>https://developer.apple.com/news/?id=11282017b</link>
