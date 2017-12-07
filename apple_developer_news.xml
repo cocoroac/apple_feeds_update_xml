@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 05 Dec 2017 15:30:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 07 Dec 2017 04:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>App Store Best of 2017</title>
+<link>https://developer.apple.com/news/?id=12072017a</link>
+<guid>https://developer.apple.com/news/?id=12072017a</guid>
+<description>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.See all the featured apps and games.</description>
+<pubDate>Thu, 07 Dec 2017 04:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/best-of-2017/">See all the featured apps and games.</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Introducing Search Ads Basic</title>
 <link>https://developer.apple.com/news/?id=12052017a</link>
