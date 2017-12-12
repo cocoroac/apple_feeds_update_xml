@@ -6,17 +6,33 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 07 Dec 2017 04:00:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 11 Dec 2017 16:20:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
+<item>
+<title>Make Your Apps Available for Pre-Order</title>
+<link>https://developer.apple.com/news/?id=12112017a</link>
+<guid>https://developer.apple.com/news/?id=12112017a</guid>
+<description>You can now make your new apps available for pre-order on the App Store on all Apple Platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.Learn more about offering your apps for pre-order.</description>
+<pubDate>Mon, 11 Dec 2017 16:20:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now make your new apps available for pre-order on the App&nbsp;Store on all Apple Platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/pre-orders/">Learn more about offering your apps for pre-order</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Offer Introductory Pricing for Your Subscriptions</title>
+<link>https://developer.apple.com/news/?id=12112017b</link>
+<guid>https://developer.apple.com/news/?id=12112017b</guid>
+<description>You can now offer new customers a discounted introductory price for your auto-renewable subscriptions on the App Store. Visit your in-app purchase page in iTunes Connect to configure introductory pricing and use new API additions in iOS 11.2 to localize and display introductory pricing details to your users.Learn more about offering introductory pricing.</description>
+<pubDate>Mon, 11 Dec 2017 16:20:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now offer new customers a discounted introductory price for your auto-renewable subscriptions on the App&nbsp;Store. Visit your in-app purchase page in iTunes Connect to configure introductory pricing and use new API additions in iOS 11.2 to localize and display introductory pricing details to your users.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/subscriptions/">Learn more about offering introductory pricing</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>App Store Best of 2017</title>
 <link>https://developer.apple.com/news/?id=12072017a</link>
 <guid>https://developer.apple.com/news/?id=12072017a</guid>
 <description>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.See all the featured apps and games.</description>
 <pubDate>Thu, 07 Dec 2017 04:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/best-of-2017/">See all the featured apps and games.</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2017. This showcase honors our favorite apps and games on the App&nbsp;Store, and celebrates the amazing experiences that developers have created for macOS, iOS, watchOS, and tvOS.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/best-of-2017/">See all the featured apps and games.</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Introducing Search Ads Basic</title>
