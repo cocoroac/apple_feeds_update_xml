@@ -6,17 +6,25 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 11 Dec 2017 16:20:00 PST</lastBuildDate>
+<lastBuildDate>Wed, 13 Dec 2017 17:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2017, Apple Inc.</copyright>
 
 <item>
+<title>iTunes Connect Holiday Schedule</title>
+<link>https://developer.apple.com/news/?id=12132017a</link>
+<guid>https://developer.apple.com/news/?id=12132017a</guid>
+<description>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.Learn more about preparing apps for the App Store.</description>
+<pubDate>Wed, 13 Dec 2017 17:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App&nbsp;Store</a></span>.</p>]]></content:encoded>
+</item>
+<item>
 <title>Make Your Apps Available for Pre-Order</title>
 <link>https://developer.apple.com/news/?id=12112017a</link>
 <guid>https://developer.apple.com/news/?id=12112017a</guid>
-<description>You can now make your new apps available for pre-order on the App Store on all Apple Platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.Learn more about offering your apps for pre-order.</description>
+<description>You can now make your new apps available for pre-order on the App Store on all Apple platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.Learn more about offering your apps for pre-order.</description>
 <pubDate>Mon, 11 Dec 2017 16:20:00 PST</pubDate>
-<content:encoded><![CDATA[<p>You can now make your new apps available for pre-order on the App&nbsp;Store on all Apple Platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/pre-orders/">Learn more about offering your apps for pre-order</a></span>.</p>]]></content:encoded>
+<content:encoded><![CDATA[<p>You can now make your new apps available for pre-order on the App&nbsp;Store on all Apple platforms. Customers can see your product page and order your app before it’s released for download. Once your app is released, customers will be notified and it will automatically download to their device. Let your customers know your app is coming by using the pre-order badges in your marketing materials.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/pre-orders/">Learn more about offering your apps for pre-order</a></span>.</p>]]></content:encoded>
 </item>
 <item>
 <title>Offer Introductory Pricing for Your Subscriptions</title>
