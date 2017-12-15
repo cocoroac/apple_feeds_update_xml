@@ -522,14 +522,6 @@
 <pubDate>Wed, 21 Dec 2016 18:15:00 PST</pubDate>
 <content:encoded><![CDATA[<p>App Transport Security (ATS), introduced in iOS 9 and OS X v10.11, improves user security and privacy by requiring apps to use secure network connections over HTTPS. At WWDC 2016 we announced that apps submitted to the App Store will be required to support ATS at the end of the year. To give you additional time to prepare, this deadline has been extended and we will provide another update when a new deadline is confirmed. <a href="https://developer.apple.com/videos/play/wwdc2016/706/"><span class="nowrap">Learn more about ATS</span>.</a></p>]]></content:encoded>
 </item>
-<item>
-<title>Winter Holiday Schedule</title>
-<link>https://developer.apple.com/news/?id=12152016a</link>
-<guid>https://developer.apple.com/news/?id=12152016a</guid>
-<description>As a reminder, we will not be accepting new app or app update submissions from December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.Learn more about preparing apps for the App Store.</description>
-<pubDate>Thu, 15 Dec 2016 12:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>As a reminder, we will not be accepting new app or app update submissions from December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App Store</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
