@@ -522,14 +522,6 @@
 <pubDate>Thu, 05 Jan 2017 17:45:00 PST</pubDate>
 <content:encoded><![CDATA[<p>The App Store welcomed 2017 with its busiest single day ever on New Year’s Day, with customers around the world spending $240&nbsp;million on apps and in-app purchases. Developers earned over $20&nbsp;billion last year, and to date have earned a cumulative $60 billion from the sale of apps and games. Thank you for the many innovative apps you've created — which together with our products — help to truly enrich people’s lives. <span class="nowrap"><a href="http://www.apple.com/newsroom/2017/01/app-store-shatters-records-on-new-years-day.html">See the full press release.</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>Supporting App Transport Security</title>
-<link>https://developer.apple.com/news/?id=12212016b</link>
-<guid>https://developer.apple.com/news/?id=12212016b</guid>
-<description>App Transport Security (ATS), introduced in iOS 9 and OS X v10.11, improves user security and privacy by requiring apps to use secure network connections over HTTPS. At WWDC 2016 we announced that apps submitted to the App Store will be required to support ATS at the end of the year. To give you additional time to prepare, this deadline has been extended and we will provide another update when a new deadline is confirmed. Learn more about ATS.</description>
-<pubDate>Wed, 21 Dec 2016 18:15:00 PST</pubDate>
-<content:encoded><![CDATA[<p>App Transport Security (ATS), introduced in iOS 9 and OS X v10.11, improves user security and privacy by requiring apps to use secure network connections over HTTPS. At WWDC 2016 we announced that apps submitted to the App Store will be required to support ATS at the end of the year. To give you additional time to prepare, this deadline has been extended and we will provide another update when a new deadline is confirmed. <a href="https://developer.apple.com/videos/play/wwdc2016/706/"><span class="nowrap">Learn more about ATS</span>.</a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
