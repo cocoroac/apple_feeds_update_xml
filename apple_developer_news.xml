@@ -522,14 +522,6 @@
 <pubDate>Thu, 12 Jan 2017 15:30:00 PST</pubDate>
 <content:encoded><![CDATA[<p>The size limit of a tvOS app bundle has increased from 200 MB to 4&nbsp;GB, so you can include more media in your submission and provide a complete, rich user experience upon installation. Also, tvOS apps can use <span class="nowrap">On-Demand</span> Resources to host up to 20&nbsp;GB of additional content on the App Store.</p><p> <a href="https://developer.apple.com/tvos/submit/">Learn more about preparing apps for the <span class="nowrap">App Store</span></a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>What a Way to Begin 2017</title>
-<link>https://developer.apple.com/news/?id=01052017a</link>
-<guid>https://developer.apple.com/news/?id=01052017a</guid>
-<description>The App Store welcomed 2017 with its busiest single day ever on New Year’s Day, with customers around the world spending $240 million on apps and in-app purchases. Developers earned over $20 billion last year, and to date have earned a cumulative $60 billion from the sale of apps and games. Thank you for the many innovative apps you've created — which together with our products — help to truly enrich people’s lives. See the full press release.</description>
-<pubDate>Thu, 05 Jan 2017 17:45:00 PST</pubDate>
-<content:encoded><![CDATA[<p>The App Store welcomed 2017 with its busiest single day ever on New Year’s Day, with customers around the world spending $240&nbsp;million on apps and in-app purchases. Developers earned over $20&nbsp;billion last year, and to date have earned a cumulative $60 billion from the sale of apps and games. Thank you for the many innovative apps you've created — which together with our products — help to truly enrich people’s lives. <span class="nowrap"><a href="http://www.apple.com/newsroom/2017/01/app-store-shatters-records-on-new-years-day.html">See the full press release.</a></span></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
