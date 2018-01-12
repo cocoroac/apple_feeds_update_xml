@@ -514,14 +514,6 @@
 <pubDate>Thu, 19 Jan 2017 11:45:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Creating iOS apps is even easier with the updated Apple UI Design Resources. Use the latest Sketch and Photoshop templates and guides, color palettes, and the San Francisco typeface to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iOS. <span class="nowrap"><a href="https://developer.apple.com/ios/human-interface-guidelines/resources/"> Learn more.</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>Now Accepting Larger tvOS Binaries</title>
-<link>https://developer.apple.com/news/?id=01122017c</link>
-<guid>https://developer.apple.com/news/?id=01122017c</guid>
-<description>The size limit of a tvOS app bundle has increased from 200 MB to 4 GB, so you can include more media in your submission and provide a complete, rich user experience upon installation. Also, tvOS apps can use On-Demand Resources to host up to 20 GB of additional content on the App Store. Learn more about preparing apps for the App Store.</description>
-<pubDate>Thu, 12 Jan 2017 15:30:00 PST</pubDate>
-<content:encoded><![CDATA[<p>The size limit of a tvOS app bundle has increased from 200 MB to 4&nbsp;GB, so you can include more media in your submission and provide a complete, rich user experience upon installation. Also, tvOS apps can use <span class="nowrap">On-Demand</span> Resources to host up to 20&nbsp;GB of additional content on the App Store.</p><p> <a href="https://developer.apple.com/tvos/submit/">Learn more about preparing apps for the <span class="nowrap">App Store</span></a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
