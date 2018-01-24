@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 03 Jan 2018 10:00:00 PST</lastBuildDate>
+<lastBuildDate>Wed, 24 Jan 2018 10:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>ARKit 1.5 Now Available</title>
+<link>https://developer.apple.com/news/?id=01242018b</link>
+<guid>https://developer.apple.com/news/?id=01242018b</guid>
+<description>iOS 11 is the biggest AR platform in the world, allowing you to create unparalleled augmented reality experiences for hundreds of millions of iOS users. Now you can build even more immersive experiences by taking advantage of the latest features of ARKit, available in iOS 11.3 beta. With improved scene understanding, your app can see and place virtual objects on vertical surfaces, and more accurately map irregularly shaped surfaces. Real world images, such as signs, posters, and artwork can be integrated into the AR experience, so your app can fill a museum with interactive content or bring a movie poster to life. And now, the pass-through camera view of the real world is higher resolution and supports auto-focus for a sharper view in more situations.Learn more about ARKit.</description>
+<pubDate>Wed, 24 Jan 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>iOS 11 is the biggest AR platform in the world, allowing you to create unparalleled augmented reality experiences for hundreds of millions of iOS users. Now you can build even more immersive experiences by taking advantage of the latest features of ARKit, available in iOS 11.3 beta. With improved scene understanding, your app can see and place virtual objects on vertical surfaces, and more accurately map irregularly shaped surfaces. Real world images, such as signs, posters, and artwork can be integrated into the AR experience, so your app can fill a museum with interactive content or bring a movie poster to life. And now, the pass-through camera view of the real world is higher resolution and supports auto-focus for a sharper view in more situations.</p><p><span class="nowrap"><a href="https://developer.apple.com/arkit/">Learn more about ARKit</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Swift Playgrounds 2.0 Now Available</title>
+<link>https://developer.apple.com/news/?id=01242018a</link>
+<guid>https://developer.apple.com/news/?id=01242018a</guid>
+<description>The latest version of Swift Playgrounds includes new features to make it easier to discover even more content. Now you can subscribe to playgrounds from your favorite third-party creators, then browse and download their content directly within Swift Playgrounds. You’ll automatically see new and updated playgrounds in your subscriptions, a content gallery that shows all playgrounds in a single view, new robots, and much more.Download Swift Playgrounds on the App Store.</description>
+<pubDate>Wed, 24 Jan 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The latest version of Swift Playgrounds includes new features to make it easier to discover even more content. Now you can subscribe to playgrounds from your favorite third-party creators, then browse and download their content directly within Swift Playgrounds. You’ll automatically see new and updated playgrounds in your subscriptions, a content gallery that shows all playgrounds in a single view, new robots, and much more.</p><p><span class="nowrap"><a href="https://itunes.apple.com/us/app/swift-playgrounds/id908519492?mt=8">Download Swift Playgrounds on the App Store</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Apple Developer Program Membership Fee Waivers Now Available</title>
 <link>https://developer.apple.com/news/?id=01032018a</link>
