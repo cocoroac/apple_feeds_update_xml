@@ -522,22 +522,6 @@
 <pubDate>Wed, 01 Feb 2017 16:50:00 PST</pubDate>
 <content:encoded><![CDATA[<p>On February 13, 2017, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of <span class="nowrap"><a href="https://developer.apple.com/reference/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. <span class="nowrap"><a href="https://forums.developer.apple.com/message/209278#209278">Learn more</a></span>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Allow Users to Provide Ratings From Within Your App </title>
-<link>https://developer.apple.com/news/?id=01242017c</link>
-<guid>https://developer.apple.com/news/?id=01242017c</guid>
-<description>With iOS 10.3, you can use a new API to ask users to provide App Store ratings and reviews without leaving your app. You can also publicly respond to customer reviews on the App Store and Mac App Store. Learn more.</description>
-<pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
-<content:encoded><![CDATA[<p>With iOS 10.3, you can use a new API to ask users to provide App&nbsp;Store ratings and reviews without leaving your app. You can also publicly respond to customer reviews on the App&nbsp;Store and Mac&nbsp;App&nbsp;Store. <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Articles/iOS10_3.html#//apple_ref/doc/uid/TP40017594-SW1/">Learn more</a></span>.</p>]]></content:encoded>
-</item>
-<item>
-<title>SiriKit Now Available on watchOS 3.2</title>
-<link>https://developer.apple.com/news/?id=01242017b</link>
-<guid>https://developer.apple.com/news/?id=01242017b</guid>
-<description>Use APIs to integrate Siri’s natural language experience into your watchOS app. SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
-<pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app. SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
