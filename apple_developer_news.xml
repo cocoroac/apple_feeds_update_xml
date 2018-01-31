@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 24 Jan 2018 13:00:00 PST</lastBuildDate>
+<lastBuildDate>Wed, 31 Jan 2018 12:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Upload App Previews with Transporter</title>
+<link>https://developer.apple.com/news/?id=01312018a</link>
+<guid>https://developer.apple.com/news/?id=01312018a</guid>
+<description>You can now use Transporter, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the App Metadata Specification.Learn more about app previews.</description>
+<pubDate>Wed, 31 Jan 2018 12:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now use <a href="http://itunespartner.apple.com/en/movies/faq/Transporter_Getting%20Set%20Up#!" target="_blank">Transporter</a>, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the <a href="http://help.apple.com/itc/appsspec/" target="_blank">App Metadata Specification</a>.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/app-previews/">Learn more about app previews</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Tools for 64-bit Support in Xcode 9.3 Beta</title>
 <link>https://developer.apple.com/news/?id=01242018d</link>
