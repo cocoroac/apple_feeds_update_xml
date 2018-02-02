@@ -522,14 +522,6 @@
 <pubDate>Wed, 15 Feb 2017 11:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Super Evil Megacorp, the developer behind the mobile-first multiplayer game Vainglory, shares its approach to community management, and how it evolves the game by listening to player feedback. <span class="nowrap"><a href="https://developer.apple.com/app-store/super-evil-megacorp/">Learn more</a></span>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Updated Certificate for Game Center Authentication</title>
-<link>https://developer.apple.com/news/?id=02012017a</link>
-<guid>https://developer.apple.com/news/?id=02012017a</guid>
-<description>On February 13, 2017, a new certificate for server-based Game Center Player ID verification will be available via the publicKeyUrl property of generateIdentityVerificationSignature, and the previous certificate will expire.Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. Learn more.</description>
-<pubDate>Wed, 01 Feb 2017 16:50:00 PST</pubDate>
-<content:encoded><![CDATA[<p>On February 13, 2017, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of <span class="nowrap"><a href="https://developer.apple.com/reference/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. <span class="nowrap"><a href="https://forums.developer.apple.com/message/209278#209278">Learn more</a></span>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
