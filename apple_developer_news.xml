@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 31 Jan 2018 12:00:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 22 Feb 2018 09:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Display More Screenshots on Your Product Page</title>
+<link>https://developer.apple.com/news/?id=02212018a</link>
+<guid>https://developer.apple.com/news/?id=02212018a</guid>
+<description>You can now display up to 10 screenshots on your product page on the App Store for iPhone, iPad, Apple Watch, and Apple TV, to show customers more of your app’s experience.Learn how to make the most of your product page.</description>
+<pubDate>Thu, 22 Feb 2018 09:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now display up to 10 screenshots on your product page on the App Store for iPhone, iPad, Apple&nbsp;Watch, and Apple&nbsp;TV, to show customers more of your app’s&nbsp;experience</a>.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/product-page/">Learn how to make the most of your product page</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Build Your Apps for iOS 11 and iPhone X</title>
+<link>https://developer.apple.com/news/?id=02152018a</link>
+<guid>https://developer.apple.com/news/?id=02152018a</guid>
+<description>iOS 11 has brought innovative features and the redesigned App Store to hundreds of millions of customers around the world. Your apps can deliver more intelligent, unified, and immersive experiences with Core ML, ARKit, new camera APIs, new SiriKit domains, Apple Music integration, drag and drop for iPad, and more.Starting April 2018, all new iOS apps submitted to the App Store must be built with the iOS 11 SDK, included in Xcode 9 or later. All new apps for iPhone, including universal apps, must support the Super Retina display of iPhone X.Learn more about submitting iOS apps to the App Store.</description>
+<pubDate>Thu, 15 Feb 2018 12:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>iOS 11 has brought innovative features and the redesigned App Store to hundreds of millions of customers around the world. Your apps can deliver more intelligent, unified, and immersive experiences with Core&nbsp;ML, ARKit, new camera APIs, new SiriKit domains, Apple Music integration, drag and drop for iPad, and more.</p><p>Starting April 2018, all new iOS apps submitted to the App Store must be built with the iOS&nbsp;11 SDK, included in Xcode&nbsp;9 or later. All new apps for iPhone, including universal apps, must support the Super Retina display of iPhone&nbsp;X.</p><p><span class="nowrap"><a href="https://developer.apple.com/ios/submit/">Learn more about submitting iOS apps to the App&nbsp;Store</a></span>.</p>]]></content:encoded>
+</item>
 <item>
 <title>Upload App Previews with Transporter</title>
 <link>https://developer.apple.com/news/?id=01312018a</link>
