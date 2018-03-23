@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 20 Mar 2018 07:00:00 PDT</lastBuildDate>
+<lastBuildDate>Fri, 23 Mar 2018 12:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Developer Insights Series: App Store Product Page</title>
+<link>https://developer.apple.com/news/?id=03232018a</link>
+<guid>https://developer.apple.com/news/?id=03232018a</guid>
+<description>With iOS 11 there are even more elements of the product page that help to drive discoverability and downloads. The people behind Concepts, Grokker, TypeShift, War Dragons, and codeSpark Academy share how they use each metadata element on the App Store product page to encourage users to download their apps.Watch the film</description>
+<pubDate>Fri, 23 Mar 2018 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>With iOS 11 there are even more elements of the product page that help to drive discoverability and downloads. The people behind Concepts, Grokker, TypeShift, War&nbsp;Dragons, and codeSpark Academy share how they use each metadata element on the App Store product page to encourage users to download their apps.</p><p><span class="nowrap"><a class="icon icon-after icon-playcircle" href="https://developer.apple.com/videos/play/insights/app-store-product-page/">Watch the film</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Introducing IBM Watson Services for Core ML</title>
 <link>https://developer.apple.com/news/?id=03202018a</link>
@@ -24,7 +32,7 @@
 <guid>https://developer.apple.com/news/?id=03132018a</guid>
 <description>Register by Thursday, March 22 at 10:00 a.m. PDT for your chance to join us and thousands of talented minds from around the world in San Jose, June 4-8.Learn more about the Apple Worldwide Developers Conference.</description>
 <pubDate>Tue, 13 Mar 2018 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Register by Thursday, March 22 at 10:00 a.m. PDT for your chance to join us and thousands of talented minds from around the world in San Jose, June 4-8.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc/">Learn more about the Apple Worldwide Developers Conference</a></span>.</p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Register by Thursday, March 22 at 10:00 a.m. PDT for your chance to join us and thousands of talented minds from around the world in San Jose, June 4-8.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc/">Learn more about the Apple Worldwide Developers Conference</a>.</span></p>]]></content:encoded>
 </item>
 <item>
 <title>Display More Screenshots on Your Product Page</title>
