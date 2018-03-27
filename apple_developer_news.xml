@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 23 Mar 2018 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 27 Mar 2018 09:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Introducing ClassKit for Education Apps</title>
+<link>https://developer.apple.com/news/?id=03272018a</link>
+<guid>https://developer.apple.com/news/?id=03272018a</guid>
+<description>The ClassKit framework, coming in iOS 11.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.Learn more about ClassKit</description>
+<pubDate>Tue, 27 Mar 2018 09:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The ClassKit framework, coming in iOS 11.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.</p><p><span class="nowrap"><a class="more" href="https://developer.apple.com/classkit/">Learn more about ClassKit</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Developer Insights Series: App Store Product Page</title>
 <link>https://developer.apple.com/news/?id=03232018a</link>
