@@ -522,14 +522,6 @@
 <pubDate>Mon, 27 Mar 2017 16:20:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.</p><p><b>In-App Ratings and Reviews</b><br>The new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.</p><p><b>Responding to Customers</b><br>You can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback.</p><p> <a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn more about Ratings and Reviews</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>WWDC 2017 Registration Now Open</title>
-<link>https://developer.apple.com/news/?id=03272017a</link>
-<guid>https://developer.apple.com/news/?id=03272017a</guid>
-<description>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.Learn more about WWDC 2017.</description>
-<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.</p><p><a href="https://developer.apple.com/wwdc/">Learn more about WWDC 2017</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
