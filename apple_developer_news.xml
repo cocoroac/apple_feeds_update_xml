@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 30 Mar 2018 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Apr 2018 08:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Apple Pay Has Expanded to Brazil</title>
+<link>https://developer.apple.com/news/?id=04042018a</link>
+<guid>https://developer.apple.com/news/?id=04042018a</guid>
+<description>You can now support Apple Pay for your customers in Brazil, providing an easy and secure way for them to pay within your apps and websites.Learn more about Apple Pay.</description>
+<pubDate>Wed, 04 Apr 2018 08:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Brazil, providing an easy and secure way for them to pay within your apps and websites.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a>.</span></p>]]></content:encoded>
+</item>
 <item>
 <title>Allowing Users to Manage their Data in iCloud</title>
 <link>https://developer.apple.com/news/?id=03302018a</link>
