@@ -498,14 +498,6 @@
 <pubDate>Wed, 19 Apr 2017 16:30:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Starting April 25, 2017 at 10 a.m. PDT, Search Ads will be available on the App&nbsp;Store in the UK, Australia, and New&nbsp;Zealand, providing an efficient and easy way to promote your app at the top of relevant search results in more markets. Get started with your campaigns&nbsp;today.</p><p><a href="https://searchads.apple.com/?cid=SA-IN-US-DRNWS2">Learn more about Search Ads</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>What’s New in TestFlight</title>
-<link>https://developer.apple.com/news/?id=04112017a</link>
-<guid>https://developer.apple.com/news/?id=04112017a</guid>
-<description>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.Multiple BuildsTestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.GroupsTestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.Tester ManagementTesters can continue testing a build when it goes live on the App Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation. Learn more about TestFlight.</description>
-<pubDate>Tue, 11 Apr 2017 13:40:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>TestFlight in iTunes Connect now provides multiple build support, enhanced group capabilities, and improved tester management—making it even easier to test your apps.</p><p><b>Multiple Builds</b><br>TestFlight now lets you distribute and test multiple builds at the same time, so testers can choose from a number of builds to test.</p><p><b>Groups</b><br>TestFlight groups have changed. You can now do more with them, like create groups of TestFlight users, and each group can test a different build. To get you started, we’ve added all of your existing external testers to the group “External Testers,” which you can edit at any time.</p><p><b>Tester Management</b><br>Testers can continue testing a build when it goes live on the App&nbsp;Store, minimizing disruptions. iTunes Connect users can also access all active builds, letting them seamlessly compare different builds and you can easily resend invitations to testers who have not yet accepted their invitation.</p><p> <a href="https://developer.apple.com/testflight/">Learn more about TestFlight</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
