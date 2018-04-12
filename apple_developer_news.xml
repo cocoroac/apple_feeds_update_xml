@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 04 Apr 2018 08:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Apr 2018 17:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>64-bit Transition on macOS</title>
+<link>https://developer.apple.com/news/?id=04112018a</link>
+<guid>https://developer.apple.com/news/?id=04112018a</guid>
+<description>With the recent release of macOS High Sierra 10.13.4, the first time users launch an app that does not support 64-bit they will see an alert that the app is not optimized for their Mac.As a reminder, new apps submitted to the Mac App Store must support 64-bit, and starting June 2018, app updates and existing apps must support 64-bit. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS.Learn more about the macOS 64-bit transition</description>
+<pubDate>Wed, 11 Apr 2018 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>With the recent release of macOS High Sierra 10.13.4, the first time users launch an app that does not support 64-bit they will see an alert that the app is not optimized for their&nbsp;Mac.</p><p>As a reminder, new apps submitted to the Mac App Store must support 64-bit, and starting June 2018, app updates and existing apps must support 64-bit. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS.</p><p><a href="https://support.apple.com/en-us/HT208436"class="more">Learn more about the macOS 64-bit transition</a></p>]]></content:encoded>
+</item>
 <item>
 <title>Apple Pay Has Expanded to Brazil</title>
 <link>https://developer.apple.com/news/?id=04042018a</link>
