@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 04 Jun 2018 11:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 06 Jun 2018 11:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Introducing App Store Connect</title>
+<link>https://developer.apple.com/news/?id=06042018</link>
+<guid>https://developer.apple.com/news/?id=06042018</guid>
+<description>For app developers and their teams, iTunes Connect is now called App Store Connect. And with the new App Store Connect app, it’s even easier to manage your apps, view trends, respond to reviews, and reply to active Resolution Center issues, all on your iOS device. You can also receive push notifications for changes in your app status and new customer reviews.Learn more about App Store Connect</description>
+<pubDate>Wed, 06 Jun 2018 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>For app developers and their teams, iTunes Connect is now called App Store Connect. And with the new App Store Connect app, it’s even easier to manage your apps, view trends, respond to reviews, and reply to active Resolution Center issues, all on your iOS device. You can also receive push notifications for changes in your app status and new customer reviews.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/">Learn more about App Store Connect</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>See What’s New on Apple Platforms</title>
 <link>https://developer.apple.com/news/?id=06042018g</link>
@@ -46,9 +54,9 @@
 <title>Get Ready for the All-New Mac App Store</title>
 <link>https://developer.apple.com/news/?id=06042018b</link>
 <guid>https://developer.apple.com/news/?id=06042018b</guid>
-<description>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.Learn more about the all-new Mac App Store</description>
+<description>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.Learn more about the Mac App Store</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/mac/" <a class="more">Learn more about the all-new Mac App Store</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/mac/" <a class="more">Learn more about the Mac App Store</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Updated Guidelines Now Available</title>
