@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 06 Jun 2018 11:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jul 2018 15:30:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>WWDC18 Video Transcripts Now Available</title>
+<link>https://developer.apple.com/news/?id=07092018a</link>
+<guid>https://developer.apple.com/news/?id=07092018a</guid>
+<description>Take advantage of transcripts to quickly discover and share information presented in WWDC18 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.See this year’s WWDC videos</description>
+<pubDate>Mon, 09 Jul 2018 15:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC18 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.</p><p><a href="https://developer.apple.com/videos/wwdc2018/" class="icon icon-after icon-chevronright">See this year’s WWDC videos</a></p>]]></content:encoded>
+</item>
 <item>
 <title>Introducing App Store Connect</title>
 <link>https://developer.apple.com/news/?id=06042018</link>
@@ -24,7 +32,7 @@
 <guid>https://developer.apple.com/news/?id=06042018g</guid>
 <description>Download the Xcode 10 beta, which includes the SDKs for iOS 12, watchOS 5, tvOS 12, and macOS Mojave. With powerful advancements in Apple software and tools, you can build your most interactive, intelligent, and engaging experiences yet.Learn more</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Download the Xcode 10 beta, which includes the SDKs for iOS 12, watchOS 5, tvOS 12, and macOS Mojave. With powerful advancements in Apple software and tools, you can build your most interactive, intelligent, and engaging experiences yet.</p><p><span class="nowrap"><a href="https://developer.apple.com/" <a class="more">Learn more</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Download the Xcode 10 beta, which includes the SDKs for iOS 12, watchOS 5, tvOS 12, and macOS Mojave. With powerful advancements in Apple software and tools, you can build your most interactive, intelligent, and engaging experiences yet.</p><p><span class="nowrap"><a href="https://developer.apple.com/" class="icon icon-after icon-chevronright">Learn more</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Machine Learning</title>
@@ -32,7 +40,7 @@
 <guid>https://developer.apple.com/news/?id=06042018f</guid>
 <description>With Core ML 2, you can process models faster than ever, make them smaller, and much more. And now, you can easily build and train models using the new Create ML framework, with no machine learning expertise required.Learn more about machine learning</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>With Core ML 2, you can process models faster than ever, make them smaller, and much more. And now, you can easily build and train models using the new Create ML framework, with no machine learning expertise required.</p><p><span class="nowrap"><a href="https://developer.apple.com/machine-learning/" <a class="more">Learn more about machine learning</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>With Core ML 2, you can process models faster than ever, make them smaller, and much more. And now, you can easily build and train models using the new Create ML framework, with no machine learning expertise required.</p><p><span class="nowrap"><a href="https://developer.apple.com/machine-learning/" class="icon icon-after icon-chevronright">Learn more about machine learning</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>ARKit 2</title>
@@ -40,7 +48,7 @@
 <guid>https://developer.apple.com/news/?id=06042018e</guid>
 <description>iOS is the biggest AR platform in the world, and now you can create even more incredible experiences with ARKit 2. Multiple users can use their iOS device to simultaneously view AR experiences or play multiplayer games, as bystanders spectate. AR experiences can be saved and resumed at a later time in the same state. And you can incorporate real-world objects into your AR experiences, giving your users greater immersive opportunities.Learn more about ARKit 2</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>iOS is the biggest AR platform in the world, and now you can create even more incredible experiences with ARKit 2. Multiple users can use their iOS device to simultaneously view AR experiences or play multiplayer games, as bystanders spectate. AR experiences can be saved and resumed at a later time in the same state. And you can incorporate real-world objects into your AR experiences, giving your users greater immersive opportunities.</p><p><span class="nowrap"><a href="https://developer.apple.com/arkit/" <a class="more">Learn more about ARKit 2</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>iOS is the biggest AR platform in the world, and now you can create even more incredible experiences with ARKit 2. Multiple users can use their iOS device to simultaneously view AR experiences or play multiplayer games, as bystanders spectate. AR experiences can be saved and resumed at a later time in the same state. And you can incorporate real-world objects into your AR experiences, giving your users greater immersive opportunities.</p><p><span class="nowrap"><a href="https://developer.apple.com/arkit/" class="icon icon-after icon-chevronright">Learn more about ARKit 2</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Siri Shortcuts</title>
@@ -48,7 +56,7 @@
 <guid>https://developer.apple.com/news/?id=06042018d</guid>
 <description>Siri can now intelligently pair users’ daily routines with your apps to suggest convenient shortcuts right when they’re needed. Use the Shortcuts API to help users quickly accomplish tasks related to your app, directly from the lock screen, in Spotlight, or from the Siri watch face.Learn more about Siri Shortcuts</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Siri can now intelligently pair users’ daily routines with your apps to suggest convenient shortcuts right when they’re needed. Use the Shortcuts API to help users quickly accomplish tasks related to your app, directly from the lock screen, in Spotlight, or from the Siri watch face.</p><p><span class="nowrap"><a href="https://developer.apple.com/sirikit/" <a class="more">Learn more about Siri Shortcuts</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Siri can now intelligently pair users’ daily routines with your apps to suggest convenient shortcuts right when they’re needed. Use the Shortcuts API to help users quickly accomplish tasks related to your app, directly from the lock screen, in Spotlight, or from the Siri watch face.</p><p><span class="nowrap"><a href="https://developer.apple.com/sirikit/" class="icon icon-after icon-chevronright">Learn more about Siri Shortcuts</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Get Ready for the All-New Mac App Store</title>
@@ -56,7 +64,7 @@
 <guid>https://developer.apple.com/news/?id=06042018b</guid>
 <description>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.Learn more about the Mac App Store</description>
 <pubDate>Mon, 04 Jun 2018 11:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/mac/" <a class="more">Learn more about the Mac App Store</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The reimagined Mac App Store arrives with a new look and new editorial content that inspires and informs. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/mac/" class="icon icon-after icon-chevronright">Learn more about the Mac App Store</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Updated Guidelines Now Available</title>
@@ -118,9 +126,9 @@
 <title>Introducing ClassKit for Education Apps</title>
 <link>https://developer.apple.com/news/?id=03272018a</link>
 <guid>https://developer.apple.com/news/?id=03272018a</guid>
-<description>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.Learn more about ClassKit</description>
+<description>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.class="icon icon-after icon-chevronright" href="/classkit/">Learn more about ClassKit</description>
 <pubDate>Tue, 27 Mar 2018 09:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.</p><p><span class="nowrap"><a class="more" href="https://developer.apple.com/classkit/">Learn more about ClassKit</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.</p><p><span class="nowrap">class="icon icon-after icon-chevronright" href="https://developer.apple.com/classkit/">Learn more about ClassKit</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Developer Insights Series: App Store Product Page</title>
