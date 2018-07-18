@@ -466,14 +466,6 @@
 <pubDate>Tue, 18 Jul 2017 14:40:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying <a href="https://developer.apple.com/app-store/subscriptions/#receipts">relevant messaging</a>.</p><p><a href="https://itunespartner.apple.com/en/apps/news/45333106">Learn more about server notifications for subscriptions.</a></p>]]></content:encoded>
 </item>
-<item>
-<title>New Customer Support Role Now Available</title>
-<link>https://developer.apple.com/news/?id=07172017b</link>
-<guid>https://developer.apple.com/news/?id=07172017b</guid>
-<description>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to respond to reviews. Learn more about the new role.</description>
-<pubDate>Mon, 17 Jul 2017 17:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now you can let your customer support experts respond to reviews on the App Store. Simply assign them the Customer Support role in iTunes Connect, and they’ll get access to everything they need to <a href="https://developer.apple.com/app-store/responding-to-reviews">respond to reviews</a>. </p><p><a href="https://itunespartner.apple.com/en/apps/news/96430785">Learn more about the new role.</a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
