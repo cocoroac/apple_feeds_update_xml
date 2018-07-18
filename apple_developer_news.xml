@@ -458,14 +458,6 @@
 <pubDate>Mon, 31 Jul 2017 15:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.</p><p><a href="https://developer.apple.com/testflight">Learn more about TestFlight</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>New Subscription Status Details Now Available</title>
-<link>https://developer.apple.com/news/?id=07182017a</link>
-<guid>https://developer.apple.com/news/?id=07182017a</guid>
-<description>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying relevant messaging.Learn more about server notifications for subscriptions.</description>
-<pubDate>Tue, 18 Jul 2017 14:40:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now you can receive server notifications of key events and get enhanced receipts with real-time information about the status of auto-renewable subscriptions. You can use this information to resolve billing issues and engage customers by displaying <a href="https://developer.apple.com/app-store/subscriptions/#receipts">relevant messaging</a>.</p><p><a href="https://itunespartner.apple.com/en/apps/news/45333106">Learn more about server notifications for subscriptions.</a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
