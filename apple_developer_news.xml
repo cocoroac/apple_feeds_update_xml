@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 09 Jul 2018 15:30:00 PDT</lastBuildDate>
+<lastBuildDate>Thu, 26 Jul 2018 08:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>New Design Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=07262018a</link>
+<guid>https://developer.apple.com/news/?id=07262018a</guid>
+<description>It’s never been easier to design apps for Mac and Apple Watch. The Human Interface Guidelines now include a full set of essential AppKit UI elements for designing Mac apps in Sketch or Photoshop, as well as dozens of new UI elements for watchOS apps, watch face templates for designing complications, a color guide, and new text styles.Learn more</description>
+<pubDate>Thu, 26 Jul 2018 08:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>It’s never been easier to design apps for Mac and Apple&nbsp;Watch. The Human Interface Guidelines now include a full set of essential AppKit UI elements for designing Mac apps in Sketch or Photoshop, as well as dozens of new UI elements for watchOS apps, watch face templates for designing complications, a color guide, and new text styles.</p><p><span class="nowrap"><a href=" https://developer.apple.com/design/resources/" class="icon icon-after icon-chevronright">Learn more</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>WWDC18 Video Transcripts Now Available</title>
 <link>https://developer.apple.com/news/?id=07092018a</link>
