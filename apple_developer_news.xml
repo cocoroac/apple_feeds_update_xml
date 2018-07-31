@@ -466,14 +466,6 @@
 <pubDate>Tue, 29 Aug 2017 13:35:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>With iOS 11, users can browse in-app purchases directly on the App Store and start a purchase even before downloading your app. During the iOS 11 beta period, promoted in-app purchases are displayed on the App Store without the ability to buy. Starting this fall, your app must handle App Store transactions of promoted in-app purchases in order for your in-app purchases to be displayed on the App Store. Once the GM version of Xcode 9 is released, simply implement the new delegate method within  <a href="https://developer.apple.com/documentation/storekit/skpaymenttransactionobserver/2877502-paymentqueue">SKPaymentTransactionObserver</a>, rebuild your app, and submit for review. You can also customize which promoted in-app purchases a user sees on a specific device with the  <a href="https://developer.apple.com/documentation/storekit/skproductstorepromotioncontroller">SKProductStorePromotionController</a> API.</p><p><a href="https://developer.apple.com/app-store/promoting-in-app-purchases/">Learn more about promoted in-app purchases</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Expanded Tester Limits in TestFlight</title>
-<link>https://developer.apple.com/news/?id=07312017a</link>
-<guid>https://developer.apple.com/news/?id=07312017a</guid>
-<description>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.Learn more about TestFlight.</description>
-<pubDate>Mon, 31 Jul 2017 15:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now you can gain even more valuable feedback by inviting up to 10,000 users to beta test your apps before you release them on the App Store. TestFlight makes it simple to invite testers using just their email address and lets testers quickly provide feedback within the TestFlight app.</p><p><a href="https://developer.apple.com/testflight">Learn more about TestFlight</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
