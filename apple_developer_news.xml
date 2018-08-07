@@ -16,7 +16,7 @@
 <guid>https://developer.apple.com/news/?id=07272018a</guid>
 <description>You can now create campaigns for apps on the App Store in France, Germany, Italy, Spain, Japan, and South Korea. Search Ads is an efficient and easy way to help people discover your app at the top of relevant search results on the App Store.Learn more about Search Ads</description>
 <pubDate>Fri, 27 Jul 2018 02:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now create campaigns for apps on the App Store in France, Germany, Italy, Spain, Japan, and South Korea. Search Ads is an efficient and easy way to help people discover your app at the top of relevant search results on the App Store.</p><p><span class="nowrap"><a href=" https://searchads.apple.com/?cid=SA-ADN-INT-EXPANSION" class="icon icon-after icon-chevronright">Learn more about Search Ads</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>You can now create campaigns for apps on the App Store in France, Germany, Italy, Spain, Japan, and South Korea. Search Ads is an efficient and easy way to help people discover your app at the top of relevant search results on the App Store.</p><p><span class="nowrap"><a href="https://searchads.apple.com/?cid=SA-ADN-INT-EXPANSION" class="icon icon-after icon-chevronright">Learn more about Search Ads</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>New Design Resources Now Available</title>
@@ -142,9 +142,9 @@
 <title>Introducing ClassKit for Education Apps</title>
 <link>https://developer.apple.com/news/?id=03272018a</link>
 <guid>https://developer.apple.com/news/?id=03272018a</guid>
-<description>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.class="icon icon-after icon-chevronright" href="/classkit/">Learn more about ClassKit</description>
+<description>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction. Learn more about ClassKit</description>
 <pubDate>Tue, 27 Mar 2018 09:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.</p><p><span class="nowrap">class="icon icon-after icon-chevronright" href="https://developer.apple.com/classkit/">Learn more about ClassKit</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The ClassKit framework, coming in Xcode 9.4, works with a powerful new iPad app called Schoolwork that helps teachers and students keep track of assignments and progress. With ClassKit, you can help teachers easily discover specific learning activities in your app, take students directly to the right activity with a single tap, and securely and privately share progress data to help teachers personalize instruction.</p><p><span class="nowrap icon icon-after icon-chevronright"> <a href="https://developer.apple.com/classkit/">Learn more about ClassKit</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Developer Insights Series: App Store Product Page</title>
