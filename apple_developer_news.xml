@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 05 Sep 2018 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 10 Sep 2018 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Developer Insights Series: Using Subscriptions</title>
+<link>https://developer.apple.com/news/?id=09102018a</link>
+<guid>https://developer.apple.com/news/?id=09102018a</guid>
+<description>Auto-renewable subscriptions give users access to content or services within an app on an ongoing basis. The developers behind Elevate, Dropbox, Calm, and Bumble share how they create great customer experiences by continuing to provide value throughout the entire subscription lifecycle.Watch the film</description>
+<pubDate>Mon, 10 Sep 2018 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Auto-renewable subscriptions give users access to content or services within an app on an ongoing basis. The developers behind Elevate, Dropbox, Calm, and Bumble share how they create great customer experiences by continuing to provide value throughout the entire subscription lifecycle.</p><p><span class="nowrap"><a class="icon icon-after icon-playcircle" href="https://developer.apple.com/videos/play/insights/112/">Watch the film</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Korean Won Now Accepted on the App Store</title>
 <link>https://developer.apple.com/news/?id=09052018a</link>
