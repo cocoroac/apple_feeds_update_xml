@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 10 Sep 2018 15:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 12 Sep 2018 12:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Get Your Apps Ready for the Next Level</title>
+<link>https://developer.apple.com/news/?id=09122018a</link>
+<guid>https://developer.apple.com/news/?id=09122018a</guid>
+<description>iPhone XS, iPhone XS Max, and iPhone XR feature a trio of all-screen displays paired with A12 Bionic and the next-generation Neural Engine. A12 Bionic is the smartest and most powerful chip ever in a smartphone, and is designed for performance in mind with Core ML, ARKit, Metal, and more. And now Face ID works even faster than before to securely and privately unlock, authenticate, and pay.Learn more</description>
+<pubDate>Wed, 12 Sep 2018 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iPhone X<span class="s-caps">S</span>, iPhone X<span class="s-caps">S</span> Max, and iPhone X<span class="s-caps">R</span> feature a trio of all-screen displays paired with A12 Bionic and the next-generation Neural Engine. A12 Bionic is the smartest and most powerful chip ever in a smartphone, and is designed for performance in mind with Core&nbsp;ML, ARKit, Metal, and more. And now Face ID works even faster than before to securely and privately unlock, authenticate, and pay.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/iphone/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing Apple Watch Series 4</title>
+<link>https://developer.apple.com/news/?id=09122018b</link>
+<guid>https://developer.apple.com/news/?id=09122018b</guid>
+<description>Bring incredible experiences to the wrist with the expanded display and performance enhancements of Apple Watch Series 4. Show more content at a glance, and display more information in full color with vivid detail using new complication types on the Infograph and Infograph Modular face. And with watchOS 5, you can take advantage of interactive notifications, access to the Siri watch face, audio controls, and more.Learn more</description>
+<pubDate>Wed, 12 Sep 2018 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Bring incredible experiences to the wrist with the expanded display and performance enhancements of Apple Watch Series&nbsp;4. Show more content at a glance, and display more information in full color with vivid detail using new complication types on the Infograph and Infograph Modular face. And with watchOS&nbsp;5, you can take advantage of interactive notifications, access to the Siri watch face, audio controls, and more.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/watchos/">Learn more</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Developer Insights Series: Using Subscriptions</title>
 <link>https://developer.apple.com/news/?id=09102018a</link>
@@ -449,46 +465,6 @@
 <description>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.Read the App Store Review Guidelines.</description>
 <pubDate>Thu, 14 Sep 2017 10:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated. We review all apps submitted to the App Store in an effort to determine whether they are reliable, perform as expected, and are free of offensive material. As you plan and develop your app, make sure to use these updated guidelines.</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">Read the App Store Review Guidelines</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Submit Your Apps to the App Store</title>
-<link>https://developer.apple.com/news/?id=09122017a</link>
-<guid>https://developer.apple.com/news/?id=09122017a</guid>
-<description>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS 11, watchOS 4, tvOS 11, and submit them for review.Download GM seeds.The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.Learn about preparing your apps.</description>
-<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. Build your apps using Xcode 9 GM seed, test with the latest releases of macOS High Sierra, iOS&nbsp;11, watchOS 4, tvOS&nbsp;11, and submit them for review.</p><p><a href="https://developer.apple.com/download/">Download GM seeds</a>.</p><br><p>The all-new App Store on iOS 11 provides more opportunities to showcase your content with subtitles, promotional text, additional app previews that you can localize, and up to 20 promoted in-app purchases.</p><p><a href="https://developer.apple.com/app-store/submissions/">Learn about preparing your apps</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Get Ready for iPhone X</title>
-<link>https://developer.apple.com/news/?id=09122017b</link>
-<guid>https://developer.apple.com/news/?id=09122017b</guid>
-<description>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2.Learn about developing for iPhone X.</description>
-<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>iPhone X features an all-screen Super Retina display for more immersive app experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal&nbsp;2.</p><p><a href="https://developer.apple.com/iphone/">Learn about developing for iPhone X</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Get Ready for Apple Watch Series 3</title>
-<link>https://developer.apple.com/news/?id=09122017c</link>
-<guid>https://developer.apple.com/news/?id=09122017c</guid>
-<description>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.Learn about developing for watchOS.</description>
-<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>With cellular, your apps can connect everywhere and anytime, even when not connected to an iPhone or Wi-Fi. Health and fitness apps can also take advantage of the barometric altimeter to display altitude changes and get improved accuracy for workout metrics from HealthKit.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Get Ready for Apple TV 4K</title>
-<link>https://developer.apple.com/news/?id=09122017d</link>
-<guid>https://developer.apple.com/news/?id=09122017d</guid>
-<description>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.Learn about developing for tvOS.</description>
-<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now your tvOS apps can deliver amazing cinematic video experiences and stunning picture quality by taking advantage of 4K resolution, Dolby Vision, and HDR10. And with the new Siri remote, you now have three-axis gyro data available to create even more engaging gaming and interactive experiences.</p><p><a href="https://developer.apple.com/tvos/">Learn about developing for tvOS</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>New Resources Now Available</title>
-<link>https://developer.apple.com/news/?id=09122017e</link>
-<guid>https://developer.apple.com/news/?id=09122017e</guid>
-<description>Design and Development VideosGet new insights on creating apps for the latest advancements in iPhone X, Apple Watch Series 3, and Apple TV 4K with a new collection of videos.Watch videos.Design TemplatesDownload the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone X.Download resources.</description>
-<pubDate>Tue, 12 Sep 2017 12:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p><b>Design and Development Videos</b><br>Get new insights on creating apps for the latest advancements in iPhone&nbsp;X, Apple&nbsp;Watch Series 3, and Apple&nbsp;TV 4K with a new collection of videos.</p><p><a href="https://developer.apple.com/videos/play/tech-talks/">Watch videos</a>.</p><br><p><b>Design Templates</b><br>Download the latest Sketch and Photoshop templates and guides to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iPhone&nbsp;X.</p><p><a href="https://developer.apple.com/design/resources/">Download resources</a>.</p>]]></content:encoded>
 </item>
 
 </channel>
