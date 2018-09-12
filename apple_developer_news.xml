@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 12 Sep 2018 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 12 Sep 2018 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Submit Your Apps to the App Store</title>
+<link>https://developer.apple.com/news/?id=09122018c</link>
+<guid>https://developer.apple.com/news/?id=09122018c</guid>
+<description>You can now submit apps that take advantage of the powerful new capabilities in the next release of iOS, watchOS, and tvOS. Build your apps using Xcode 10 GM seed, test with the latest releases of iOS 12, watchOS 5, and tvOS 12, and submit them for review.Starting March 2019, all new apps and app updates for iPhone, including universal apps, will need to be built with the iOS 12 SDK and support iPhone XS Max. All new apps and app updates for Apple Watch will need to be built with the watchOS 5 SDK and support Apple Watch Series 4.Learn about preparing your apps</description>
+<pubDate>Wed, 12 Sep 2018 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now submit apps that take advantage of the powerful new capabilities in the next release of iOS, watchOS, and tvOS. Build your apps using Xcode&nbsp;10 GM seed, test with the latest releases of iOS&nbsp;12, watchOS&nbsp;5, and tvOS&nbsp;12, and submit them for review.</p><p>Starting March 2019, all new apps and app updates for iPhone, including universal apps, will need to be built with the iOS&nbsp;12 SDK and support iPhone X<span class="s-caps">S</span> Max. All new apps and app updates for Apple Watch will need to be built with the watchOS&nbsp;5 SDK and support Apple Watch Series&nbsp;4.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/submissions/">Learn about preparing your apps</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Submit Your Apps to the All-New Mac App Store</title>
+<link>https://developer.apple.com/news/?id=09122018d</link>
+<guid>https://developer.apple.com/news/?id=09122018d</guid>
+<description>The reimagined Mac App Store will soon be arriving with macOS Mojave. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find. You also have more opportunities to display your content with subtitles, up to 10 screenshots, and up to three app previews per localization. Download Xcode 10 GM seed, build your apps for macOS Mojave, test, and submit for review.Learn about preparing your Mac apps</description>
+<pubDate>Wed, 12 Sep 2018 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The reimagined Mac App Store will soon be arriving with macOS&nbsp;Mojave. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac&nbsp;App&nbsp;Store on macOS&nbsp;Mojave beautifully showcases your apps and makes them even easier to find. You also have more opportunities to display your content with subtitles, up to 10 screenshots, and up to three app previews per localization. Download Xcode&nbsp;10&nbsp;GM&nbsp;seed, build your apps for macOS&nbsp;Mojave, test, and submit for review.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/macos/submit/">Learn about preparing your Mac apps</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Get Your Apps Ready for the Next Level</title>
 <link>https://developer.apple.com/news/?id=09122018a</link>
