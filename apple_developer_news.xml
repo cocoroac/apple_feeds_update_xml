@@ -458,14 +458,6 @@
 <pubDate>Tue, 03 Oct 2017 14:30:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>iPhone X features the stunning 5.8-inch Super Retina display, enabling even more immersive app experiences. Start testing your apps now to make sure they are ready to take advantage of the Super Retina display by respecting safe areas, supporting adaptive layouts, and more.</p><p><a href="https://developer.apple.com/ios/update-apps-for-iphone-x/">Learn about updating apps for iPhone X</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Newly Streamlined App Ratings</title>
-<link>https://developer.apple.com/news/?id=09202017a</link>
-<guid>https://developer.apple.com/news/?id=09202017a</guid>
-<description>Now it’s quicker and easier for users to see your app's rating, with just one summary rating that displays on your product page. This summary rating is based on ratings of your app's current version as of September 19 (Pacific Time), and is specific to each territory on the App Store. New ratings will continue to count towards this summary, and you can choose to reset your summary rating when you release a new version of your app. Customer reviews for all versions of your app will continue to display on your product page.Learn about Ratings, Reviews, and Responses.</description>
-<pubDate>Wed, 20 Sep 2017 09:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Now it’s quicker and easier for users to see your app's rating, with just one summary rating that displays on your product page. This summary rating is based on ratings of your app's current version as of September 19 (Pacific Time), and is specific to each territory on the App Store. New ratings will continue to count towards this summary, and you can choose to reset your summary rating when you release a new version of your app. Customer reviews for all versions of your app will continue to display on your product page.</p><p><a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn about Ratings, Reviews, and Responses</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
