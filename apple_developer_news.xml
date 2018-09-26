@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 13 Sep 2018 14:30:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 26 Sep 2018 15:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Invite Beta Testers with a TestFlight Public Link</title>
+<link>https://developer.apple.com/news/?id=09262018a</link>
+<guid>https://developer.apple.com/news/?id=09262018a</guid>
+<description>Now it’s even easier to get valuable feedback on your app before releasing it on the App Store for iPhone, iPad, and Apple TV. Simply enable a public link for your app in App Store Connect that leads to an invitation to test in TestFlight. Share the link to let anyone discover the beta version of your app.Learn about TestFlight beta testing</description>
+<pubDate>Wed, 26 Sep 2018 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now it’s even easier to get valuable feedback on your app before releasing it on the App&nbsp;Store for iPhone, iPad, and Apple TV. Simply enable a public link for your app in App&nbsp;Store Connect that leads to an invitation to test in TestFlight. Share the link to let anyone discover the beta version of your app.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/testflight/">Learn about TestFlight beta testing</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>New Videos Now Available</title>
 <link>https://developer.apple.com/news/?id=09132018a</link>
