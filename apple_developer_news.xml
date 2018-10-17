@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 26 Sep 2018 15:00:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 16 Oct 2018 13:15:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>App Bundles Now Support Mac Apps and Free Apps with Subscriptions</title>
+<link>https://developer.apple.com/news/?id=10162018</link>
+<guid>https://developer.apple.com/news/?id=10162018</guid>
+<description>App bundles make it easy for customers to buy up to 10 of your apps in a single purchase. And now, you can create app bundles for Mac apps or free apps that offer an auto-renewable subscription to access all apps in the bundle. Learn how to set up app bundles and effectively market them on your App Store product page.Learn about offering app bundles</description>
+<pubDate>Tue, 16 Oct 2018 13:15:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>App bundles make it easy for customers to buy up to 10 of your apps in a single purchase. And now, you can create app bundles for Mac apps or free apps that offer an auto-renewable subscription to access all apps in the bundle. Learn how to set up app bundles and effectively market them on your App Store product page.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/app-bundles/">Learn about offering app bundles</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Invite Beta Testers with a TestFlight Public Link</title>
 <link>https://developer.apple.com/news/?id=09262018a</link>
@@ -441,22 +449,6 @@
 <description>You can now support Apple Pay for your customers in Sweden, Denmark, Finland and the United Arab Emirates, providing an easy and secure way for them to pay within your apps and websites.Learn more about Apple Pay.</description>
 <pubDate>Mon, 23 Oct 2017 21:40:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Sweden, Denmark, Finland and the United&nbsp;Arab&nbsp;Emirates, providing an easy and secure way for them to pay within your apps and websites.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a>.</span></p>]]></content:encoded>
-</item>
-<item>
-<title>Search Ads is Expanding to Canada, Mexico, and Switzerland</title>
-<link>https://developer.apple.com/news/?id=10102017a</link>
-<guid>https://developer.apple.com/news/?id=10102017a</guid>
-<description>You can now create campaigns to promote your apps on the App Store in Canada, Mexico, and Switzerland, in addition to the US, UK, Australia, and New Zealand. Ads for new storefronts go live October 17, 2017.Search Ads provides an efficient and easy way to promote your app at the top of relevant search results. Try Search Ads for free with a 100 USD credit when you set up your first campaign.Learn more about Search Ads.</description>
-<pubDate>Tue, 10 Oct 2017 11:30:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now create campaigns to promote your apps on the App Store in Canada, Mexico, and Switzerland, in addition to the US, UK, Australia, and New Zealand. Ads for new storefronts go live October 17, 2017.</p><p>Search Ads provides an efficient and easy way to promote your app at the top of relevant search results. Try Search Ads for free with a 100 USD credit when you set up your first campaign.</p><p><a href="https://searchads.apple.com/?cid=sa-in-us-drncms">Learn more about Search Ads</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Creating and Promoting Your AR Apps</title>
-<link>https://developer.apple.com/news/?id=10062017a</link>
-<guid>https://developer.apple.com/news/?id=10062017a</guid>
-<description>ARKit lets you seamlessly blend realistic virtual objects with the real world, so you can take your apps beyond the screen. Use these resources to learn how to clearly indicate when the user enters AR, show users what to expect from your AR experiences with app previews, and build Face Tracking support for iPhone X.Interface DesignProvide an intuitive initialization process within your app to clearly indicate when the user enters AR.Read the Human Interface Guidelines.App PreviewsCreate short videos of your AR app experience for your App Store product page. Since app previews autoplay on the App Store on iOS 11, they're key in helping users discover and learn about your app.Read Creating App Previews for AR Apps.Face TrackingLearn how to detect the position, topology, and expression of a user's face, use facial expressions to drive a 3D character, and more with the TrueDepth camera on iPhone X.Watch Face Tracking with ARKit.</description>
-<pubDate>Fri, 06 Oct 2017 14:15:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>ARKit lets you seamlessly blend realistic virtual objects with the real world, so you can take your apps beyond the screen. Use these resources to learn how to clearly indicate when the user enters AR, show users what to expect from your AR experiences with app previews, and build Face Tracking support for iPhone&nbsp;X.</p><p><b>Interface Design</b><br>Provide an intuitive initialization process within your app to clearly indicate when the user enters AR.<br><a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">Read the Human Interface Guidelines</a>.</p><p><b>App Previews</b><br>Create short videos of your AR app experience for your App&nbsp;Store product page. Since app previews autoplay on the App&nbsp;Store on iOS 11, they're key in helping users discover and learn about your app.<br><a href="https://developer.apple.com/app-store/ar-app-previews/">Read Creating App Previews for AR Apps</a>.</p><p><b>Face Tracking</b><br>Learn how to detect the position, topology, and expression of a user's face, use facial expressions to drive a 3D character, and more with the TrueDepth camera on iPhone&nbsp;X.<br><a href="https://developer.apple.com/videos/play/tech-talks/601/">Watch Face Tracking with ARKit</a>.</p>]]></content:encoded>
 </item>
 
 </channel>
