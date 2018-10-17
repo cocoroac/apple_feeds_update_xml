@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 16 Oct 2018 13:15:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 17 Oct 2018 10:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>MapKit JS Dashboard Now Available</title>
+<link>https://developer.apple.com/news/?id=10172018a</link>
+<guid>https://developer.apple.com/news/?id=10172018a</guid>
+<description>MapKit JS lets you add Apple Maps to webpages, complete with annotations, overlays, and interfaces to services such as search and directions. And now, you can track your website’s use of Apple Maps services with the new MapKit JS Dashboard. Monitor map initializations and service requests in real-time, or see up to a year of activity by day, week, month, or year.Learn more about MapKit JS</description>
+<pubDate>Wed, 17 Oct 2018 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>MapKit JS lets you add Apple Maps to webpages, complete with annotations, overlays, and interfaces to services such as search and directions. And now, you can track your website’s use of Apple Maps services with the new MapKit JS Dashboard. Monitor map initializations and service requests in real-time, or see up to a year of activity by day, week, month, or year.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/maps/mapkitjs/">Learn more about MapKit JS</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>App Bundles Now Support Mac Apps and Free Apps with Subscriptions</title>
 <link>https://developer.apple.com/news/?id=10162018</link>
