@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 17 Oct 2018 10:00:00 PDT</lastBuildDate>
+<lastBuildDate>Fri, 19 Oct 2018 09:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Get Your Mac Software Notarized</title>
+<link>https://developer.apple.com/news/?id=10192018a</link>
+<guid>https://developer.apple.com/news/?id=10192018a</guid>
+<description>macOS Mojave is here. Give Mac users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they’ll see a more streamlined Gatekeeper dialog and have confidence that it is not known malware.Download Xcode 10 and submit your software today. In an upcoming release of macOS, Gatekeeper will require Developer ID–signed software to be notarized by Apple. Learn about getting your software notarized</description>
+<pubDate>Fri, 19 Oct 2018 09:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>macOS Mojave is here. Give Mac users even more confidence in your software distributed outside the Mac&nbsp;App&nbsp;Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they’ll see a more streamlined Gatekeeper dialog and have confidence that it is not known malware.</p><p>Download Xcode 10 and submit your software today. In an upcoming release of macOS, Gatekeeper will require Developer ID–signed software to be notarized by Apple. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn about getting your software notarized</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>MapKit JS Dashboard Now Available</title>
 <link>https://developer.apple.com/news/?id=10172018a</link>
