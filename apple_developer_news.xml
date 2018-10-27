@@ -450,14 +450,6 @@
 <pubDate>Mon, 30 Oct 2017 12:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>iOS 11.2 introduces SiriKit for HomePod, the powerful speaker that sounds amazing, adapts to wherever it’s playing, and provides instant access to Apple Music. HomePod is also a helpful home assistant for everyday questions and tasks. With the intelligence of Siri, users control HomePod through natural voice interaction. And with SiriKit, users can access iOS apps for Messaging, Lists, and Notes. Make sure your SiriKit integration is up to date and test your app’s voice-only experience today. </p><p><a href="https://developer.apple.com/sirikit/">Learn more about SiriKit on HomePod</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>Submit Your Updated Apps for iPhone X</title>
-<link>https://developer.apple.com/news/?id=10272017a</link>
-<guid>https://developer.apple.com/news/?id=10272017a</guid>
-<description>The future is almost here. iPhone X will be available November 3. This stunning device features the all-new Super Retina display for more immersive experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2. Download Xcode 9.0.1, test your apps in the iPhone X simulator, and capture screenshots. Then submit your updated apps and metadata in iTunes Connect today.Learn about submitting iOS apps to the App Store.</description>
-<pubDate>Fri, 27 Oct 2017 14:20:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The future is almost here. iPhone X will be available November 3. This stunning device features the all-new Super Retina display for more immersive experiences and Face ID, a secure new way to unlock, authenticate, and pay. The TrueDepth camera works with ARKit, and the A11 Bionic chip is designed for Core ML and Metal 2. Download <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">Xcode&nbsp;9.0.1</a>, test your apps in the iPhone&nbsp;X simulator, and capture screenshots. Then submit your updated apps and metadata in iTunes Connect today.</p><p><a href="https://developer.apple.com/ios/submit/">Learn about submitting iOS apps to the App Store</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
