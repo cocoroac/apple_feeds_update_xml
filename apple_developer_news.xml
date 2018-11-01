@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 30 Oct 2018 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 31 Oct 2018 16:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Updated Certificate for Game Center Authentication</title>
+<link>https://developer.apple.com/news/?id=10312018a</link>
+<guid>https://developer.apple.com/news/?id=10312018a</guid>
+<description>On November 12, 2018, a new certificate for server-based Game Center Player ID verification will be available via the publicKeyUrl property of generateIdentityVerificationSignature, and the previous certificate will expire.Make sure your app always retrieves and uses the current publicKeyUrl value so it automatically uses the new certificate. If your app caches the certificate or hardcodes the certificate URL, it will require an update. Learn more</description>
+<pubDate>Wed, 31 Oct 2018 16:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>On November 12, 2018, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of <span class="nowrap"><a href="https://developer.apple.com/documentation/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Make sure your app always retrieves and uses the current publicKeyUrl value so it automatically uses the new certificate. If your app caches the certificate or hardcodes the certificate URL, it will require an update. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://forums.developer.apple.com/thread/110431/">Learn more</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Get Ready for the New iPad Pro</title>
 <link>https://developer.apple.com/news/?id=10302018a</link>
