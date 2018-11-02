@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 31 Oct 2018 16:00:00 PDT</lastBuildDate>
+<lastBuildDate>Fri, 02 Nov 2018 10:15:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>App Store Connect API Now Available</title>
+<link>https://developer.apple.com/news/?id=11022018</link>
+<guid>https://developer.apple.com/news/?id=11022018</guid>
+<description>You can now request access to the new App Store Connect API to automate tasks on App Store Connect. This REST API for internal development, testing, and reporting purposes within your team, lets you customize key parts of your internal workflow. Learn more about the API</description>
+<pubDate>Fri, 02 Nov 2018 10:15:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now request access to the new App Store Connect API to automate tasks on App Store Connect. This REST API for internal development, testing, and reporting purposes within your team, lets you customize key parts of your internal workflow. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/api/">Learn more about the API</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Updated Certificate for Game Center Authentication</title>
 <link>https://developer.apple.com/news/?id=10312018a</link>
