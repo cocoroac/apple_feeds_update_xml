@@ -458,14 +458,6 @@
 <pubDate>Mon, 13 Nov 2017 15:50:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with <a href="https://developer.apple.com/download/">Xcode&nbsp;9.2&nbsp;beta</a>.</p><p><a href="https://webkit.org/blog/7929/designing-websites-for-iphone-x/">Learn more about designing websites for iPhone X</a>.</p>]]></content:encoded>
 </item>
-<item>
-<title>New App Store Marketing Guidelines and Resources</title>
-<link>https://developer.apple.com/news/?id=11032017</link>
-<guid>https://developer.apple.com/news/?id=11032017</guid>
-<description>You can now download App Store badges with updated fonts and options, as well as images of iPhone X, iPhone 8, iPhone 8 Plus, Apple Watch Series 3, and Apple TV 4K to use in marketing materials for your apps on the App Store. Marketing guidance has also been updated. Visit the App Store Marketing Guidelines.</description>
-<pubDate>Fri, 03 Nov 2017 16:45:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>You can now download App&nbsp;Store badges with updated fonts and options, as well as images of iPhone&nbsp;X, iPhone&nbsp;8, iPhone&nbsp;8&nbsp;Plus, Apple&nbsp;Watch&nbsp;Series&nbsp;3, and Apple&nbsp;TV&nbsp;4K to use in marketing materials for your apps on the App&nbsp;Store. Marketing guidance has also been updated. Visit the <a href="https://developer.apple.com/app-store/marketing/guidelines/">App&nbsp;Store Marketing Guidelines</a>.</p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
