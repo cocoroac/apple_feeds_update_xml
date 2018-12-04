@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 02 Nov 2018 10:15:00 PDT</lastBuildDate>
+<lastBuildDate>Tue, 27 Nov 2018 12:15:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>App Store Connect Holiday Schedule </title>
+<link>https://developer.apple.com/news/?id=11272018</link>
+<guid>https://developer.apple.com/news/?id=11272018</guid>
+<description>The busiest season on the App Store is almost here. Make sure your apps are up to date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.Learn more about App Store Connect</description>
+<pubDate>Tue, 27 Nov 2018 12:15:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up to date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/">Learn more about App Store Connect</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing Apple Entrepreneur Camp</title>
+<link>https://developer.apple.com/news/?id=11262018</link>
+<guid>https://developer.apple.com/news/?id=11262018</guid>
+<description>We believe apps for everyone should be made by everyone. Yet research shows that women face unique challenges in technology, especially when starting and leading companies. That’s why we created Apple Entrepreneur Camp for app-driven organizations founded and led by women. With unprecedented access to Apple engineers and leaders, this program provides a two-week technology lab with one-on-one code-level guidance, as well as mentorship, inspiration, and more. Applications are being accepted now. Learn more about Apple Entrepreneur Camp</description>
+<pubDate>Mon, 26 Nov 2018 13:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>We believe apps for everyone should be made by everyone. Yet research shows that women face unique challenges in technology, especially when starting and leading companies. That’s why we created Apple Entrepreneur Camp for app-driven organizations founded and led by women. With unprecedented access to Apple engineers and leaders, this program provides a two-week technology lab with one-on-one code-level guidance, as well as mentorship, inspiration, and more. Applications are being accepted now. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/entrepreneur-camp//">Learn more about Apple Entrepreneur Camp</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>App Store Connect API Now Available</title>
 <link>https://developer.apple.com/news/?id=11022018</link>
@@ -417,46 +433,6 @@
 <description>Search Ads Basic is a new cost-per-install offering, ideal if you have limited time or expertise to promote your app. Put your app at the top of relevant search results on the App Store in the United States, with global expansion coming in fall 2018. Your first installs are free with a 100 USD credit.Learn more about Search Ads Basic.</description>
 <pubDate>Tue, 05 Dec 2017 15:30:00 PST</pubDate>
 <content:encoded><![CDATA[<p>Search Ads Basic is a new cost-per-install offering, ideal if you have limited time or expertise to promote your app. Put your app at the top of relevant search results on the App&nbsp;Store in the United States, with global expansion coming in fall 2018. Your first installs are free with a 100&nbsp;USD&nbsp;credit.</p><p><span class="nowrap"><a href="https://searchads.apple.com/basic?cid=sa-in-us-drnsab/">Learn more about Search Ads Basic</a>.</span></p>]]></content:encoded>
-</item>
-<item>
-<title>64-bit Requirement for Mac Apps</title>
-<link>https://developer.apple.com/news/?id=12012017a</link>
-<guid>https://developer.apple.com/news/?id=12012017a</guid>
-<description>As a reminder, new apps submitted to the Mac App Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS High Sierra.Learn more about distributing Mac apps.</description>
-<pubDate>Fri, 01 Dec 2017 13:30:00 PST</pubDate>
-<content:encoded><![CDATA[<p>As a reminder, new apps submitted to the Mac&nbsp;App&nbsp;Store must support 64-bit starting January 2018, and Mac app updates and existing apps must support 64-bit starting June&nbsp;2018. If you distribute your apps outside the Mac&nbsp;App&nbsp;Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. The last macOS release to support 32-bit apps without compromise is macOS&nbsp;High&nbsp;Sierra.</p><p><a href="https://developer.apple.com/macos/distribution/">Learn more about distributing Mac apps</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title> Hour of Code</title>
-<link>https://developer.apple.com/news/?id=11282017b</link>
-<guid>https://developer.apple.com/news/?id=11282017b</guid>
-<description>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in Swift Playgrounds on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the facilitator guide or sign up for a coding session at your local Apple Store with  Today at Apple.The Hour of Code is an initiative by Computer Science Education Week and Code.org to introduce millions of students around the world to one hour of computer science and computer programming.</description>
-<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Apple celebrates Computer Science Education Week from December 4 to 10 with fun and engaging challenges in <span class="nowrap"><a href="https://developer.apple.com/swift/playgrounds/">Swift Playgrounds</a></span> on iPad. You can learn coding basics with Byte and friends or get creative using Swift code to build The Incredible Code Machine. Host your own Hour of Code event by downloading the <a href="https://images.apple.com/education/docs/hour-of-code-guide-2017.pdf">facilitator guide</a> or sign up for a coding session at your local Apple Store with  <a href=" https://www.apple.com/today/collection/hourofcode/">Today at Apple</a>.</p><p>The Hour of Code is an initiative by <a href="https://csedweek.org">Computer Science Education Week</a> and <a href="https://code.org">Code.org</a> to introduce millions of students around the world to one hour of computer science and computer programming.</p>]]></content:encoded>
-</item>
-<item>
-<title>iTunes Connect Holiday Schedule</title>
-<link>https://developer.apple.com/news/?id=11282017a</link>
-<guid>https://developer.apple.com/news/?id=11282017a</guid>
-<description>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.Learn more about preparing apps for the App Store.</description>
-<pubDate>Tue, 28 Nov 2017 10:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p>With the new App Store on iOS 11, you can let customers know about promotions, upcoming features, and events within your app at any time using the promotional text field. Your app’s promotional text appears at the top of the description and is up to 170 characters long.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App&nbsp;Store</a>.</span></p>]]></content:encoded>
-</item>
-<item>
-<title>Update Your watchOS Apps</title>
-<link>https://developer.apple.com/news/?id=11162017a</link>
-<guid>https://developer.apple.com/news/?id=11162017a</guid>
-<description>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75 MB.Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS 4 SDK or later.Learn about developing for watchOS 4.</description>
-<pubDate>Thu, 16 Nov 2017 13:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Enable your watchOS apps to connect anywhere and anytime, even without a phone nearby, by updating for watchOS 4 and Apple Watch Series 3. Take advantage of increased performance, new background modes for navigation and audio recording, built-in altimeter capabilities, direct connections to accessories with Core Bluetooth, and more. In addition, the size limit of a watchOS app bundle has increased from 50 MB to 75&nbsp;MB.</p><p>Please note that starting April 1, 2018, updates to watchOS 1 apps will no longer be accepted. Updates must be native apps built with the watchOS 2 SDK or later. New watchOS apps should be built with the watchOS&nbsp;4 SDK or later.</p><p><a href="https://developer.apple.com/watchos/">Learn about developing for watchOS&nbsp;4</a>.</p>]]></content:encoded>
-</item>
-<item>
-<title>Websites on iPhone X</title>
-<link>https://developer.apple.com/news/?id=11132017a</link>
-<guid>https://developer.apple.com/news/?id=11132017a</guid>
-<description>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with Xcode 9.2 beta.Learn more about designing websites for iPhone X.</description>
-<pubDate>Mon, 13 Nov 2017 15:50:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Your websites will automatically display properly on the Super Retina screen on iPhone X, as Safari automatically insets your content within the safe area so it’s clear of the rounded corners and sensor housing. If your website is designed with full-width horizontal navigation, you can choose to take full advantage of the edge-to-edge display by using a new WebKit API introduced in iOS 11.2. Start testing your website today with the iPhone X simulator, included with <a href="https://developer.apple.com/download/">Xcode&nbsp;9.2&nbsp;beta</a>.</p><p><a href="https://webkit.org/blog/7929/designing-websites-for-iphone-x/">Learn more about designing websites for iPhone X</a>.</p>]]></content:encoded>
 </item>
 
 </channel>
