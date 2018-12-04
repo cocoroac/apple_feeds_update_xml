@@ -6,10 +6,26 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 27 Nov 2018 12:15:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 03 Dec 2018 21:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>App Store Best of 2018</title>
+<link>https://developer.apple.com/news/?id=12032018a</link>
+<guid>https://developer.apple.com/news/?id=12032018a</guid>
+<description>Congratulations to the developers featured in the App Store Best of 2018. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for Apple platforms.See all the featured apps and games</description>
+<pubDate>Mon, 03 Dec 2018 21:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2018. This showcase honors our favorite apps and games on the App&nbsp;Store, and celebrates the amazing experiences that developers have created for Apple platforms.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/best-of-2018/">See all the featured apps and games</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Upcoming Changes for Mac Software Signed with Developer ID</title>
+<link>https://developer.apple.com/news/?id=11302018a</link>
+<guid>https://developer.apple.com/news/?id=11302018a</guid>
+<description>Give users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they'll see a more streamlined Gatekeeper dialog and trust that it does not contain known malware. Starting spring of 2019, macOS Mojave will more prominently highlight notarization status.  In an upcoming macOS release, Gatekeeper will require Developer ID–signed software to be notarized by Apple. Learn more and view new documentation</description>
+<pubDate>Fri, 30 Nov 2018 08:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Give users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they'll see a more streamlined Gatekeeper dialog and trust that it does not contain known malware. Starting spring of 2019, macOS&nbsp;Mojave will more prominently highlight notarization status.  In an upcoming macOS release, Gatekeeper will require Developer ID–signed software to be notarized by Apple. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn more and view new documentation</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>App Store Connect Holiday Schedule </title>
 <link>https://developer.apple.com/news/?id=11272018</link>
