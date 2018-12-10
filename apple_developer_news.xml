@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 03 Dec 2018 21:00:00 PST</lastBuildDate>
+<lastBuildDate>Mon, 10 Dec 2018 10:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>App Store Connect Holiday Schedule </title>
+<link>https://developer.apple.com/news/?id=12102018a</link>
+<guid>https://developer.apple.com/news/?id=12102018a</guid>
+<description>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.Submit your apps for review</description>
+<pubDate>Mon, 10 Dec 2018 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/submissions/">Submit your apps for review</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>App Store Best of 2018</title>
 <link>https://developer.apple.com/news/?id=12032018a</link>
