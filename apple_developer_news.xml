@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 11 Dec 2018 14:30:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 13 Dec 2018 11:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Localize Your Product Page in More Languages</title>
+<link>https://developer.apple.com/news/?id=12132018a</link>
+<guid>https://developer.apple.com/news/?id=12132018a</guid>
+<description>You can now provide localized metadata for your App Store product page in any of the following languages when you submit a new version of your app: Catalan, Croatian, Czech, Hindi, Hungarian, Polish, Romanian, Slovak, and Ukrainian.Learn how to make the most of your product page</description>
+<pubDate>Thu, 13 Dec 2018 11:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now provide localized metadata for your App Store product page in any of the following languages when you submit a new version of your app: Catalan, Croatian, Czech, Hindi, Hungarian, Polish, Romanian, Slovak, and Ukrainian.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/product-page/">Learn how to make the most of your product page</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Apple Pay Has Expanded to Germany</title>
 <link>https://developer.apple.com/news/?id=12112018a</link>
