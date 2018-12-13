@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 13 Dec 2018 11:00:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 13 Dec 2018 12:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2018, Apple Inc.</copyright>
 
+<item>
+<title>Mac App Analytics Now Available in App Store Connect</title>
+<link>https://developer.apple.com/news/?id=12132018b</link>
+<guid>https://developer.apple.com/news/?id=12132018b</guid>
+<description>Your app data from the new Mac App Store on macOS Mojave is now available in App Store Connect. Now you can find out how many times your app was seen on the Mac App Store, how many times your product page was viewed, and how many new customers downloaded your app. You can also see sales numbers for in-app purchases as well as for paying users, and more.Learn more about App Analytics</description>
+<pubDate>Thu, 13 Dec 2018 12:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Your app data from the new Mac App Store on macOS Mojave is now available in App&nbsp;Store&nbsp;Connect. Now you can find out how many times your app was seen on the Mac&nbsp;App&nbsp;Store, how many times your product page was viewed, and how many new customers downloaded your app. You can also see sales numbers for in-app purchases as well as for paying users, and more.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/analytics/">Learn more about App Analytics</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Localize Your Product Page in More Languages</title>
 <link>https://developer.apple.com/news/?id=12132018a</link>
