@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 09 Jan 2019 13:30:00 PST</lastBuildDate>
+<lastBuildDate>Fri, 18 Jan 2019 13:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>Upcoming Changes for Organization Teams</title>
+<link>https://developer.apple.com/news/?id=01182019a</link>
+<guid>https://developer.apple.com/news/?id=01182019a</guid>
+<description>Starting February 12, 2019, managing your organization’s team in the Apple Developer Program will be simpler. Teams will be unified across the Apple Developer website and App Store Connect, with one team and one set of roles. Find out how roles on your team may change and make updates if needed.Learn more about these changes</description>
+<pubDate>Fri, 18 Jan 2019 13:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Starting February 12, 2019, managing your organization’s team in the Apple Developer Program will be simpler. Teams will be unified across the Apple Developer website and App Store Connect, with one team and one set of roles. Find out how roles on your team may change and make updates if needed.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/support/teams/">Learn more about these changes</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Salesforce SDK Now Optimized for iOS</title>
 <link>https://developer.apple.com/news/?id=01092019a</link>
