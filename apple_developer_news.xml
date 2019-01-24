@@ -410,22 +410,6 @@
 <pubDate>Wed, 31 Jan 2018 12:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>You can now use <a href=" https://help.apple.com/itc/transporteruserguide/" target="_blank">Transporter</a>, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the <a href="http://help.apple.com/itc/appsspec/" target="_blank">App Metadata Specification</a>.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/app-previews/"class="more">Learn more about app previews</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>New Tools for 64-bit Support in Xcode 9.3 Beta</title>
-<link>https://developer.apple.com/news/?id=01242018d</link>
-<guid>https://developer.apple.com/news/?id=01242018d</guid>
-<description>The last macOS release to support 32-bit apps without compromise is macOS High Sierra. Make sure future releases of your app are 64-bit compatible by using new diagnostic tools in Xcode 9.3 beta and testing on macOS 10.13.4 beta. This version of Xcode also builds 64-bit apps by default.Download Xcode 9.3 beta</description>
-<pubDate>Wed, 24 Jan 2018 13:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>The last macOS release to support 32-bit apps without compromise is macOS High&nbsp;Sierra. Make sure future releases of your app are 64-bit compatible by using new diagnostic tools in Xcode 9.3 beta and testing on macOS 10.13.4 beta. This version of Xcode also builds 64-bit apps by default.</p><p><a href="https://developer.apple.com/download"class="more">Download Xcode 9.3 beta</a></p>]]></content:encoded>
-</item>
-<item>
-<title>Reminder: 64-bit Requirement for Mac Apps</title>
-<link>https://developer.apple.com/news/?id=01242018c</link>
-<guid>https://developer.apple.com/news/?id=01242018c</guid>
-<description>Starting January 31, new apps submitted to the Mac App Store must support 64-bit, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. Build and submit your apps using Xcode 9.2.Learn more about distributing Mac apps</description>
-<pubDate>Wed, 24 Jan 2018 13:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>Starting January 31, new apps submitted to the Mac App Store must support 64-bit, and Mac app updates and existing apps must support 64-bit starting June 2018. If you distribute your apps outside the Mac App Store, we highly recommend distributing 64-bit binaries to make sure your users can continue to run your apps on future versions of macOS. Build and submit your apps using Xcode 9.2.</p><p><a href="https://developer.apple.com/macos/distribution/"class="more">Learn more about distributing Mac apps</a></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
