@@ -402,14 +402,6 @@
 <pubDate>Thu, 15 Feb 2018 12:00:00 PST</pubDate>
 <content:encoded><![CDATA[<p>iOS 11 has brought innovative features and the redesigned App Store to hundreds of millions of customers around the world. Your apps can deliver more intelligent, unified, and immersive experiences with Core&nbsp;ML, ARKit, new camera APIs, new SiriKit domains, Apple Music integration, drag and drop for iPad, and more.</p><p>Starting April 2018, all new iOS apps submitted to the App Store must be built with the iOS&nbsp;11 SDK, included in Xcode&nbsp;9 or later. All new apps for iPhone, including universal apps, must support the Super Retina display of iPhone&nbsp;X.</p><p><span class="nowrap"><a href="https://developer.apple.com/ios/submit/"class="more">Learn more about submitting iOS apps to the App&nbsp;Store</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>Upload App Previews with Transporter</title>
-<link>https://developer.apple.com/news/?id=01312018a</link>
-<guid>https://developer.apple.com/news/?id=01312018a</guid>
-<description>You can now use Transporter, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the App Metadata Specification.Learn more about app previews</description>
-<pubDate>Wed, 31 Jan 2018 12:00:00 PST</pubDate>
-<content:encoded><![CDATA[<p>You can now use <a href=" https://help.apple.com/itc/transporteruserguide/" target="_blank">Transporter</a>, Apple’s command-line delivery tool, to upload app previews to iTunes Connect. Transporter integrates with your content management system to deliver your app metadata in bulk using XML, which is especially useful for adding and managing multiple localizations. For details on using Transporter to upload app previews, see the <a href="http://help.apple.com/itc/appsspec/" target="_blank">App Metadata Specification</a>.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/app-previews/"class="more">Learn more about app previews</a></span></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
