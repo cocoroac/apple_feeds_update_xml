@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 18 Jan 2019 13:00:00 PST</lastBuildDate>
+<lastBuildDate>Wed, 20 Feb 2019 08:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>Upcoming Two-Factor Authentication Requirement for Account Holders</title>
+<link>https://developer.apple.com/news/?id=02202019a</link>
+<guid>https://developer.apple.com/news/?id=02202019a</guid>
+<description>In an effort to keep accounts more secure, developers with the Account Holder role in a developer program will need to enable two-factor authentication to sign in to their Apple Developer account and Certificates, Identifiers &amp; Profiles starting February 27, 2019. This extra layer of security for your Apple ID helps ensure that you’re the only person who can access your account.Learn more about this requirement</description>
+<pubDate>Wed, 20 Feb 2019 08:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>In an effort to keep accounts more secure, developers with the Account Holder role in a developer program will need to enable two-factor authentication to sign in to their Apple Developer account and Certificates, Identifiers &amp; Profiles starting February 27, 2019. This extra layer of security for your Apple ID helps ensure that you’re the only person who can access your account.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/subscriptions/#subscription-offers">Learn more about this requirement</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Upcoming Changes for Organization Teams</title>
 <link>https://developer.apple.com/news/?id=01182019a</link>
