@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 20 Feb 2019 08:00:00 PST</lastBuildDate>
+<lastBuildDate>Thu, 21 Feb 2019 09:00:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>New Design Resources Now Available</title>
+<link>https://developer.apple.com/news/?id=02212019a</link>
+<guid>https://developer.apple.com/news/?id=02212019a</guid>
+<description>Make sure your iOS and watchOS apps continue to deliver outstanding user experiences. Take advantage of new Siri Shortcuts design templates, the SF Compact Rounded font for watchOS, and the watchOS design kit for Adobe XD. You can also get updated design templates for iOS Home Screen, Notifications, Widgets, and Home Screen Quick Actions.Learn more</description>
+<pubDate>Thu, 21 Feb 2019 09:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Make sure your iOS and watchOS apps continue to deliver outstanding user experiences. Take advantage of new Siri Shortcuts design templates, the SF Compact Rounded font for watchOS, and the watchOS design kit for Adobe XD. You can also get updated design templates for iOS Home Screen, Notifications, Widgets, and Home Screen Quick Actions.</p><p><span class="nowrap"><a href="https://developer.apple.com/design/whats-new/" class="icon icon-after icon-chevronright">Learn more</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Upcoming Two-Factor Authentication Requirement for Account Holders</title>
 <link>https://developer.apple.com/news/?id=02202019a</link>
