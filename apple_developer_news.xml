@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 21 Feb 2019 09:00:00 PST</lastBuildDate>
+<lastBuildDate>Fri, 22 Feb 2019 12:45:00 PST</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>Promoting Your Subscriptions with New Offers</title>
+<link>https://developer.apple.com/news/?id=02222019a</link>
+<guid>https://developer.apple.com/news/?id=02222019a</guid>
+<description>Apps with auto-renewable subscriptions will soon be able to provide a discounted price for existing or previously subscribed customers. Subscription offers can help re-engage subscribers who have canceled their subscriptions or promote an upgrade to another subscription at a special price. Make sure your offers are ready once this feature is publicly available. Download the latest Xcode 10.2 beta, implement the new StoreKit APIs, and test on the latest beta version of iOS 12.2, macOS 10.14.4, and tvOS 12.2.Learn how to provide offers for subscriptions</description>
+<pubDate>Fri, 22 Feb 2019 12:45:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Apps with auto-renewable subscriptions will soon be able to provide a discounted price for existing or previously subscribed customers. Subscription offers can help re-engage subscribers who have canceled their subscriptions or promote an upgrade to another subscription at a special price. Make sure your offers are ready once this feature is publicly available. Download the latest Xcode 10.2 beta, implement the new StoreKit APIs, and test on the latest beta version of iOS 12.2, macOS 10.14.4, and tvOS 12.2.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/subscriptions/#subscription-offers">Learn how to provide offers for subscriptions</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>New Design Resources Now Available</title>
 <link>https://developer.apple.com/news/?id=02212019a</link>
