@@ -6,17 +6,33 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 14 Mar 2019 09:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 20 Mar 2019 08:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
 <item>
+<title>WWDC19 Registration Ends Today</title>
+<link>https://developer.apple.com/news/?id=03202019b</link>
+<guid>https://developer.apple.com/news/?id=03202019b</guid>
+<description>Registration closes on Wednesday, March 20 at 5:00 p.m. PDT. Don’t miss your chance to register for this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.Learn more about WWDC</description>
+<pubDate>Wed, 20 Mar 2019 08:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Registration closes on Wednesday, March 20 at 5:00 p.m. PDT. Don’t miss your chance to register for this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/"class="icon icon-after icon-chevronright">Learn more about WWDC</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Upcoming App Store Submission Requirements</title>
+<link>https://developer.apple.com/news/?id=03202019a</link>
+<guid>https://developer.apple.com/news/?id=03202019a</guid>
+<description>iOS 12 is now running on more than 80% of devices worldwide. Make sure your app delivers a great user experience by seamlessly integrating with the latest advances in iOS. Starting March 27, 2019, all new apps and app updates for iPhone or iPad, including universal apps, must be built with the iOS 12.1 SDK or later and support iPhone XS Max or the 12.9-inch iPad Pro (3rd generation). Screenshots for these devices will also be required. All new apps and app updates for Apple Watch will need to be built with the watchOS 5.1 SDK or later and support Apple Watch Series 4.Understanding Changes in Memory AccountingiOS 12 and tvOS 12 require apps to use memory far more efficiently than before. If you have difficulty reducing your app’s memory requirements, contact us to request an entitlement for your app to use iOS 11-style memory accounting.Learn more about preparing your apps</description>
+<pubDate>Wed, 20 Mar 2019 08:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>iOS 12 is now running on more than 80% of devices worldwide. Make sure your app delivers a great user experience by seamlessly integrating with the latest advances in iOS. Starting March 27, 2019, all new apps and app updates for iPhone or iPad, including universal apps, must be built with the iOS 12.1 SDK or later and support iPhone XS Max or the 12.9-inch iPad Pro (3rd generation). Screenshots for these devices will also be required. All new apps and app updates for Apple Watch will need to be built with the watchOS 5.1 SDK or later and support Apple Watch Series 4.</p><p><b>Understanding Changes in Memory Accounting</b><br>iOS 12 and tvOS 12 require apps to use memory far more efficiently than before. If you have difficulty reducing your app’s memory requirements, <a href="https://developer.apple.com/contact/request/memory-accounting/">contact us</a> to request an entitlement for your app to use iOS 11-style memory accounting.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/ios/submit/">Learn more about preparing your apps</a></span></p>]]></content:encoded>
+</item>
+<item>
 <title>WWDC19 Registration Now Open</title>
 <link>https://developer.apple.com/news/?id=03142019b</link>
 <guid>https://developer.apple.com/news/?id=03142019b</guid>
-<description>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year's Apple Worldwide Developers Conference in San Jose, June 3-7.Learn more about WWDC</description>
+<description>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.Learn more about WWDC</description>
 <pubDate>Thu, 14 Mar 2019 09:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year's Apple Worldwide Developers Conference in San Jose, June 3-7.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/"class="icon icon-after icon-chevronright">Learn more about WWDC</a></span></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/"class="icon icon-after icon-chevronright">Learn more about WWDC</a></span></p>]]></content:encoded>
 </item>
 <item>
 <title>Apply for a WWDC19 Scholarship</title>
