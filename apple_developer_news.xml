@@ -410,14 +410,6 @@
 <pubDate>Wed, 04 Apr 2018 08:00:00 PDT</pubDate>
 <content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Brazil, providing an easy and secure way for them to pay within your apps and websites.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/"class="more">Learn more about Apple Pay</a></span></p>]]></content:encoded>
 </item>
-<item>
-<title>Allowing Users to Manage their Data in iCloud</title>
-<link>https://developer.apple.com/news/?id=03302018a</link>
-<guid>https://developer.apple.com/news/?id=03302018a</guid>
-<description>The European Union’s upcoming General Data Protection Regulation (GDPR) may impact the way you currently let your users manage their data. Learn how to provide ways for your users to manage their data stored in iCloud, including the ability to temporarily deactivate or restrict access, delete, or get a copy of their data.Learn more</description>
-<pubDate>Fri, 30 Mar 2018 12:00:00 PDT</pubDate>
-<content:encoded><![CDATA[<p>The European Union’s upcoming General Data Protection Regulation (GDPR) may impact the way you currently let your users manage their data. Learn how to provide ways for your users to manage their data stored in iCloud, including the ability to temporarily deactivate or restrict access, delete, or get a copy of their data.</p><p><span class="nowrap"><a href="https://developer.apple.com/support/allowing-users-to-manage-data/" class="more">Learn more</a></span></p>]]></content:encoded>
-</item>
 
 </channel>
 </rss>
