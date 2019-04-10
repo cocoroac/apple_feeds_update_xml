@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 27 Mar 2019 16:00:00 PDT</lastBuildDate>
+<lastBuildDate>Wed, 10 Apr 2019 14:15:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>New Notarization Requirements</title>
+<link>https://developer.apple.com/news/?id=04102019a</link>
+<guid>https://developer.apple.com/news/?id=04102019a</guid>
+<description>We're working with developers to create a safer Mac user experience through a process where all software, whether distributed on the App Store or outside of it, is signed or notarized by Apple. With the public release of macOS 10.14.5, we require that all developers creating a Developer ID certificate for the first time notarize their apps, and that all new and updated kernel extensions be notarized as well. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.Learn how to get your software notarized</description>
+<pubDate>Wed, 10 Apr 2019 14:15:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We're working with developers to create a safer Mac user experience through a process where all software, whether distributed on the App Store or outside of it, is signed or notarized by Apple. With the public release of macOS 10.14.5, we require that all developers creating a Developer ID certificate for the first time notarize their apps, and that all new and updated kernel extensions be notarized as well. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.<p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn how to get your software notarized</a></span></p>]]></content:encoded>
+</item>
 <item>
 <title>Apple Search Ads Now Available in More Locations</title>
 <link>https://developer.apple.com/news/?id=03272019a</link>
