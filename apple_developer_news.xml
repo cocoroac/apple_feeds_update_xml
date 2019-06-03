@@ -6,10 +6,90 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 10 Apr 2019 14:15:00 PDT</lastBuildDate>
+<lastBuildDate>Mon, 03 Jun 2019 12:00:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>See What’s New on Apple Platforms</title>
+<link>https://developer.apple.com/news/?id=06032019a</link>
+<guid>https://developer.apple.com/news/?id=06032019a</guid>
+<description>Create seamless, intelligent, and engaging experiences with the Xcode 11 beta, which includes the SDKs for iOS 13, watchOS 6, tvOS 13, and macOS Catalina.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Create seamless, intelligent, and engaging experiences with the Xcode 11 beta, which includes the SDKs for iOS 13, watchOS 6, tvOS 13, and macOS Catalina.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>SwiftUI</title>
+<link>https://developer.apple.com/news/?id=06032019b</link>
+<guid>https://developer.apple.com/news/?id=06032019b</guid>
+<description>SwiftUI is an innovative new way to build user interfaces across all Apple platforms, so you can create better apps with less code. With a declarative Swift syntax that's easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>SwiftUI is an innovative new way to build user interfaces across all Apple platforms, so you can create better apps with less code. With a declarative Swift syntax that's easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/xcode/swiftui/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Bring Your iPad App to Mac</title>
+<link>https://developer.apple.com/news/?id=06032019c</link>
+<guid>https://developer.apple.com/news/?id=06032019c</guid>
+<description>Now it’s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code, so any changes you make translate to both platforms. And your newly created Mac app runs natively, utilizing the same frameworks, resources, and even runtime environment as apps built just for Mac.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now it’s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code, so any changes you make translate to both platforms. And your newly created Mac app runs natively, utilizing the same frameworks, resources, and even runtime environment as apps built just for Mac.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/ipad-apps-for-mac/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Sign In with Apple </title>
+<link>https://developer.apple.com/news/?id=06032019d</link>
+<guid>https://developer.apple.com/news/?id=06032019d</guid>
+<description>Now users can sign in to your apps and websites with their Apple ID, and can even use Face ID or Touch ID. With privacy and security features, Sign In with Apple is a great way to help your users set up an account and get started right away.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now users can sign in to your apps and websites with their Apple ID, and can even use Face ID or Touch ID. With privacy and security features, Sign In with Apple is a great way to help your users set up an account and get started right away.</p></p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/sign-in-with-apple/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Machine Learning</title>
+<link>https://developer.apple.com/news/?id=06032019e</link>
+<guid>https://developer.apple.com/news/?id=06032019e</guid>
+<description>Core ML 3 seamlessly uses the CPU, GPU, and Neural Engine to provide maximum performance and efficiency, and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build, train, and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Core ML 3 seamlessly uses the CPU, GPU, and Neural Engine to provide maximum performance and efficiency, and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build, train, and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/machine-learning/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Augmented Reality</title>
+<link>https://developer.apple.com/news/?id=06032019f</link>
+<guid>https://developer.apple.com/news/?id=06032019f</guid>
+<description>ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app, the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world, and much more. It's easy to prototype and produce AR experiences with Reality Composer — a powerful new app that lets you easily create AR experiences, and RealityKit — a new high-level augmented reality framework.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app, the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world, and much more. It's easy to prototype and produce AR experiences with Reality Composer — a powerful new app that lets you easily create AR experiences, and RealityKit — a new high-level augmented reality framework.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/augmented-reality/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Siri</title>
+<link>https://developer.apple.com/news/?id=06032019g</link>
+<guid>https://developer.apple.com/news/?id=06032019g</guid>
+<description>Use the latest advances in Siri to provide an interactive voice experience with follow-up questions, additional shortcut customization, and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in, provide directions in Maps, add the event to Calendar, and more. And with the Shortcuts app built in to iOS 13, it's even faster for users to find, use, and combine shortcuts.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Use the latest advances in Siri to provide an interactive voice experience with follow-up questions, additional shortcut customization, and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in, provide directions in Maps, add the event to Calendar, and more. And with the Shortcuts app built in to iOS 13, it's even faster for users to find, use, and combine shortcuts.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/siri/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Feedback Assistant </title>
+<link>https://developer.apple.com/news/?id=06032019h</link>
+<guid>https://developer.apple.com/news/?id=06032019h</guid>
+<description>You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac, which features automatic on-device diagnostics, remote bug filing, more detailed bug forms, and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac, which features automatic on-device diagnostics, remote bug filing, more detailed bug forms, and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/bug-reporting/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Notarization Requirement for Mac Software</title>
+<link>https://developer.apple.com/news/?id=06032019i</link>
+<guid>https://developer.apple.com/news/?id=06032019i</guid>
+<description>Mac apps, installer packages, and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on macOS Catalina. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.Learn more</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Mac apps, installer packages, and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on macOS Catalina. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn more</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Updates to the App Store Review Guidelines</title>
+<link>https://developer.apple.com/news/?id=06032019j</link>
+<guid>https://developer.apple.com/news/?id=06032019j</guid>
+<description>The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful, we sometimes need to update the App Store Review Guidelines.</description>
+<pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful, we sometimes need to update the App Store Review Guidelines.</p><p>Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps, unless otherwise indicated.</p><ul class="list"><li><strong>Guidelines 1.3 and 5.1.4.</strong> In order to help keep kids’ data private, apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3, 2019. </li><li><strong>Guideline 4.7.</strong> HTML5 games distributed in apps may not provide access to real money gaming, lotteries, or charitable donations, and may not support digital commerce. This functionality is only appropriate for code that’s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3, 2019. </li><li><strong>Guideline 5.4.</strong> Because VPN provides access to sensitive data, VPN apps may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy. Certain types of apps — such as those for parental control, content blocking, and security — from approved providers may use the NEVPNManager API.</li><li><strong>Guideline 5.5. (New)</strong> Because MDM provides access to sensitive data, MDM apps must request the mobile device management capability, and may only be offered by commercial enterprises, such as business organizations, educational institutions, or government agencies, and, in limited cases, companies utilizing MDM for parental controls. MDM apps may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy.</li><li><strong>Guideline 5.1.3(i).</strong> Apps may use a user’s health or fitness data to provide a benefit directly to that user, such as a reduced insurance premium, if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device. </li><li><strong>Guideline 5.1.1(vii) (New).</strong> Apps that compile information from any source that is not directly from the user or without the user’s explicit consent, even public databases, are not permitted on the App Store.</li><li><strong>Guideline 5.1.1(i).</strong> Apps must get consent for data collection, even if the data is considered anonymous at the time of or immediately following collection.</li><li><strong>Guideline 1.1.3.</strong> Apps may not facilitate purchase of ammunition.</li><li><strong>Guideline 4.2.7.</strong> Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.</li></ul><p>Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.</p><p>Sign In with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.</p>]]></content:encoded>
+</item>
 <item>
 <title>New Notarization Requirements</title>
 <link>https://developer.apple.com/news/?id=04102019a</link>
