@@ -6,10 +6,18 @@
 <link>https://developer.apple.com/news/</link>
 <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 03 Jun 2019 12:00:00 PDT</lastBuildDate>
+<lastBuildDate>Fri, 14 Jun 2019 14:25:00 PDT</lastBuildDate>
 <generator>Custom</generator>
 <copyright>Copyright 2019, Apple Inc.</copyright>
 
+<item>
+<title>Updated App Store Links</title>
+<link>https://developer.apple.com/news/?id=06142019a</link>
+<guid>https://developer.apple.com/news/?id=06142019a</guid>
+<description>Links generated for apps on the App Store now begin with apps.apple.com. Existing links that begin with itunes.apple.com will continue to work in their current form and will automatically redirect to the apps.apple.com domain.</description>
+<pubDate>Fri, 14 Jun 2019 14:25:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Links generated for apps on the App Store now begin with apps.apple.com. Existing links that begin with itunes.apple.com will continue to work in their current form and will automatically redirect to the apps.apple.com domain.</p>]]></content:encoded>
+</item>
 <item>
 <title>See What’s New on Apple Platforms</title>
 <link>https://developer.apple.com/news/?id=06032019a</link>
